@@ -1,0 +1,55 @@
+\documentclass[12pt]{report}
+
+% PACKAGE - WHY?
+\usepackage{amsmath}    % need for subequations
+\usepackage{graphicx}   % need for figures
+\usepackage{verbatim}   % useful for program listings
+\usepackage{color}      % use if color is used in text
+\usepackage{subfigure}  % use for side-by-side figures
+\usepackage{hyperref}   % use for hypertext links, including those to external documents and URLs
+\usepackage{fancyhdr}   % for image in header
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% IMMAGINI HEADER
+\thispagestyle{fancy}{
+\lhead{\includegraphics[width=4.5cm]{images/logoUnimi}}
+\rhead{\includegraphics[width=6.5cm]{images/logoPong}}
+}
+
+
+
+\begin{document}
+
+% logoTeam
+\begin{center}
+  \begin{figure}
+    \centering
+  \vspace*{5\baselineskip}
+  \includegraphics[width=10cm]{images/logoTeam}
+  \end{figure}
+
+  {\large \textbf{Game Title}} \\
+  \textbf{\textit{PONG - Game and Level Design}} \\
+  {\small Updated 31 October 2018} \\
+
+\begin{tabular}{lcr}\\\\
+\textbf{Francesco Periti}    & Francesco.Periti@studenti.unimi.it   & 930650\\
+\textbf{Francesco Principe}  & Francesco.Principe@studenti.unimi.it & 937622\\
+\textbf{Davide Valentini}    & Davide.Valentini@studenti.unimi.it   & XXX\\
+\textbf{Elena Copertchini}   & Elena.Coperchini@gmail.com &\\
+\end{tabular}
+
+\end{center}
+
+% CAPITOLO 1 - SINOSSI
+\input{Synopsis/Index}
+
+% CAPITOLO 1 - SINOSSI
+\input{GoalsOutline/Index}
+
+% CAPITOLO 1 - PERSONAGGI
+\input{Characters/Index}
+
+  
+
+\end{document}

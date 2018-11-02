@@ -1,0 +1,86 @@
+\documentclass[12pt, openany]{book}
+
+\usepackage{amsmath}    % need for subequations
+\usepackage{graphicx}   % need for figures
+\usepackage{verbatim}   % useful for program listings
+\usepackage{color}      % use if color is used in text
+\usepackage{subfigure}  % use for side-by-side figures
+\usepackage{hyperref}   % use for hypertext links, including those to external documents and URLs
+
+% don't need the following. simply use defaults
+\setlength{\baselineskip}{16.0pt}    % 16 pt usual spacing between lines
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+\setlength{\oddsidemargin}{0.5cm}
+\setlength{\evensidemargin}{0.5cm}
+\setlength{\marginparsep}{0.75cm}
+\setlength{\marginparwidth}{2.5cm}
+\setlength{\marginparpush}{1.0cm}
+\setlength{\textwidth}{150mm}
+
+% above is the preamble
+
+\begin{document}
+
+\chapter{Synopsis}
+
+Sophie is a brave and inexperienced young witch. She is in love with Howl, a powerful wizard, and they live in a moving castle with a magic door. \par
+Howl leaves to complete a mission for the king in the nearby kingdom of Strangia in order to stop the war. Weeks later, giving that the war is still going on, she gets worried and she starts looking for him. \par
+Using the magic door, she gets to the capital of Strangia along with her friend Calcifer, a fire demon. They don’t find Howl, but they save prince Justin, an old friend of their, who has been imprisoned by Mizar, his stepmother and the current ruler of Strangia. \par
+Mizar is a djinn and sha has been imprisoned Howl in the reign of spirits. In order to save him, Sophie and Calcifer ask another djinn for help to enter into the reign of spirits. \par
+They save Howl and they find a way to defeat her. \par
+Sophie, Calcifer and Howl face Mizar and they overcome her.
+
+\chapter{Goals outline}
+
+\section{Train in the castle}
+\begin{enumerate}
+\item talk to objects in the moving castle
+\item explore the moving castle
+\item learn how to sew magic hats
+\end{enumerate}
+
+\section{Find out what happened to Howl}
+\begin{enumerate}
+\item go to Kingsbury
+\item go see Suliman
+\item fight enemies
+\item go back to moving castle
+\end{enumerate}
+
+\section{Look for Howl}
+\begin{enumerate}
+\item go to the capital of Strangia
+\item talk with a beggar
+\item look for Justin
+\item free Justin
+\item go back to Suliman with Justin
+\end{enumerate}
+
+\section{Go to Belzel}
+\begin{enumerate}
+\item talk to Suliman
+\item go to the desert in the south of Ingary with the moving castle
+\item find Belzel’s home
+\item persuade Belzel to open a gate to the world of spirits
+\end{enumerate}
+
+\section{Free Howl}
+\begin{enumerate}
+\item enter the world of spirits
+\item defeat enemies and solve puzzles
+\item find Howl and save him
+\item go back to moving castle
+\end{enumerate}
+
+\section{Defeat Mizar}
+\begin{enumerate}
+\item use black sector with Howl to see Mizar’s past
+\item go to the hideout of Mizar’s heart
+\item go through the dungeon and reach Mizar’s heart
+\item defeat Mizar
+\item choose to kill Mizar or spare her
+\end{enumerate}
+
+
+\end{document}
