@@ -11,8 +11,7 @@ LDdocument.pdf
 DMdocument.pdf
 
 # script compilazione
-LDdocument.sh
-DMdocument.sh
+*.sh
 
 #file temporanei di salvataggi che mi crea ubuntu
 *~
