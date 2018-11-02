@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Circumplexes.svg">
+   sodipodi:docname="circumplexes.svg">
   <defs
      id="defs2">
     <marker
@@ -791,14 +791,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="1207.8018"
-     inkscape:cy="1739.9571"
+     inkscape:cx="2030.0427"
+     inkscape:cy="1598.7526"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="cm"
      inkscape:showpageshadow="true"
-     showborder="true"
+     showborder="false"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -823,7 +823,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -838,14 +838,16 @@
        id="path4788"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4790"
        d="m 907.08652,-1080.4851 v -809.7384"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -853,7 +855,8 @@
        y="-1903.2079"
        id="text6329"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6327"
          x="905.55316"
@@ -866,7 +869,8 @@
        y="-1039.2157"
        id="text6333"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6331"
          x="906.75433"
@@ -878,7 +882,8 @@
        y="-1471.1161"
        id="text6337"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6335"
          x="1365.647"
@@ -890,88 +895,97 @@
        y="-1471.1161"
        id="text6341"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6339"
          x="446.41647"
          y="-1471.1161">Hate</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker5779-2-9);marker-end:url(#marker5659-3);paint-order:normal"
-       d="M 2559.1996,-1485.3543 H 1749.4613"
+       d="M 3012.743,-1485.3542 H 2203.0047"
        id="path4788-4"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4790-1"
-       d="m 2154.3305,-1080.4851 v -809.7383"
+       d="m 2607.8739,-1080.485 v -809.7383"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart-5);marker-end:url(#Arrow1Mend-7);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2152.7976"
-       y="-1903.2079"
+       x="2606.3408"
+       y="-1903.2078"
        id="text6329-3"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6327-9"
-         x="2152.7976"
-         y="-1903.2079"
+         x="2606.3408"
+         y="-1903.2078"
          style="stroke:none">Dominant</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2153.9988"
-       y="-1039.2157"
+       x="2607.542"
+       y="-1039.2156"
        id="text6333-4"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6331-9"
-         x="2153.9988"
-         y="-1039.2157">Submissive</tspan></text>
+         x="2607.542"
+         y="-1039.2156">Submissive</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2612.8914"
-       y="-1471.1161"
+       x="3066.4346"
+       y="-1471.116"
        id="text6337-6"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6335-4"
-         x="2612.8914"
-         y="-1471.1161">Love</tspan></text>
+         x="3066.4346"
+         y="-1471.116">Love</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="1693.6606"
-       y="-1471.1161"
+       x="2147.2039"
+       y="-1471.116"
        id="text6341-8"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6339-1"
-         x="1693.6606"
-         y="-1471.1161">Hate</tspan></text>
+         x="2147.2039"
+         y="-1471.116">Hate</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker5779-2-3);marker-end:url(#marker5659-36);paint-order:normal"
        d="M 1311.9557,-464.88188 H 502.21736"
        id="path4788-6"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4790-0"
        d="M 907.08652,-60.012621 V -869.75098"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart-4);marker-end:url(#Arrow1Mend-0);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -979,7 +993,8 @@
        y="-882.73529"
        id="text6329-1"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6327-1"
          x="905.55316"
@@ -992,7 +1007,8 @@
        y="-18.743082"
        id="text6333-7"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6331-95"
          x="906.75433"
@@ -1004,7 +1020,8 @@
        y="-450.64343"
        id="text6337-5"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6335-0"
          x="1365.647"
@@ -1016,88 +1033,97 @@
        y="-450.64343"
        id="text6341-1"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6339-3"
          x="446.41647"
          y="-450.64343">Hate</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker5779-2-97);marker-end:url(#marker5659-8);paint-order:normal"
-       d="M 2559.1997,-464.88188 H 1749.4614"
+       d="M 3012.7431,-464.88186 H 2203.0048"
        id="path4788-8"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4790-6"
-       d="M 2154.3306,-60.012621 V -869.75098"
+       d="M 2607.874,-60.012613 V -869.75096"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart-8);marker-end:url(#Arrow1Mend-4);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2152.7976"
+       x="2606.3408"
        y="-882.73529"
        id="text6329-32"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6327-5"
-         x="2152.7976"
+         x="2606.3408"
          y="-882.73529"
          style="stroke:none">Dominant</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2153.9988"
-       y="-18.743082"
+       x="2607.542"
+       y="-18.743074"
        id="text6333-6"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6331-7"
-         x="2153.9988"
-         y="-18.743082">Submissive</tspan></text>
+         x="2607.542"
+         y="-18.743074">Submissive</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2612.8914"
-       y="-450.64343"
+       x="3066.4346"
+       y="-450.64346"
        id="text6337-4"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6335-8"
-         x="2612.8914"
-         y="-450.64343">Love</tspan></text>
+         x="3066.4346"
+         y="-450.64346">Love</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="1693.6606"
-       y="-450.64343"
+       x="2147.2039"
+       y="-450.64346"
        id="text6341-4"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6339-34"
-         x="1693.6606"
-         y="-450.64343">Hate</tspan></text>
+         x="2147.2039"
+         y="-450.64346">Hate</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker5779-2-3-7);marker-end:url(#marker5659-36-4);paint-order:normal"
        d="M 1311.9556,555.59045 H 502.21727"
        id="path4788-6-5"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4790-0-9"
        d="M 907.08642,960.45975 V 150.72135"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart-4-7);marker-end:url(#Arrow1Mend-0-1);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1105,7 +1131,8 @@
        y="137.73701"
        id="text6329-1-0"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6327-1-5"
          x="905.55304"
@@ -1118,7 +1145,8 @@
        y="1001.7292"
        id="text6333-7-2"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6331-95-7"
          x="906.75421"
@@ -1130,7 +1158,8 @@
        y="569.82886"
        id="text6337-5-5"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6335-0-4"
          x="1365.6469"
@@ -1142,61 +1171,62 @@
        y="569.82886"
        id="text6341-1-5"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan6339-3-6"
          x="446.41638"
          y="569.82886">Hate</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker5779-2-97-4);marker-end:url(#marker5659-8-9);paint-order:normal"
-       d="M 2559.1997,555.59045 H 1749.4614"
+       d="M 3012.7431,555.59047 H 2203.0048"
        id="path4788-8-4"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4790-6-7"
-       d="M 2154.3306,960.45975 V 150.72135"
+       d="M 2607.874,960.45977 V 150.72137"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart-8-3);marker-end:url(#Arrow1Mend-4-1);paint-order:normal" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2152.7974"
-       y="137.73701"
+       x="2606.3406"
+       y="137.73703"
        id="text6329-32-9"><tspan
          sodipodi:role="line"
          id="tspan6327-5-5"
-         x="2152.7974"
-         y="137.73701"
+         x="2606.3406"
+         y="137.73703"
          style="stroke:none">Dominant</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2153.9985"
+       x="2607.5417"
        y="1001.7292"
        id="text6333-6-8"><tspan
          sodipodi:role="line"
          id="tspan6331-7-7"
-         x="2153.9985"
+         x="2607.5417"
          y="1001.7292">Submissive</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="2612.8911"
+       x="3066.4343"
        y="569.82886"
        id="text6337-4-4"><tspan
          sodipodi:role="line"
          id="tspan6335-8-9"
-         x="2612.8911"
+         x="3066.4343"
          y="569.82886">Love</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="1693.6606"
+       x="2147.2039"
        y="569.82886"
        id="text6341-4-7"><tspan
          sodipodi:role="line"
          id="tspan6339-34-0"
-         x="1693.6606"
+         x="2147.2039"
          y="569.82886">Hate</tspan></text>
   </g>
   <g
@@ -1208,92 +1238,113 @@
     <circle
        style="display:inline;opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-9-3-7"
-       cx="2154.3306"
+       cx="2607.8738"
        cy="-805.03931"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <circle
        r="24.243662"
        cy="-691.6535"
-       cx="2267.7163"
+       cx="2721.2595"
        id="circle3750-5-6"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-64-1"
-       cx="2154.3306"
+       cx="2607.8738"
        cy="-578.2677"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="196.25903"
-       y="-1168.0995"
-       id="text4498"><tspan
+       x="196.25925"
+       y="-1772.8239"
+       id="text4498"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4496"
-         x="196.25903"
-         y="-1168.0995"
+         x="196.25925"
+         y="-1772.8239"
          style="font-size:40px;stroke-width:0">Howl</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="223.7395"
-       y="-1092.4113"
-       id="text4502"><tspan
+       x="223.73972"
+       y="-1697.1356"
+       id="text4502"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4500"
-         x="223.7395"
-         y="-1092.4113"
+         x="223.73972"
+         y="-1697.1356"
          style="font-size:40px;stroke-width:0">Calcifer</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="229.89185"
-       y="-941.32776"
-       id="text4506"><tspan
+       x="229.89206"
+       y="-1546.0521"
+       id="text4506"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4504"
-         x="229.89185"
-         y="-941.32776"
+         x="229.89206"
+         y="-1546.0521"
          style="font-size:40px;stroke-width:0">Suliman</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="200.6731"
-       y="-866.29382"
-       id="text4510"><tspan
+       x="200.67331"
+       y="-1471.0182"
+       id="text4510"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4508"
-         x="200.6731"
-         y="-866.29382"
+         x="200.67331"
+         y="-1471.0182"
          style="font-size:40px;stroke-width:0">Mizar</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="208.4856"
-       y="-1017.4749"
-       id="text4514"><tspan
+       x="208.48581"
+       y="-1622.1993"
+       id="text4514"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4512"
-         x="208.4856"
-         y="-1017.4749"
+         x="208.48581"
+         y="-1622.1993"
          style="font-size:40px;stroke-width:0">Justin</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="206.06372"
-       y="-790.09784"
-       id="text4545"><tspan
+       x="206.06393"
+       y="-1394.8223"
+       id="text4545"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4543"
-         x="206.06372"
-         y="-790.09784"
+         x="206.06393"
+         y="-1394.8223"
          style="font-size:40px;stroke-width:0">Belzel</tspan></text>
     <circle
        style="opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1302,13 +1353,17 @@
        cy="-1712.126"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-5"
-       cx="113.38562"
-       cy="-956.22034"
-       r="24.243662" />
+       cx="113.38583"
+       cy="-1560.9447"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-4"
@@ -1316,19 +1371,26 @@
        cy="-1825.5117"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-9"
-       cx="113.38562"
-       cy="-1182.9921"
-       r="24.243662" />
+       cx="113.38583"
+       cy="-1787.7164"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1"
-       cx="113.38562"
-       cy="-1107.4016"
-       r="24.243662" />
+       cx="113.38583"
+       cy="-1712.126"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-99"
@@ -1336,13 +1398,17 @@
        cy="-1485.3544"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-6"
-       cx="113.38562"
-       cy="-1031.811"
-       r="24.243662" />
+       cx="113.38583"
+       cy="-1636.5354"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-49-2"
@@ -1350,7 +1416,8 @@
        cy="-1371.9685"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-6-1"
@@ -1358,7 +1425,8 @@
        cy="-1258.5826"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-2"
@@ -1366,7 +1434,8 @@
        cy="-1485.3544"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-5"
@@ -1374,19 +1443,26 @@
        cy="-1258.5826"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-4"
-       cx="113.38562"
-       cy="-880.62976"
-       r="24.243662" />
+       cx="113.38583"
+       cy="-1485.3541"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-4-3"
-       cx="113.38562"
-       cy="-805.03918"
-       r="24.243662" />
+       cx="113.38583"
+       cy="-1409.7635"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6235);paint-order:normal"
        d="m 1020.4721,-1371.9684 h 208.3928"
@@ -1394,7 +1470,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend);paint-order:normal"
        d="m 566.92896,-1826.4935 v 322.7604"
@@ -1402,7 +1479,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1410,7 +1488,8 @@
        d="m 566.92896,-1825.5118 328.90748,550.9266"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-49"
@@ -1418,7 +1497,8 @@
        cy="-1371.9685"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98"
@@ -1426,24 +1506,31 @@
        cy="-1825.5118"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <text
        id="text3748"
-       y="-1247.4108"
-       x="216.845"
+       y="-1852.1351"
+       x="216.84521"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          style="font-size:40px;stroke-width:0"
-         y="-1247.4108"
-         x="216.845"
+         y="-1852.1351"
+         x="216.84521"
          id="tspan3746"
          sodipodi:role="line">Sophie</tspan></text>
     <circle
        r="24.243662"
-       cy="-1258.5826"
-       cx="113.38562"
+       cy="-1863.307"
+       cx="113.38583"
        id="circle3750"
-       style="opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        r="37.795258"
        cy="-1485.3544"
@@ -1451,15 +1538,17 @@
        id="circle3750-4"
        style="opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-9-2"
-       cx="2154.3308"
-       cy="-1485.3544"
+       cx="2607.874"
+       cy="-1485.3542"
        r="37.795277"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-4"
@@ -1467,7 +1556,8 @@
        cy="-464.88171"
        r="37.7953"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        r="24.243662"
        cy="-691.6535"
@@ -1475,7 +1565,8 @@
        id="circle3750-6"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-9-1"
@@ -1483,7 +1574,8 @@
        cy="-691.6535"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6235-6);paint-order:normal"
        d="m 1020.4722,-578.26765 180.4755,-99.74878"
@@ -1491,7 +1583,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        r="24.243662"
        cy="-578.26758"
@@ -1499,7 +1592,8 @@
        id="circle3750-3"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-6-4"
@@ -1507,7 +1601,8 @@
        cy="-124.72429"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-4-8"
@@ -1515,7 +1610,8 @@
        cy="-578.26746"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-4-3"
@@ -1523,7 +1619,8 @@
        cy="-351.49585"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4);paint-order:normal"
        d="m 566.92896,-805.03925 1e-5,202.5281"
@@ -1531,7 +1628,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1539,7 +1637,8 @@
        d="m 566.92896,-804.05755 328.90747,437.5408"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-4-4"
@@ -1547,7 +1646,8 @@
        cy="-805.03918"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-4-3-2"
@@ -1555,7 +1655,8 @@
        cy="-578.26758"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-5-8"
@@ -1563,232 +1664,260 @@
        cy="-805.03918"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
     <circle
        r="24.243662"
-       cy="-1598.7401"
-       cx="2494.4883"
+       cy="-1598.74"
+       cx="2948.0315"
        id="circle3750-3-2"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-7);paint-order:normal"
-       d="m 2494.4879,-1485.3542 v -89.1422"
+       d="m 2948.0313,-1485.3541 v -89.1422"
        id="path4792-8-4-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        r="24.243662"
-       cy="-1485.3544"
-       cx="2494.4883"
+       cy="-1485.3542"
+       cx="2948.0315"
        id="circle3750-3-5"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-1"
-       cx="2494.4883"
-       cy="-1258.5828"
+       cx="2948.0315"
+       cy="-1258.5826"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-6-17"
-       cx="2381.1023"
-       cy="-1145.1969"
+       cx="2834.6455"
+       cy="-1145.1968"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-5-3"
-       cx="2040.9446"
-       cy="-1598.7401"
+       cx="2494.4878"
+       cy="-1598.74"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-2-8"
-       cx="1814.173"
-       cy="-1145.1969"
+       cx="2267.7163"
+       cy="-1145.1968"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-5-2"
-       cx="2154.3308"
-       cy="-1258.5826"
+       cx="2607.874"
+       cy="-1258.5825"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-49);paint-order:normal"
-       d="m 1814.1729,-1712.1259 v 548.5504"
+       d="m 2267.7163,-1712.1258 v 548.5504"
        id="path4792-8-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5419-93"
-       d="m 1814.1729,-1711.1442 328.9075,436.5591"
+       d="m 2267.7163,-1711.1441 328.9075,436.5591"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-7);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-44"
-       cx="1814.173"
-       cy="-1712.126"
+       cx="2267.7163"
+       cy="-1712.1259"
        r="18.378777"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-98-4-83"
-       cx="2154.3306"
-       cy="-464.88171"
+       cx="2607.8738"
+       cy="-464.88174"
        r="37.795406"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <circle
        r="24.243662"
-       cy="-124.72442"
-       cx="1903.3153"
+       cy="-124.72441"
+       cx="2356.8586"
        id="circle3750-5"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-9-3"
-       cx="1927.559"
-       cy="-238.11021"
+       cx="2381.1023"
+       cy="-238.1102"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-64"
-       cx="1951.8026"
-       cy="-124.72442"
+       cx="2405.3459"
+       cy="-124.72441"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-6-0"
-       cx="2040.9448"
-       cy="-124.72442"
+       cx="2494.488"
+       cy="-124.72441"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-5-6"
-       cx="1814.1731"
-       cy="-351.49603"
+       cx="2267.7163"
+       cy="-351.49606"
        r="24.243662"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-1);paint-order:normal"
-       d="M 1927.5589,-238.11021 1814.173,-464.88188"
+       d="M 2381.1023,-238.11019 2267.7164,-464.88186"
        id="path4792-8-4-82"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-1-4);paint-order:normal"
-       d="M 1903.3152,-124.7244 1789.9293,-351.49605"
+       d="M 2356.8586,-124.72438 2243.4727,-351.49603"
        id="path4792-8-4-82-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-1-9);paint-order:normal"
-       d="M 1951.8025,-124.7244 1838.4166,-351.49605"
+       d="M 2405.3459,-124.72438 2291.96,-351.49603"
        id="path4792-8-4-82-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999997, 11.99999996;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-1-5);paint-order:normal"
-       d="m 1929.0451,-238.05857 216.714,-541.9808"
+       d="m 2382.5885,-238.05855 216.714,-541.9808"
        id="path4792-8-4-82-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999997, 11.99999996;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-1-5-3-2);paint-order:normal"
-       d="m 1951.8025,-124.7244 190.7423,-429.61474"
+       d="m 2405.3459,-124.72438 190.7423,-429.61474"
        id="path4792-8-4-82-6-8-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999997, 11.99999996;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-1-5-3-2-7);paint-order:normal"
-       d="m 1903.3152,-124.7244 352.2583,-545.50057"
+       d="m 2356.8586,-124.72438 352.2583,-545.50057"
        id="path4792-8-4-82-6-8-9-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-8);paint-order:normal"
-       d="M 113.38563,-540.47243 H 226.77146"
+       d="M 113.38584,-1145.1969 H 226.77167"
        id="path4792-8-4-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5419-9-7"
-       d="M 113.38563,-653.85826 H 226.77146"
+       d="M 113.38584,-1258.5827 H 226.77167"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8-3);paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="229.83095"
-       y="-680.87225"
+       x="229.83116"
+       y="-1285.5967"
        id="text4545-1"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan4543-9"
-         x="229.83095"
-         y="-680.87225"
+         x="229.83116"
+         y="-1285.5967"
          style="font-size:40px;stroke-width:0">Spare Mizar</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="199.96767"
-       y="-563.37512"
+       x="199.96788"
+       y="-1168.0995"
        id="text4545-1-2"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\sophieCircumplex.png"><tspan
          sodipodi:role="line"
          id="tspan4543-9-1"
-         x="199.96767"
-         y="-563.37512"
+         x="199.96788"
+         y="-1168.0995"
          style="font-size:40px;stroke-width:0">Kill Mizar</tspan></text>
     <circle
        style="display:inline;opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1797,7 +1926,8 @@
        cy="555.59082"
        r="37.795486"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png" />
     <circle
        r="24.243662"
        cy="782.3623"
@@ -1805,7 +1935,8 @@
        id="circle3750-38"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png" />
     <circle
        style="display:inline;opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-5"
@@ -1813,6 +1944,996 @@
        cy="782.3623"
        r="24.243662"
        inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png" />
+    <text
+       id="text256"
+       y="-752.35144"
+       x="196.25925"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-752.35144"
+         x="196.25925"
+         id="tspan254"
+         sodipodi:role="line">Howl</tspan></text>
+    <text
+       id="text260"
+       y="-676.66321"
+       x="223.73972"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-676.66321"
+         x="223.73972"
+         id="tspan258"
+         sodipodi:role="line">Calcifer</tspan></text>
+    <text
+       id="text264"
+       y="-525.57971"
+       x="229.89206"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-525.57971"
+         x="229.89206"
+         id="tspan262"
+         sodipodi:role="line">Suliman</tspan></text>
+    <text
+       id="text268"
+       y="-450.54581"
+       x="200.67331"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-450.54581"
+         x="200.67331"
+         id="tspan266"
+         sodipodi:role="line">Mizar</tspan></text>
+    <text
+       id="text272"
+       y="-601.72693"
+       x="208.48581"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-601.72693"
+         x="208.48581"
+         id="tspan270"
+         sodipodi:role="line">Justin</tspan></text>
+    <text
+       id="text276"
+       y="-374.34988"
+       x="206.06393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-374.34988"
+         x="206.06393"
+         id="tspan274"
+         sodipodi:role="line">Belzel</tspan></text>
+    <circle
+       r="24.243662"
+       cy="-540.47229"
+       cx="113.38583"
+       id="circle278"
+       style="opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-767.24402"
+       cx="113.38583"
+       id="circle280"
+       style="opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-691.65356"
+       cx="113.38583"
+       id="circle282"
+       style="opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-616.06299"
+       cx="113.38583"
+       id="circle284"
+       style="opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-464.88174"
+       cx="113.38583"
+       id="circle286"
+       style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-389.29117"
+       cx="113.38583"
+       id="circle288"
+       style="opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="216.84521"
+       y="-831.66272"
+       id="text292"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan290"
+         x="216.84521"
+         y="-831.66272"
+         style="font-size:40px;stroke-width:0">Sophie</tspan></text>
+    <circle
+       style="opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle294"
+       cx="113.38583"
+       cy="-842.83459"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path296"
+       d="M 113.38583,-124.72452 H 226.77166"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-8);paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8-3);paint-order:normal"
+       d="M 113.38583,-238.11032 H 226.77166"
+       id="path298"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text302"
+       y="-265.1243"
+       x="229.83116"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-265.1243"
+         x="229.83116"
+         id="tspan300"
+         sodipodi:role="line">Spare Mizar</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text306"
+       y="-147.62712"
+       x="199.96788"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\calciferCircumplex.png"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-147.62712"
+         x="199.96788"
+         id="tspan304"
+         sodipodi:role="line">Kill Mizar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="196.25925"
+       y="268.121"
+       id="text314"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan312"
+         x="196.25925"
+         y="268.121"
+         style="font-size:40px;stroke-width:0">Howl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="223.73972"
+       y="343.80923"
+       id="text318"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan316"
+         x="223.73972"
+         y="343.80923"
+         style="font-size:40px;stroke-width:0">Calcifer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="229.89206"
+       y="494.89273"
+       id="text322"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan320"
+         x="229.89206"
+         y="494.89273"
+         style="font-size:40px;stroke-width:0">Suliman</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="200.67331"
+       y="569.92664"
+       id="text326"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan324"
+         x="200.67331"
+         y="569.92664"
+         style="font-size:40px;stroke-width:0">Mizar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="208.48581"
+       y="418.74551"
+       id="text330"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan328"
+         x="208.48581"
+         y="418.74551"
+         style="font-size:40px;stroke-width:0">Justin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="206.06393"
+       y="646.12256"
+       id="text334"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan332"
+         x="206.06393"
+         y="646.12256"
+         style="font-size:40px;stroke-width:0">Belzel</tspan></text>
+    <circle
+       style="opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle336"
+       cx="113.38583"
+       cy="480.00015"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle338"
+       cx="113.38583"
+       cy="253.22841"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle340"
+       cx="113.38583"
+       cy="328.81888"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle342"
+       cx="113.38583"
+       cy="404.40945"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle344"
+       cx="113.38583"
+       cy="555.5907"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle346"
+       cx="113.38583"
+       cy="631.18127"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       id="text350"
+       y="188.80972"
+       x="216.84521"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="188.80972"
+         x="216.84521"
+         id="tspan348"
+         sodipodi:role="line">Sophie</tspan></text>
+    <circle
+       r="24.243662"
+       cy="177.63785"
+       cx="113.38583"
+       id="circle352"
+       style="opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-8);paint-order:normal"
+       d="M 113.38582,895.74792 H 226.77165"
+       id="path354"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path356"
+       d="M 113.38582,782.36212 H 226.77165"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8-3);paint-order:normal"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="229.83116"
+       y="755.34814"
+       id="text360"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"><tspan
+         sodipodi:role="line"
+         id="tspan358"
+         x="229.83116"
+         y="755.34814"
+         style="font-size:40px;stroke-width:0">Spare Mizar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="199.96788"
+       y="872.84528"
+       id="text364"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\belzelCircumplex.png"><tspan
+         sodipodi:role="line"
+         id="tspan362"
+         x="199.96788"
+         y="872.84528"
+         style="font-size:40px;stroke-width:0">Kill Mizar</tspan></text>
+    <text
+       id="text372"
+       y="-1772.8239"
+       x="1897.0466"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-1772.8239"
+         x="1897.0466"
+         id="tspan370"
+         sodipodi:role="line">Howl</tspan></text>
+    <text
+       id="text376"
+       y="-1697.1356"
+       x="1924.5271"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-1697.1356"
+         x="1924.5271"
+         id="tspan374"
+         sodipodi:role="line">Calcifer</tspan></text>
+    <text
+       id="text380"
+       y="-1546.0521"
+       x="1930.6794"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-1546.0521"
+         x="1930.6794"
+         id="tspan378"
+         sodipodi:role="line">Suliman</tspan></text>
+    <text
+       id="text384"
+       y="-1471.0182"
+       x="1901.4607"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-1471.0182"
+         x="1901.4607"
+         id="tspan382"
+         sodipodi:role="line">Mizar</tspan></text>
+    <text
+       id="text388"
+       y="-1622.1993"
+       x="1909.2732"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-1622.1993"
+         x="1909.2732"
+         id="tspan386"
+         sodipodi:role="line">Justin</tspan></text>
+    <text
+       id="text392"
+       y="-1394.8223"
+       x="1906.8513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-1394.8223"
+         x="1906.8513"
+         id="tspan390"
+         sodipodi:role="line">Belzel</tspan></text>
+    <circle
+       r="24.243662"
+       cy="-1560.9447"
+       cx="1814.1732"
+       id="circle394"
+       style="opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-1787.7164"
+       cx="1814.1732"
+       id="circle396"
+       style="opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-1712.126"
+       cx="1814.1732"
+       id="circle398"
+       style="opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-1636.5354"
+       cx="1814.1732"
+       id="circle400"
+       style="opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-1485.3541"
+       cx="1814.1732"
+       id="circle402"
+       style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="24.243662"
+       cy="-1409.7635"
+       cx="1814.1732"
+       id="circle404"
+       style="opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1917.6326"
+       y="-1852.1351"
+       id="text408"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan406"
+         x="1917.6326"
+         y="-1852.1351"
+         style="font-size:40px;stroke-width:0">Sophie</tspan></text>
+    <circle
+       style="opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle410"
+       cx="1814.1732"
+       cy="-1863.307"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path412"
+       d="m 1814.1733,-1145.1969 h 113.3858"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-8);paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8-3);paint-order:normal"
+       d="m 1814.1733,-1258.5827 h 113.3858"
+       id="path414"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text418"
+       y="-1285.5967"
+       x="1930.6185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-1285.5967"
+         x="1930.6185"
+         id="tspan416"
+         sodipodi:role="line">Spare Mizar</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text422"
+       y="-1168.0995"
+       x="1900.7552"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\howlCircumplex.png"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-1168.0995"
+         x="1900.7552"
+         id="tspan420"
+         sodipodi:role="line">Kill Mizar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1897.0466"
+       y="-752.3515"
+       id="text426"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan424"
+         x="1897.0466"
+         y="-752.3515"
+         style="font-size:40px;stroke-width:0">Howl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1924.5271"
+       y="-676.66327"
+       id="text430"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan428"
+         x="1924.5271"
+         y="-676.66327"
+         style="font-size:40px;stroke-width:0">Calcifer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1930.6794"
+       y="-525.57977"
+       id="text434"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan432"
+         x="1930.6794"
+         y="-525.57977"
+         style="font-size:40px;stroke-width:0">Suliman</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1901.4607"
+       y="-450.54587"
+       id="text438"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan436"
+         x="1901.4607"
+         y="-450.54587"
+         style="font-size:40px;stroke-width:0">Mizar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1909.2732"
+       y="-601.72699"
+       id="text442"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan440"
+         x="1909.2732"
+         y="-601.72699"
+         style="font-size:40px;stroke-width:0">Justin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1906.8513"
+       y="-374.34995"
+       id="text446"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan444"
+         x="1906.8513"
+         y="-374.34995"
+         style="font-size:40px;stroke-width:0">Belzel</tspan></text>
+    <circle
+       style="opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle448"
+       cx="1814.1732"
+       cy="-540.47235"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle450"
+       cx="1814.1732"
+       cy="-767.24408"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle452"
+       cx="1814.1732"
+       cy="-691.65363"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle454"
+       cx="1814.1732"
+       cy="-616.06305"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle456"
+       cx="1814.1732"
+       cy="-464.88181"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle458"
+       cx="1814.1732"
+       cy="-389.29123"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       id="text462"
+       y="-831.66278"
+       x="1917.6326"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="-831.66278"
+         x="1917.6326"
+         id="tspan460"
+         sodipodi:role="line">Sophie</tspan></text>
+    <circle
+       r="24.243662"
+       cy="-842.83466"
+       cx="1814.1732"
+       id="circle464"
+       style="opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-8);paint-order:normal"
+       d="m 1814.1733,-124.72457 h 113.3858"
+       id="path466"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path468"
+       d="m 1814.1733,-238.11037 h 113.3858"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8-3);paint-order:normal"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1930.6185"
+       y="-265.12436"
+       id="text472"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"><tspan
+         sodipodi:role="line"
+         id="tspan470"
+         x="1930.6185"
+         y="-265.12436"
+         style="font-size:40px;stroke-width:0">Spare Mizar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1900.7552"
+       y="-147.62717"
+       id="text476"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\teamdellelande\Documents\Images\Circumplexes\mizarCircumplex.png"><tspan
+         sodipodi:role="line"
+         id="tspan474"
+         x="1900.7552"
+         y="-147.62717"
+         style="font-size:40px;stroke-width:0">Kill Mizar</tspan></text>
+    <text
+       id="text480"
+       y="268.12094"
+       x="1897.0466"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="268.12094"
+         x="1897.0466"
+         id="tspan478"
+         sodipodi:role="line">Howl</tspan></text>
+    <text
+       id="text484"
+       y="343.80917"
+       x="1924.5271"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="343.80917"
+         x="1924.5271"
+         id="tspan482"
+         sodipodi:role="line">Calcifer</tspan></text>
+    <text
+       id="text488"
+       y="494.89267"
+       x="1930.6794"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="494.89267"
+         x="1930.6794"
+         id="tspan486"
+         sodipodi:role="line">Suliman</tspan></text>
+    <text
+       id="text492"
+       y="569.92657"
+       x="1901.4607"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="569.92657"
+         x="1901.4607"
+         id="tspan490"
+         sodipodi:role="line">Mizar</tspan></text>
+    <text
+       id="text496"
+       y="418.74545"
+       x="1909.2732"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="418.74545"
+         x="1909.2732"
+         id="tspan494"
+         sodipodi:role="line">Justin</tspan></text>
+    <text
+       id="text500"
+       y="646.1225"
+       x="1906.8513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="646.1225"
+         x="1906.8513"
+         id="tspan498"
+         sodipodi:role="line">Belzel</tspan></text>
+    <circle
+       r="24.243662"
+       cy="480.00009"
+       cx="1814.1732"
+       id="circle502"
+       style="opacity:1;fill:#6d00ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <circle
+       r="24.243662"
+       cy="253.22836"
+       cx="1814.1732"
+       id="circle504"
+       style="opacity:1;fill:#ffc700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <circle
+       r="24.243662"
+       cy="328.81882"
+       cx="1814.1732"
+       id="circle506"
+       style="opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <circle
+       r="24.243662"
+       cy="404.40939"
+       cx="1814.1732"
+       id="circle508"
+       style="opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <circle
+       r="24.243662"
+       cy="555.59064"
+       cx="1814.1732"
+       id="circle510"
+       style="opacity:1;fill:#342929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <circle
+       r="24.243662"
+       cy="631.18121"
+       cx="1814.1732"
+       id="circle512"
+       style="opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1917.6326"
+       y="188.80968"
+       id="text516"><tspan
+         sodipodi:role="line"
+         id="tspan514"
+         x="1917.6326"
+         y="188.80968"
+         style="font-size:40px;stroke-width:0">Sophie</tspan></text>
+    <circle
+       style="opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle518"
+       cx="1814.1732"
+       cy="177.6378"
+       r="24.243662" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path520"
+       d="m 1814.1732,895.74787 h 113.3859"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-8);paint-order:normal" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8-3);paint-order:normal"
+       d="m 1814.1732,782.36207 h 113.3859"
+       id="path522"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text526"
+       y="755.34808"
+       x="1930.6185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="755.34808"
+         x="1930.6185"
+         id="tspan524"
+         sodipodi:role="line">Spare Mizar</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text530"
+       y="872.84521"
+       x="1900.7552"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-size:40px;stroke-width:0"
+         y="872.84521"
+         x="1900.7552"
+         id="tspan528"
+         sodipodi:role="line">Kill Mizar</tspan></text>
   </g>
 </svg>
