@@ -7,3 +7,12 @@ Characters.pdf
 Characters.aux
 Characters.toc
 Characters.log
+LDdocument.pdf
+DMdocument.pdf
+
+# script compilazione
+LDdocument.sh
+DMdocument.sh
+
+#file temporanei di salvataggi che mi crea ubuntu
+*~
