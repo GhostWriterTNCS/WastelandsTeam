@@ -1,6 +1,6 @@
 \documentclass[12pt]{article}
 
-% PACKAGE - WHY?
+% PACKAGES
 \usepackage{amsmath}              % need for subequations
 \usepackage{graphicx}             % need for figures
 \usepackage{verbatim}             % useful for program listings
@@ -9,6 +9,7 @@
 \usepackage{hyperref}             % use for hypertext links, including those to external documents and URLs
 \usepackage{fancyhdr}             % for image in header    
 \usepackage[table,xcdraw]{xcolor} % for color in cell
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % IMMAGINI HEADER
@@ -48,7 +49,7 @@
     \cellcolor{gray}\textbf{Purpose} &  Define rules for files and directories \\\hline
     \cellcolor{gray}\textbf{Creation date} & 2/11/2018 \\\hline
     \cellcolor{gray}\textbf{Current owner} & Francesco Periti \\\hline
-    \cellcolor{gray}\textbf{Last modification} & 2/11/2018\\   \hline
+    \cellcolor{gray}\textbf{Last modification} & 2/11/2018 \\\hline
   \end{tabular}
 \end{table}
 
@@ -66,6 +67,8 @@
 \end{table}
 
 \end{center}
+
+\clearpage
 
 \section{Software List}
 Put here a list of the software you are going to use. Versions are required and do not underestimate OSs version.
@@ -89,14 +92,18 @@ This is very dependent from the previous section. Based on the tool you use ther
 You should have one subsection for every category of data you need to manage. 
 
 \subsection{Text}
-In order to have elegant and tidy files, you have to work with LaTeX files. \\
+In order to have elegant and tidy files, you have to work with LaTeX files.
+
 Every LaTeX files has 100\% compatibility with any other LaTeX file.
 
 \subsection{Images}
-Each logo-images has to be png-format. \\
-tif, png, svg \\
-jpeg, jpg, bmp, gif for refence pictures \\
-Size defined according to image category (texture, portrait, input button…)
+\textbf{Formats available for assets}: tif, png, svg.
+
+\textbf{Formats available for documentation}: png.
+
+\textbf{Formats available for reference images}: assets-available formats, jpeg, jpg, bmp, gif.
+
+Size is defined according to image category (texture, portrait, input button…)
 
 \subsection{Video}
 mkv
@@ -105,19 +112,22 @@ mkv
 Sampling rate:
 
 \subsection{3D Models}
-Maximum number of triangles: \\
+Maximum number of triangles:
+
 Scale: 
 
 \subsection{etc etc}
-
 For each category, you must set a policy about encoding parameters.
+
 Encoding parameters depend on the data type. For text, stating “microsoft doc” can do (then you have to see the previous section to understand which version of office to use). For video, you must set resolution, encoder, and encapsulation format at least. About resolution, you are not strictly required to set just one, you may have multiple based on the purpose of the image/video.
+
 You can also set rules about binary size or content, it is all up to you.
 
 DO NOT waste your time setting policies for data types you are not using. You can add them later, when introduced in the project.
 
 \section{Data Storage and Access}
 Where the data (shared among the team) is stored and who is in charge to manage it.
+
 Put here all the required information to access the data. A new team member should be able to start working just starting from this document.
 
 \subsection{Backup}
