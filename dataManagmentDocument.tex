@@ -13,8 +13,8 @@
 
 % IMMAGINI HEADER
 \thispagestyle{fancy}{
-\lhead{\includegraphics[width=4.5cm]{Documents/Images/logoUnimi}}
-\rhead{\includegraphics[width=6.5cm]{Documents/Images/logoPong}}
+  \lhead{\includegraphics[width=4.5cm]{Documents/Images/logoUnimi}}
+  \rhead{\includegraphics[width=6.5cm]{Documents/Images/logoPong}}
 }
 
 
@@ -35,16 +35,15 @@
 
   \begin{tabular}{lcr}\\\\
     %\centering
-\textbf{Francesco Periti}    & Francesco.Periti@studenti.unimi.it   & 930650\\
-\textbf{Francesco Principe}  & Francesco.Principe@studenti.unimi.it & 937622\\
-\textbf{Davide Valentini}    & Davide.Valentini@studenti.unimi.it   & XXX\\
-\textbf{Elena Coperchini}   & Elena.Coperchini@gmail.com &\\
-\end{tabular}
+    \textbf{Francesco Periti}	& francesco.periti@studenti.unimi.it	& 930650 \\
+    \textbf{Francesco Principe}	& francesco.principe@studenti.unimi.it	& 937622 \\
+    \textbf{Davide Valentini}	& davide.valentini@studenti.unimi.it	& XXX \\
+    \textbf{Elena Coperchini}	& elena.coperchini@gmail.com			& \\
+  \end{tabular}
 
 
 % TABELLA 1
-  \begin{table}[]
-    
+\begin{table}[] 
   \begin{tabular}{|l|l||}
     \hline
     \cellcolor{gray}\textbf{Purpose} &  Define rules for files and directories \\\hline
@@ -73,35 +72,43 @@
 Put here a list of the software you are going to use. Versions are required and do not underestimate OSs version.
 Once this list is public every member is committed to use it.
 Whatever is not listed here can is supposed to be free for everyone to choose (recipe for disaster).
+
 \subsection{Asset Editing Software}
 Blender, Photoshop CC 2018, Maya
+
 \subsection{Development Software}
 NWN Toolset, GIT
+
 \subsection{Organization Software}
 Office 2016, LaTeX
+
 \subsection{Environments}
 Windows 10
+
 \section{Data Types and Format}
 This is very dependent from the previous section. Based on the tool you use there are preferred format. It is also true the opposite: can start from here to decide the software list.
 You should have one subsection for every category of data you need to manage. 
 
 \subsection{Text}
-In oreder to have elegant and tidy files, you have to work with \latex files.
-\\Every LaTeX files has 100\% compatibility with any other LaTeX file.
+In order to have elegant and tidy files, you have to work with LaTeX files. \\
+Every LaTeX files has 100\% compatibility with any other LaTeX file.
 
 \subsection{Images}
-Each logo-images has to be png-format.
-
-tif, png, svg
-jpeg, jpg, bmp, gif for refence pictures
+Each logo-images has to be png-format. \\
+tif, png, svg \\
+jpeg, jpg, bmp, gif for refence pictures \\
 Size defined according to image category (texture, portrait, input button…)
+
 \subsection{Video}
 mkv
+
 \subsection{Audio}
 Sampling rate:
+
 \subsection{3D Models}
-Maximum number of triangles: 
+Maximum number of triangles: \\
 Scale: 
+
 \subsection{etc etc}
 
 For each category, you must set a policy about encoding parameters.
@@ -109,34 +116,32 @@ Encoding parameters depend on the data type. For text, stating “microsoft doc�
 You can also set rules about binary size or content, it is all up to you.
 
 DO NOT waste your time setting policies for data types you are not using. You can add them later, when introduced in the project.
+
 \section{Data Storage and Access}
 Where the data (shared among the team) is stored and who is in charge to manage it.
 Put here all the required information to access the data. A new team member should be able to start working just starting from this document.
+
 \subsection{Backup}
 How you do it and Who is in charge to perform it.
+
 \section{Directory Structure}
 In order to develop a ordered project the following structure has been estabilished:
 \begin{itemize}
 \item \textbf{Documents} : inside this directory there is each file that composes the current level design document and all the images.
   \begin{itemize}
-  \item levelDesignDocument.tex : this is the current level-design-document file. It contains many references to the LaTeX files that compose it.
+    \item \textbf{levelDesignDocument.tex}: this is the current level-design-document file. It contains many references to the LaTeX files that compose it.
+    
     \item \textbf{Characters}: this directory contains everythings about characters.
-      \begin{itemize}
-      \end{itemize}
       
     \item \textbf{Images}: this directory contains every useful images for the project.
-      \begin{itemize}
-      \end{itemize}
       
     \item \textbf{GoalsOutline}:
-      \begin{itemize}
-      \end{itemize}
-      \item \textbf{Synopsis}
-      \end{itemize}
-    \item dataManagmentDocument.tex: this is the current data-managment-document file. It learns you everythings about the project.
-  \end{itemeize}
-  
     
+    \item \textbf{Synopsis}
+  \end{itemize}
+  \item \textbf{dataManagmentDocument.tex}: this is the current data-managment-document file. It learns you everythings about the project.
+\end{itemize}
+
 Devise a directory tree (or rules to create a directory tree) in a way that each file can be located in only one location.
 This part is not trivial, at all.
 No tree is perfect (once again, it depends on the project). Better give also rules about how to walk the tree.
@@ -150,15 +155,13 @@ During the project development has to be respected the following conventions:
   \item the name of each directory and each file has to be significant;
   \item the name of each file has to begin with a lowercase character and has to go on with any amount of lowercase character. Each time you want to separate two words within a file name, you have not to add a blanckspace between them but you have to make the first character of the second word uppercase.
   \item the name of each file has to begin with a uppercase character and has to go on with any amount of lowercase character. Each time you want to separate two words within a directory name, you have not to add a blanckspace between them but you have to make the first character of the second word uppercase.
-  \end{enumerate}
+\end{enumerate}
 
 
 Provide rules name every kind of file (see also Sec. 3).
 It is a good option to provide labels for encoding (or size in case of pictures) but also labels for their function inside the project (e.g., to distinguish tile textures from mesh skins).
 
 TIP. You can use keywords (providing a conversion table) to avoid extremely long names.
-
-
 
 
 
