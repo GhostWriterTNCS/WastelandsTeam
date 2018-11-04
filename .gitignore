@@ -11,6 +11,6 @@ build/
 # script compilazione
 *.sh
 
-#file temporanei di salvataggi che mi crea ubuntu
+# file temporanei di ubuntu
 *~
 [#]*[#]
