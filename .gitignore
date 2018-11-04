@@ -2,13 +2,11 @@
 build/
 
 # LaTex generated files
-Characters.out
-Characters.pdf
-Characters.aux
-Characters.toc
-Characters.log
-LDdocument.pdf
-DMdocument.pdf
+*.out
+*.aux
+*.toc
+*.log
+*.pdf
 
 # script compilazione
 *.sh
