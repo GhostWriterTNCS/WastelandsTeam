@@ -1,6 +1,11 @@
 \documentclass[12pt]{article}
 
 % PACKAGES
+\usepackage[a4paper,bindingoffset=0in,
+            left=1in,right=1in,top=1in,bottom=1.5in,
+            footskip=.5in]{geometry}
+\usepackage{lastpage}
+\usepackage[ddmmyyyy]{datetime}
 \usepackage{amsmath}              % need for subequations
 \usepackage{graphicx}             % need for figures
 \usepackage{verbatim}             % useful for program listings
@@ -14,15 +19,17 @@
 
 \setlength{\parindent}{0pt}
 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% IMMAGINI HEADER
-\thispagestyle{fancy}{
-  \lhead{\includegraphics[width=4.5cm]{Documents/Images/logoUnimi}}
-  \rhead{\includegraphics[width=6.5cm]{Documents/Images/logoPong}}
+% HEADER and FOOTER
+\pagestyle{fancy}{
+\lhead{\includegraphics[width=4.5cm]{Documents/Images/logoUnimi}}
+\rhead{\includegraphics[width=6.5cm]{Documents/Images/logoPong}}
+\lfoot{Last edited: \today}
+\cfoot{ }
+\rfoot{Page \thepage\ of \pageref{LastPage}}
 }
-
-
 
 \begin{document}
 
@@ -47,13 +54,13 @@
 
 
 % TABELLA 1
-\begin{table}[H] 
+\begin{table}[H]
   \begin{tabular}{|l|l|}
     \hline
-    \cellcolor{gray}\textbf{Purpose} &  Define rules for files and directories \\\hline
-    \cellcolor{gray}\textbf{Creation date} & 02/11/2018 \\\hline
-    \cellcolor{gray}\textbf{Current owner} & Francesco Periti \\\hline
-    \cellcolor{gray}\textbf{Last modification} & 04/11/2018 \\\hline
+    \cellcolor{lightgray}\textbf{Purpose} &  Define rules for files and directories \\\hline
+    \cellcolor{lightgray}\textbf{Creation date} & 02/11/2018 \\\hline
+    \cellcolor{lightgray}\textbf{Current owner} & Francesco Periti \\\hline
+    \cellcolor{lightgray}\textbf{Last modification} & 04/11/2018 \\\hline
   \end{tabular}
 \end{table}
 \end{center}
@@ -66,7 +73,7 @@
 \begin{table}[H]
 \begin{tabular}{|l|l|l|}
 \hline
-\cellcolor{gray}\textbf{Who} & \cellcolor{gray}\textbf{When} & \cellcolor{gray}\textbf{What} \\ \hline
+\cellcolor{lightgray}\textbf{Who} & \cellcolor{lightgray}\textbf{When} & \cellcolor{lightgray}\textbf{What} \\ \hline
 Francesco Periti & 02/11/2018 & Created this document \\ \hline
 Francesco Periti & 02/11/2018 & Added some conventions \\ \hline
 Davide Valentini & 03/11/2018 & Added references to e-mail \\ \hline
