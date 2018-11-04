@@ -9,6 +9,10 @@
 \usepackage{hyperref}             % use for hypertext links, including those to external documents and URLs
 \usepackage{fancyhdr}             % for image in header    
 \usepackage[table,xcdraw]{xcolor} % for color in cell
+\usepackage{float}
+\restylefloat{table}
+
+\setlength{\parindent}{0pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -24,15 +28,15 @@
 
 % logoTeam
 \begin{center}
-  \begin{figure}
+  \begin{figure}[H]
     \centering
   \vspace*{5\baselineskip}
   \includegraphics[width=10cm]{Documents/Images/logoTeam}
   \end{figure}
 
-  {\large \textbf{Game Title}} \\
-  \textbf{\textit{PONG - Game and Level Design}} \\
-  {\small Updated 31 October 2018} \\
+  {\huge \textbf{Game Title}} \\
+  {\large \textbf{ \textit{PONG - Game and Level Design}}} \\
+  Updated 04 November 2018 \\
 
   \begin{tabular}{lcr}\\\\
     \textbf{Francesco Periti}	& \underline{\href{mailto:francesco.periti@studenti.unimi.it}{francesco.periti@studenti.unimi.it}}	& 930650 \\
@@ -43,30 +47,33 @@
 
 
 % TABELLA 1
-\begin{table}[] 
-  \begin{tabular}{|l|l||}
+\begin{table}[H] 
+  \begin{tabular}{|l|l|}
     \hline
     \cellcolor{gray}\textbf{Purpose} &  Define rules for files and directories \\\hline
-    \cellcolor{gray}\textbf{Creation date} & 2/11/2018 \\\hline
+    \cellcolor{gray}\textbf{Creation date} & 02/11/2018 \\\hline
     \cellcolor{gray}\textbf{Current owner} & Francesco Periti \\\hline
-    \cellcolor{gray}\textbf{Last modification} & 2/11/2018 \\\hline
+    \cellcolor{gray}\textbf{Last modification} & 04/11/2018 \\\hline
   \end{tabular}
 \end{table}
+\end{center}
 
+\clearpage
+
+\section{Revision History}
 % TABELLA 2
-\begin{table}[]
-\begin{tabular}{lll}
+\begin{center}
+\begin{table}[H]
+\begin{tabular}{|l|l|l|}
 \hline
-\multicolumn{3}{|l|}{\cellcolor{gray}\textbf{Revision History}}\\ \hline
-\multicolumn{1}{|l|}{\cellcolor{gray}\textbf{Who}} & \multicolumn{1}{l|}{\cellcolor{gray}\textbf{When}} & \multicolumn{1}{l|}{\cellcolor{gray}\textbf{What}}\\ \hline
-\multicolumn{1}{|l|}{Francesco Periti} & \multicolumn{1}{l|}{2/11/2018} & \multicolumn{1}{l|}{Created this document}\\ \hline
-\multicolumn{1}{|l|}{Francesco Periti} & \multicolumn{1}{l|}{2/11/2018} & \multicolumn{1}{l|}{Added some conventions}\\ \hline
-\multicolumn{1}{|l|}{Davide Valentini} & \multicolumn{1}{l|}{3/11/2018} & \multicolumn{1}{l|}{Added references to e-mail}\\ \hline
-\multicolumn{1}{|l|}{Francesco Periti} & \multicolumn{1}{l|}{3/11/2018} & \multicolumn{1}{l|}{Added some conventions}\\ \hline
-\multicolumn{1}{|l|}{Someone} & \multicolumn{1}{l|}{2/11/2018} & \multicolumn{1}{l|}{Created a reference section}\\ \hline
+\cellcolor{gray}\textbf{Who} & \cellcolor{gray}\textbf{When} & \cellcolor{gray}\textbf{What} \\ \hline
+Francesco Periti & 02/11/2018 & Created this document \\ \hline
+Francesco Periti & 02/11/2018 & Added some conventions \\ \hline
+Davide Valentini & 03/11/2018 & Added references to e-mail \\ \hline
+Francesco Periti & 03/11/2018 & Added some conventions \\ \hline
+Davide Valentini & 04/11/2018 & Added some conventions \\ \hline
 \end{tabular}
 \end{table}
-
 \end{center}
 
 \clearpage
@@ -83,17 +90,27 @@ Blender, Photoshop CC 2018, Maya
 NWN Toolset, GIT
 
 \subsection{Organization Software}
-Office 2016, LaTeX
+LaTeX, Office 2016
 
 \subsection{Environments}
 Windows 10
 
 \section{Data Types and Format}
 This is very dependent from the previous section. Based on the tool you use there are preferred format. It is also true the opposite: can start from here to decide the software list.
-You should have one subsection for every category of data you need to manage. 
+
+You should have one subsection for every category of data you need to manage.
+
+\subsection{Date format}
+DD/MM/YYYY
 
 \subsection{Text}
-In order to have elegant and tidy files, you have to work with LaTeX files.
+In order to have elegant and tidy files, you have to work with \textbf{LaTeX} files.
+
+Use 4-spaces \textbf{tabs} for indentations.
+
+Use \textbf{double return} to break paragraphs.
+
+Use '\textbf{H}' to place floats (e.g. images and tables) in their correct position. Example: \textit{\textbackslash{}begin\{figure\}[H]}
 
 Every LaTeX files has 100\% compatibility with any other LaTeX file.
 
@@ -135,26 +152,26 @@ Put here all the required information to access the data. A new team member shou
 How you do it and Who is in charge to perform it.
 
 \section{Directory Structure}
-In order to develop a ordered project the following structure has been estabilished:
 \begin{itemize}
-\item \textbf{Documents} : inside this directory there is each file that composes the current level design document and all the images.
+\item \textbf{Documents}: contains all files that composes the current level design document and all the images. Each subfolder but \textit{Images} matches a chapter of the Level Design Document.
   \begin{itemize}
     \item \textbf{levelDesignDocument.tex}: this is the current level-design-document file. It contains many references to the LaTeX files that compose it.
     
-    \item \textbf{Characters}: this directory contains everythings about characters.
+    \item \textbf{Characters}: this directory contains everything about characters.
       
     \item \textbf{Images}: this directory contains every useful images for the project.
       
-    \item \textbf{GoalsOutline}:
-    
-    \item \textbf{Synopsis}
+    \item \textbf{Story}: contains everything about the story.
   \end{itemize}
-  \item \textbf{dataManagmentDocument.tex}: this is the current data-managment-document file. It learns you everythings about the project.
+  \item \textbf{dataManagmentDocument.tex}: this is the current data-managment-document file. It learns you everything about the project.
 \end{itemize}
 
 Devise a directory tree (or rules to create a directory tree) in a way that each file can be located in only one location.
+
 This part is not trivial, at all.
+
 No tree is perfect (once again, it depends on the project). Better give also rules about how to walk the tree.
+
 Pictures here could also be useful.
 
 TIP: In every directory, subdirectories should be on the same conceptual level. i.e., putting “textures” and “maps” as possible choices may not be a good idea.
