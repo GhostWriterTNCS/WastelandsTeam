@@ -299,9 +299,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="374.97524"
-     inkscape:cy="606.70599"
+     inkscape:zoom="0.35"
+     inkscape:cx="619.29288"
+     inkscape:cy="536.74313"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -323,7 +323,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -354,9 +354,9 @@
        x="453.5433"
        y="-49.133976" />
     <rect
-       style="opacity:1;fill:#ffe9a9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#ffe9a9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect1094-37"
-       width="302.36221"
+       width="377.95276"
        height="491.33856"
        x="453.5433"
        y="744.56683" />
@@ -375,7 +375,7 @@
          x="416.38278"
          y="641.96277"
          style="fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan833">castle (hub)</tspan></text>
+         id="tspan833">Castle (hub)</tspan></text>
     <g
        id="g962"
        transform="translate(37.795222,-151.18112)">
@@ -477,7 +477,7 @@
            style="fill:#000000;fill-opacity:1;stroke:none"
            y="1057.0784"
            x="264.50183"
-           sodipodi:role="line">L4. Spirit</tspan><tspan
+           sodipodi:role="line">L4. Spirits</tspan><tspan
            id="tspan907"
            style="fill:#000000;fill-opacity:1;stroke:none"
            y="1098.745"
@@ -509,14 +509,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="603.44672"
-       y="1210.2277"
+       x="641.242"
+       y="1210.5206"
        id="text829-1"><tspan
          sodipodi:role="line"
-         x="603.44672"
-         y="1210.2277"
+         x="641.242"
+         y="1210.5206"
          style="fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan833-5">L3. Desert</tspan></text>
+         id="tspan833-5">L3. Southern desert</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -531,40 +531,39 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="699.04169"
-       y="-2.0369172"
+       x="755.73462"
+       y="-2.3217404"
        id="text829-1-1"><tspan
          sodipodi:role="line"
-         x="699.04169"
-         y="-2.0369172"
+         x="755.73462"
+         y="-2.3217404"
          style="fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan1031">L2. Capital of Strangia</tspan></text>
+         id="tspan1031">L2. Dynamia</tspan></text>
     <g
-       id="g956"
-       transform="translate(-2.3939478e-5,37.795255)">
+       id="g166">
       <rect
-         y="744.56683"
-         x="37.7953"
+         y="782.36206"
+         x="75.590553"
          height="113.38584"
-         width="302.36218"
+         width="226.77165"
          id="rect20-9"
          style="opacity:1;fill:#ffa9b3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <text
          id="text829-17"
-         y="792.83691"
-         x="187.69872"
+         y="830.63214"
+         x="187.69868"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          xml:space="preserve"><tspan
-           id="tspan833-348"
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           y="792.83691"
-           x="187.69872"
-           sodipodi:role="line">L5. Mizar’s heart</tspan><tspan
            id="tspan1059"
            style="fill:#000000;fill-opacity:1;stroke:none"
-           y="834.5036"
-           x="187.69872"
-           sodipodi:role="line">hideout</tspan></text>
+           y="830.63214"
+           x="187.69868"
+           sodipodi:role="line">L5. Kazan</tspan><tspan
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           y="872.29883"
+           x="187.69868"
+           sodipodi:role="line"
+           id="tspan156">island</tspan></text>
     </g>
     <g
        id="g968"

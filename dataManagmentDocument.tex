@@ -27,11 +27,11 @@
 
 % HEADER and FOOTER
 \pagestyle{fancy}{
-\lhead{\includegraphics[width=4.5cm]{Documents/Images/logoUnimi}}
-\rhead{\includegraphics[width=6.5cm]{Documents/Images/logoPong}}
-\lfoot{Last edited: \today}
-\cfoot{ }
-\rfoot{Page \thepage\ of \pageref{LastPage}}
+  \lhead{\includegraphics[width=4.5cm]{Documents/Images/logoUnimi}}
+  \rhead{\includegraphics[width=5cm]{Documents/Images/logoPong}}
+  \lfoot{Last updated: \today}
+  \cfoot{ }
+  \rfoot{Page \thepage\ of \pageref{LastPage}}
 }
 
 \begin{document}
@@ -39,76 +39,84 @@
 % logoTeam
 \begin{center}
   \begin{figure}[H]
-    \centering
+  \centering
   \vspace*{5\baselineskip}
   \includegraphics[width=10cm]{Documents/Images/logoTeam}
   \end{figure}
 
+  \vspace{50pt}
   {\huge \textbf{Game Title}} \\
-  {\large \textbf{ \textit{PONG - Game and Level Design}}} \\
-  Updated 04 November 2018 \\
+  {\large \textbf{ \textit{PONG - Game and Level Design}}}
+\end{center}
 
-  \begin{tabular}{lcr}\\\\
+\vspace{20pt}
+\begin{table}[H]
+  \centering
+  \begin{tabular}{lcr}
     \textbf{Francesco Periti}	& \underline{\href{mailto:francesco.periti@studenti.unimi.it}{francesco.periti@studenti.unimi.it}}	& 930650 \\
     \textbf{Francesco Principe}	& \underline{\href{mailto:francesco.principe@studenti.unimi.it}{francesco.principe@studenti.unimi.it}}	& 937622 \\
     \textbf{Davide Valentini}	& \underline{\href{mailto:davide.valentini@studenti.unimi.it}{davide.valentini@studenti.unimi.it}}	& XXX \\
     \textbf{Elena Coperchini}	& \underline{\href{mailto:elena.coperchini@gmail.com}{elena.coperchini@gmail.com}}			& \\
   \end{tabular}
+\end{table}
 
 
+  \vspace{10pt}
 % TABELLA 1
 \begin{table}[H]
+  \centering
   \begin{tabular}{|l|l|}
     \hline
     \cellcolor{lightgray}\textbf{Purpose} &  Define rules for files and directories \\\hline
     \cellcolor{lightgray}\textbf{Creation date} & 02/11/2018 \\\hline
     \cellcolor{lightgray}\textbf{Current owner} & Francesco Periti \\\hline
-    \cellcolor{lightgray}\textbf{Last modification} & 04/11/2018 \\\hline
+    \cellcolor{lightgray}\textbf{Last modification} & \today \\\hline
   \end{tabular}
 \end{table}
-\end{center}
 
 \clearpage
 
-\section{Revision History}
+\section*{Revision History}
 % TABELLA 2
-\begin{center}
 \begin{table}[H]
+\centering
 \begin{tabular}{|l|l|l|}
 \hline
 \cellcolor{lightgray}\textbf{Who} & \cellcolor{lightgray}\textbf{When} & \cellcolor{lightgray}\textbf{What} \\ \hline
 Francesco Periti & 02/11/2018 & Created this document \\ \hline
-Francesco Periti & 02/11/2018 & Added some conventions \\ \hline
-Davide Valentini & 03/11/2018 & Added references to e-mail \\ \hline
-Francesco Periti & 03/11/2018 & Added some conventions \\ \hline
-Davide Valentini & 04/11/2018 & Added some conventions \\ \hline
+Francesco Periti & 03/11/2018 & Added some conventions to directory structure \\ \hline
+Davide Valentini & 03/11/2018 & Added e-mail references \\ \hline
+Francesco Principe & 04/11/2018 & Added some conventions to file naming \\ \hline
+Davide Valentini & 04/11/2018 & Added software list \\ \hline
+Francesco Principe & 05/11/2018 & Global revision \\ \hline
 \end{tabular}
 \end{table}
-\end{center}
 
 \clearpage
 
 \section{Software List}
-Put here a list of the software you are going to use. Versions are required and do not underestimate OSs version.
-Once this list is public every member is committed to use it.
-Whatever is not listed here can is supposed to be free for everyone to choose (recipe for disaster).
+%Put here a list of the software you are going to use. Versions are required and do not underestimate OSs version.
+%Once this list is public every member is committed to use it.
 
 \subsection{Asset Editing Software}
-Blender, Photoshop CC 2018, Maya
+\begin{itemize}
+	\item \textbf{Photoshop CC 2018}: 2D bitmap images
+	\item \textbf{Inkscape 0.92+}: SVG images
+	%\item \textbf{Maya}: 3D assets
+\end{itemize}
 
 \subsection{Development Software}
-NWN Toolset, GIT
+Neverwinter Nights Toolset, GIT
 
 \subsection{Organization Software}
-LaTeX, Office 2016
+TexMaker with MiKTeX 2.9
 
 \subsection{Environments}
 Windows 10
 
 \section{Data Types and Format}
-This is very dependent from the previous section. Based on the tool you use there are preferred format. It is also true the opposite: can start from here to decide the software list.
-
-You should have one subsection for every category of data you need to manage.
+%This is very dependent from the previous section. Based on the tool you use there are preferred format. It is also true the opposite: can start from here to decide the software list.
+%You should have one subsection for every category of data you need to manage.
 
 \subsection{Date format}
 DD/MM/YYYY
@@ -125,80 +133,93 @@ Use '\textbf{H}' to place floats (e.g. images and tables) in their correct posit
 Every LaTeX files has 100\% compatibility with any other LaTeX file.
 
 \subsection{Images}
-\textbf{Formats available for assets}: tif, png, svg.
+\textbf{Formats available for assets}: tif/tiff, png, svg.
 
-\textbf{Formats available for documentation}: png.
+\textbf{Formats available within documentation}: png.
 
 \textbf{Formats available for reference images}: assets-available formats, jpeg, jpg, bmp, gif.
 
-Size is defined according to image category (texture, portrait, input button…)
+Size (W x H) is defined according to image category (texture, portrait, input button…).
+\begin{itemize}
+	\item \textbf{\path{./Documents/Images/Characters}}: 250px x 350px, Photoshop
+	\item \textbf{\path{./Documents/Images/Circumplexes}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/circumplexes.svg}
+	\item \textbf{\path{./Documents/Images/Evolutions}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/evolutions.svg}
+	\item \textbf{\path{./Documents/Images/SVG}}: Inkscape
+\end{itemize}
 
 \subsection{Video}
-mkv
+%mkv
 
 \subsection{Audio}
-Sampling rate:
+%Sampling rate:
 
 \subsection{3D Models}
-Maximum number of triangles:
+%Maximum number of triangles:
 
-Scale: 
+%Scale: 
 
-\subsection{etc etc}
-For each category, you must set a policy about encoding parameters.
-
-Encoding parameters depend on the data type. For text, stating “microsoft doc” can do (then you have to see the previous section to understand which version of office to use). For video, you must set resolution, encoder, and encapsulation format at least. About resolution, you are not strictly required to set just one, you may have multiple based on the purpose of the image/video.
-
-You can also set rules about binary size or content, it is all up to you.
-
-DO NOT waste your time setting policies for data types you are not using. You can add them later, when introduced in the project.
+%\subsection{etc etc}
+%For each category, you must set a policy about encoding parameters.
+%
+%Encoding parameters depend on the data type. For text, stating “microsoft doc” can do (then you have to see the previous section to understand which version of office to use). For video, you must set resolution, encoder, and encapsulation format at least. About resolution, you are not strictly required to set just one, you may have multiple based on the purpose of the image/video.
+%
+%You can also set rules about binary size or content, it is all up to you.
+%
+%DO NOT waste your time setting policies for data types you are not using. You can add them later, when introduced in the project.
 
 \section{Data Storage and Access}
-Where the data (shared among the team) is stored and who is in charge to manage it.
-
-Put here all the required information to access the data. A new team member should be able to start working just starting from this document.
+%Where the data (shared among the team) is stored and who is in charge to manage it.
+%
+%Put here all the required information to access the data. A new team member should be able to start working just starting from this document.
+Project data are stored on a private git repository.
 
 \subsection{Backup}
-How you do it and Who is in charge to perform it.
+%How you do it and Who is in charge to perform it.
+There are daily backups on three different machines in three different locations.
+Responsibles:
+\begin{itemize}
+	\item \textbf{Francesco Periti} for Piacenza
+	\item \textbf{Francesco Principe} for Parma
+	\item \textbf{Davide Valentini} for Milan
+\end{itemize}
 
 \section{Directory Structure}
 \begin{itemize}
-\item \textbf{Documents}: contains all files that composes the current level design document and all the images. Each subfolder but \textit{Images} matches a chapter of the Level Design Document.
+\item \textbf{\path{./Documents}}: contains all files used for the current level design document. Each subfolder but \textit{Images} matches a chapter of the Level Design Document.
   \begin{itemize}
-    \item \textbf{levelDesignDocument.tex}: this is the current level-design-document file. It contains many references to the LaTeX files that compose it.
-    
-    \item \textbf{Characters}: this directory contains everything about characters.
-      
-    \item \textbf{Images}: this directory contains every useful images for the project.
-      
-    \item \textbf{Story}: contains everything about the story.
+    \item \textbf{\path{./Documents/levelDesignDocument.tex}}: this is the current level-design-document file. It contains references to the LaTeX files that compose it.
+
+    \item \textbf{\path{./Documents/Characters}}: this directory contains all the LaTeX files about the characters.
+
+    \item \textbf{\path{./Documents/Images}}: this directory contains every useful image for the documentation.
+
+    \item \textbf{\path{./Documents/Story}}: this directory contains all the LaTeX files about the story.
   \end{itemize}
-  \item \textbf{dataManagmentDocument.tex}: this is the current data-managment-document file. It learns you everything about the project.
+  \item \textbf{\path{./dataManagmentDocument.tex}}: this is the current data-managment-document file. It contains all technical features and rules to work on the project.
 \end{itemize}
 
-Devise a directory tree (or rules to create a directory tree) in a way that each file can be located in only one location.
-
-This part is not trivial, at all.
-
-No tree is perfect (once again, it depends on the project). Better give also rules about how to walk the tree.
-
-Pictures here could also be useful.
-
-TIP: In every directory, subdirectories should be on the same conceptual level. i.e., putting “textures” and “maps” as possible choices may not be a good idea.
+%Devise a directory tree (or rules to create a directory tree) in a way that each file can be located in only one location.
+%
+%This part is not trivial, at all.
+%
+%No tree is perfect (once again, it depends on the project). Better give also rules about how to walk the tree.
+%
+%Pictures here could also be useful.
+%
+%TIP: In every directory, subdirectories should be on the same conceptual level. i.e., putting “textures” and “maps” as possible choices may not be a good idea.
 
 \section{File Naming Convention}
 During the project development has to be respected the following conventions:
-\begin{enumerate}
-  \item the name of each directory and each file has to be significant;
-  \item the name of each file has to begin with a lowercase character and has to go on with any amount of lowercase character. Each time you want to separate two words within a file name, you have not to add a blanckspace between them but you have to make the first character of the second word uppercase.
-  \item the name of each file has to begin with a uppercase character and has to go on with any amount of lowercase character. Each time you want to separate two words within a directory name, you have not to add a blanckspace between them but you have to make the first character of the second word uppercase.
-   \item files named \textit{index.tex} have to be short. They have to connect all the other file inside the current directory
-\end{enumerate}
+\begin{itemize}
+  \item The name of each directory and each file has to be significant and homogeneous.
+  \item The name of each file has to begin with a lowercase character. Each time you want to separate two words within a file name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{fileNameExample.ext}
+  \item The name of each file has to begin with a uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
+   \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory
+\end{itemize}
 
-
-Provide rules name every kind of file (see also Sec. 3).
-It is a good option to provide labels for encoding (or size in case of pictures) but also labels for their function inside the project (e.g., to distinguish tile textures from mesh skins).
-
-TIP. You can use keywords (providing a conversion table) to avoid extremely long names.
+%Provide rules name every kind of file (see also Sec. 3).
+%It is a good option to provide labels for encoding (or size in case of pictures) but also labels for their function inside the project (e.g., to distinguish tile textures from mesh skins).
+%
+%TIP. You can use keywords (providing a conversion table) to avoid extremely long names.
 
 \end{document}
