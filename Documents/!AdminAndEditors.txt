@@ -1,0 +1,9 @@
+== ADMINS ==
+Francesco Periti - francesco.periti@studenti.unimi.it
+Francesco Principe - francesco.principe@studenti.unimi.it
+Davide Valentini - davide.valentini@studenti.unimi.it
+
+== EDITORS ==
+Francesco Periti - francesco.periti@studenti.unimi.it
+Francesco Principe - francesco.principe@studenti.unimi.it
+Davide Valentini - davide.valentini@studenti.unimi.it
