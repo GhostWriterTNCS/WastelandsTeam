@@ -90,14 +90,13 @@ Francesco Principe & 04/11/2018 & Added some conventions to file naming \\ \hlin
 Davide Valentini & 04/11/2018 & Added software list \\ \hline
 Francesco Principe & 05/11/2018 & Global revision \\ \hline
 Davide Valentini & 06/11/2018 & Added file access rules \\ \hline
+Francesco Periti & 06/11/2018 & Added repository structure rules \\ \hline
 \end{tabular}
 \end{table}
 
 \clearpage
 
 \section{Software List}
-%Put here a list of the software you are going to use. Versions are required and do not underestimate OSs version.
-%Once this list is public every member is committed to use it.
 
 \subsection{Asset Editing Software}
 \begin{itemize}
@@ -116,8 +115,6 @@ TexMaker with MiKTeX 2.9
 Windows 10
 
 \section{Data Types and Format}
-%This is very dependent from the previous section. Based on the tool you use there are preferred format. It is also true the opposite: can start from here to decide the software list.
-%You should have one subsection for every category of data you need to manage.
 
 \subsection{Date format}
 DD/MM/YYYY
@@ -157,9 +154,10 @@ Contact one of the project owners:
 	\item francesco.principe@studenti.unimi.it
 	\item davide.valentini@studenti.unimi.it
 \end{itemize}
-%mkv
+mkv
 
 \subsection{Audio}
+Audacity
 To be defined.
 
 Contact one of the project owners:
@@ -168,7 +166,7 @@ Contact one of the project owners:
 	\item francesco.principe@studenti.unimi.it
 	\item davide.valentini@studenti.unimi.it
 \end{itemize}
-%Sampling rate:
+Sampling rate:
 
 \subsection{3D Models}
 To be defined.
@@ -179,31 +177,63 @@ Contact one of the project owners:
 	\item francesco.principe@studenti.unimi.it
 	\item davide.valentini@studenti.unimi.it
 \end{itemize}
-%Maximum number of triangles:
+Maximum number of triangles:
 
-%Scale: 
+Scale: 
 
-%\subsection{etc etc}
-%For each category, you must set a policy about encoding parameters.
-%
-%Encoding parameters depend on the data type. For text, stating “microsoft doc” can do (then you have to see the previous section to understand which version of office to use). For video, you must set resolution, encoder, and encapsulation format at least. About resolution, you are not strictly required to set just one, you may have multiple based on the purpose of the image/video.
-%
-%You can also set rules about binary size or content, it is all up to you.
-%
-%DO NOT waste your time setting policies for data types you are not using. You can add them later, when introduced in the project.
+\subsection{etc etc}
+
 
 \section{Data Storage and Access}
-%Where the data (shared among the team) is stored and who is in charge to manage it.
-%
-%Put here all the required information to access the data. A new team member should be able to start working just starting from this document.
 Project data are stored on a private git repository.
+
+The repository structure follows the good pratices of GitFlow.
+
+The history graph can become very complex; in order to avoid that, you have to work with two type of branch:
+\begin{itemize}
+\item branch with infinite lifetime;
+\item branch with finite lifetime;
+\end{itemize}
+
+\subsection{Branch with infinite lifetime}
+They are the main branch of the project. There are two different branches:
+\begin{itemize}
+\item \textbf{master}:\\
+  this branch contains %the deployed project version%
+  the last project review locked down by the project responsables.
+    
+  Only with the last version on master it can be done \textit{the level design to art handoff}.
+  
+  You have not to do any commit/merge in this branch unless the project responsables agree that the current version can be \textit{lock-down}.
+\item \textbf{develop}:\\
+  This branch is the development branch. Each have to work and make own changes to it.
+  
+  When you think you had made a good change, you have to do a commit it inside here so other can use it.
+\end{itemize}
+
+\subsection{Branch with finite lifetime}
+You work on them just for a certain period and then you have to delete them.
+
+You have to work on one at a time.
+
+When you want to add a new content you have not to work on develop branch.
+
+You have to create a your temporary branch where you can work and only when you have finished it
+you have to merge your branch with the \textit{develop} branch.
+
+You will never use more this branch so delete it. When you will want to add new content you have to make a new branch e so on. 
+
+\subsection*{Synthesis}: When you work on a new content, you have to work on temporary branch and when you finish you have to merge your commit with the develop branch.\\
+\textit{New content? New branch}.\\
+\textit{Work completed? New merge with develop}.\\
+And so on.
+
 
 Only \textbf{editors} are allowed to add new files and edit existent ones. You can find the list of allowed editors for a folder in the file \textbf{!AdminAndEditors.txt} in the corresponding folder. If absent, refer to the same file in parent folder.
 
 Only \textbf{admins} are allowed to add new editors. You can find the list of admins for a folder in the file \textbf{!AdminAndEditors.txt} in the corresponding folder. If absent, refer to the same file in parent folder.
 
 \subsection{Backup}
-%How you do it and Who is in charge to perform it.
 There are daily backups on three different machines in three different locations.
 Responsibles:
 \begin{itemize}
@@ -229,16 +259,6 @@ Responsibles:
 
 To add notes or comments to a file, create a txt file with the same name in the same folder.
 
-%Devise a directory tree (or rules to create a directory tree) in a way that each file can be located in only one location.
-%
-%This part is not trivial, at all.
-%
-%No tree is perfect (once again, it depends on the project). Better give also rules about how to walk the tree.
-%
-%Pictures here could also be useful.
-%
-%TIP: In every directory, subdirectories should be on the same conceptual level. i.e., putting “textures” and “maps” as possible choices may not be a good idea.
-
 \section{File Naming Convention}
 During the project development has to be respected the following conventions:
 \begin{itemize}
@@ -248,9 +268,5 @@ During the project development has to be respected the following conventions:
    \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory
 \end{itemize}
 
-%Provide rules name every kind of file (see also Sec. 3).
-%It is a good option to provide labels for encoding (or size in case of pictures) but also labels for their function inside the project (e.g., to distinguish tile textures from mesh skins).
-%
-%TIP. You can use keywords (providing a conversion table) to avoid extremely long names.
 
 \end{document}
