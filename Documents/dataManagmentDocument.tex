@@ -28,8 +28,8 @@
 
 % HEADER and FOOTER
 \pagestyle{fancy}{
-  \lhead{\includegraphics[width=4.5cm]{Documents/Images/Logos/logoUnimi}}
-  \rhead{\includegraphics[width=5cm]{Documents/Images/Logos/logoPong}}
+  \lhead{\includegraphics[width=4.5cm]{Images/Logos/logoUnimi}}
+  \rhead{\includegraphics[width=5cm]{Images/Logos/logoPong}}
   \lfoot{Last updated: \today}
   \cfoot{ }
   \rfoot{Page \thepage\ of \pageref{LastPage}}
@@ -42,7 +42,7 @@
   \begin{figure}[H]
   \centering
   \vspace*{5\baselineskip}
-  \includegraphics[width=10cm]{Documents/Images/Logos/logoTeam}
+  \includegraphics[width=10cm]{Images/Logos/logoTeam}
   \end{figure}
 
   \vspace{50pt}
@@ -110,7 +110,9 @@ Francesco Periti & 06/11/2018 & Added repository structure rules \\ \hline
 Neverwinter Nights Toolset
 
 \subsection{Organization Software}
-TexMaker with MiKTeX 2.9, GIT
+TexMaker with MiKTeX 2.9
+
+GIT
 
 \subsection{Environments}
 Windows 10
@@ -121,7 +123,7 @@ Windows 10
 DD/MM/YYYY
 
 \subsection{Text}
-Formats: tex (LaTeX).
+\textbf{Formats}: tex (LaTeX).
 
 %Use 4-spaces \textbf{tabs} for indentations.
 
@@ -138,16 +140,20 @@ Every LaTeX files has 100\% compatibility with any other LaTeX file.
 
 \textbf{Formats for reference images}: tif/tiff, png, svg, jpeg, jpg, bmp, gif.
 
-Size (W x H) is defined according to image category (texture, portrait, input button…):
+Size (W x H) and editing software are defined by the following rules:
 \begin{itemize}
 	\item \textbf{\path{./Documents/Images/Characters}}: 250px x 350px, Photoshop
-	\item \textbf{\path{./Documents/Images/Circumplexes}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/circumplexes.svg}
-	\item \textbf{\path{./Documents/Images/Evolutions}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/evolutions.svg}
+	\item \textbf{\path{./Documents/Images/SVG/Exported/Circumplexes}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/circumplexes.svg}
+	\item \textbf{\path{./Documents/Images/SVG/Exported/Evolutions}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/evolutions.svg}
 	\item \textbf{\path{./Documents/Images/SVG}}: Inkscape
 \end{itemize}
 
 \subsection{Audio}
 %Audacity
+
+\textbf{Formats for assets}: flac.
+
+\textbf{Formats for reference audios}: mp3.
 
 Software to be defined.
 
@@ -165,6 +171,10 @@ Sampling rate: 44.1-48KHz
 Channel: stereo (if available)
 
 \subsection{Video}
+\textbf{Formats for assets}: mkv, avi, mp4.
+
+\textbf{Formats for reference videos}: mkv, avi, mp4, flv.
+
 Software to be defined.
 
 Contact one of the project owners:
@@ -178,9 +188,9 @@ Resolution: 1920x1080px (preferred), 2K, 4K, 1280x720px
 
 FPS: 24+
 
-Formats: mkv, avi, mp4
-
 \subsection{3D Models}
+\textbf{Formats}: to be defined.
+
 Software to be defined.
 
 Contact one of the project owners:
@@ -227,15 +237,14 @@ You have to work on one at a time.
 
 When you want to add a new content you have not to work on develop branch.
 
-You have to create a your temporary branch where you can work and only when you have finished it
-you have to merge your branch with the \textit{develop} branch.
+You have to create a temporary branch where you can work and only when you have finished it you have to merge your branch with the \textit{develop} branch.
 
-You will never use more this branch so delete it. When you will want to add new content you have to make a new branch e so on. 
+%You will never use more this branch so delete it. When you will want to add new content you have to make a new branch e so on. 
 
 \subsection*{Synthesis}
-When you work on a new content, you have to work on temporary branch and when you finish you have to merge your commit with the develop branch.\\
+When you work on a new content, you have to work on a temporary branch and when you have finished you have to merge your commits with the \textit{develop} branch.\\
 \textit{New content? New branch}.\\
-\textit{Work completed? New merge with develop}.\\
+\textit{Work completed? Merge with develop}.\\
 And so on.
 
 \subsection*{Revision history}
@@ -248,17 +257,19 @@ Only the \textit{owners} can enable new \textit{editors}.
 
 Everybody can read all the files.
 
-Rules are sorted by priority: first rule has the highest priority and overwrites the other.
+Rules are sorted by priority: first rule has the highest priority and overwrites the others.
 
 \begin{table}[H]
 \centering
-  \begin{tabularx}{\textwidth}{|X|l|X|}
+  \begin{tabularx}{\textwidth}{|X|p{3.5cm}|X|}
 \hline
 \cellcolor{lightgray}\textbf{Files} & \cellcolor{lightgray}\textbf{Owner} & \cellcolor{lightgray}\textbf{Editors} \\ \hline
-\path{./Documents/Images/SVG/*} & Davide Valentini & Davide Valentini \\ \hline
 \path{./Documents/Images/Characters/*} & Francesco Principe & Francesco Principe \\ \hline
 \path{./Documents/Images/Logos/*} & Francesco Periti & Francesco Periti \\ \hline
+\path{./Documents/Images/SVG/*} & Davide Valentini & Davide Valentini \\ \hline
+\path{./Documents/Images/*} & Francesco Periti & Francesco Principe, Francesco Periti, Davide Valentini \\ \hline
 \path{./Documents/*.tex} & Francesco Principe & Every member of the Wastelands Team \\ \hline
+\path{./*} & Francesco Principe, Francesco Periti, Davide Valentini & Francesco Principe, Francesco Periti, Davide Valentini \\ \hline
 \end{tabularx}
 \end{table}
 
@@ -273,9 +284,13 @@ Responsibles:
 
 \section{Directory Structure}
 \begin{itemize}
-\item \textbf{\path{./Documents}}: contains all files used for the current level design document. Each subfolder but \textit{Images} matches a chapter of the Level Design Document.
+\item \textbf{\path{./Documents}}: contains all files used for the level design document and the data management document. Each subfolder but \textit{Images} matches a chapter of the Level Design Document.
   \begin{itemize}
+    \item \textbf{\path{./Documents/dataManagmentDocument.tex}}: this is the current data-managment-document file. It contains all technical features and rules to work on the project.
+
     \item \textbf{\path{./Documents/levelDesignDocument.tex}}: this is the current level-design-document file. It contains references to the LaTeX files that compose it.
+
+    \item \textbf{\path{./Documents/revisionHistory.tex}}: contains revision history references for the level design document.
 
     \item \textbf{\path{./Documents/Characters}}: this directory contains all the LaTeX files about the characters.
 
@@ -283,7 +298,6 @@ Responsibles:
 
     \item \textbf{\path{./Documents/Story}}: this directory contains all the LaTeX files about the story.
   \end{itemize}
-  \item \textbf{\path{./dataManagmentDocument.tex}}: this is the current data-managment-document file. It contains all technical features and rules to work on the project.
 \end{itemize}
 
 To add notes or comments to a file, create a txt file with the same name in the same folder.
@@ -296,6 +310,5 @@ To add notes or comments to a file, create a txt file with the same name in the 
   \item The name of each folder has to begin with a uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
    \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory.
 \end{itemize}
-
 
 \end{document}
