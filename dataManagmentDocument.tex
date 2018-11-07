@@ -27,8 +27,8 @@
 
 % HEADER and FOOTER
 \pagestyle{fancy}{
-  \lhead{\includegraphics[width=4.5cm]{Documents/Images/logoUnimi}}
-  \rhead{\includegraphics[width=5cm]{Documents/Images/logoPong}}
+  \lhead{\includegraphics[width=4.5cm]{Documents/Images/Logos/logoUnimi}}
+  \rhead{\includegraphics[width=5cm]{Documents/Images/Logos/logoPong}}
   \lfoot{Last updated: \today}
   \cfoot{ }
   \rfoot{Page \thepage\ of \pageref{LastPage}}
@@ -41,7 +41,7 @@
   \begin{figure}[H]
   \centering
   \vspace*{5\baselineskip}
-  \includegraphics[width=10cm]{Documents/Images/logoTeam}
+  \includegraphics[width=10cm]{Documents/Images/Logos/logoTeam}
   \end{figure}
 
   \vspace{50pt}
@@ -70,7 +70,7 @@
     \cellcolor{lightgray}\textbf{Purpose} &  Define rules for files and directories \\\hline
     \cellcolor{lightgray}\textbf{Creation date} & 02/11/2018 \\\hline
     \cellcolor{lightgray}\textbf{Current owner} & Francesco Periti \\\hline
-    \cellcolor{lightgray}\textbf{Last update} & \today \\\hline
+%    \cellcolor{lightgray}\textbf{Last update} & \today \\\hline
   \end{tabular}
 \end{table}
 
@@ -106,10 +106,10 @@ Francesco Periti & 06/11/2018 & Added repository structure rules \\ \hline
 \end{itemize}
 
 \subsection{Development Software}
-Neverwinter Nights Toolset, GIT
+Neverwinter Nights Toolset
 
 \subsection{Organization Software}
-TexMaker with MiKTeX 2.9
+TexMaker with MiKTeX 2.9, GIT
 
 \subsection{Environments}
 Windows 10
@@ -131,13 +131,13 @@ Use '\textbf{H}' to place floats (e.g. images and tables) in their correct posit
 Every LaTeX files has 100\% compatibility with any other LaTeX file.
 
 \subsection{Images}
-\textbf{Formats available for assets}: tif/tiff, png, svg.
+\textbf{Formats available for assets}: tif/tiff, svg.
 
 \textbf{Formats available within documentation}: png.
 
-\textbf{Formats available for reference images}: assets-available formats, jpeg, jpg, bmp, gif.
+\textbf{Formats available for reference images}: tif/tiff, png, svg, jpeg, jpg, bmp, gif.
 
-Size (W x H) is defined according to image category (texture, portrait, input button…).
+Size (W x H) is defined according to image category (texture, portrait, input button…):
 \begin{itemize}
 	\item \textbf{\path{./Documents/Images/Characters}}: 250px x 350px, Photoshop
 	\item \textbf{\path{./Documents/Images/Circumplexes}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/circumplexes.svg}
@@ -145,20 +145,10 @@ Size (W x H) is defined according to image category (texture, portrait, input bu
 	\item \textbf{\path{./Documents/Images/SVG}}: Inkscape
 \end{itemize}
 
-\subsection{Video}
-To be defined.
-
-Contact one of the project owners:
-\begin{itemize}
-	\item francesco.periti@studenti.unimi.it
-	\item francesco.principe@studenti.unimi.it
-	\item davide.valentini@studenti.unimi.it
-\end{itemize}
-mkv
-
 \subsection{Audio}
-Audacity
-To be defined.
+%Audacity
+
+Software to be defined.
 
 Contact one of the project owners:
 \begin{itemize}
@@ -166,10 +156,31 @@ Contact one of the project owners:
 	\item francesco.principe@studenti.unimi.it
 	\item davide.valentini@studenti.unimi.it
 \end{itemize}
-Sampling rate:
+
+Bit rate: 96kbps+
+
+Sampling rate: 44.1-48KHz
+
+Channel: stereo (if available)
+
+\subsection{Video}
+Software to be defined.
+
+Contact one of the project owners:
+\begin{itemize}
+	\item francesco.periti@studenti.unimi.it
+	\item francesco.principe@studenti.unimi.it
+	\item davide.valentini@studenti.unimi.it
+\end{itemize}
+
+Resolution: 1920x1080px (preferred), 2K, 4K, 1280x720px
+
+FPS: 24+
+
+Format: mkv, avi, mp4
 
 \subsection{3D Models}
-To be defined.
+Software to be defined.
 
 Contact one of the project owners:
 \begin{itemize}
@@ -177,15 +188,13 @@ Contact one of the project owners:
 	\item francesco.principe@studenti.unimi.it
 	\item davide.valentini@studenti.unimi.it
 \end{itemize}
-Maximum number of triangles:
 
-Scale: 
+Maximum number of triangles: to be defined.
 
-\subsection{etc etc}
-
+Scale: to be defined.
 
 \section{Data Storage and Access}
-Project data are stored on a private git repository.
+Project data are stored on a private git repository: \textit{git@pong.di.unimi.it:GLD/18/teamdellelande}
 
 The repository structure follows the good pratices of GitFlow.
 
@@ -196,19 +205,16 @@ The history graph can become very complex; in order to avoid that, you have to w
 \end{itemize}
 
 \subsection{Branch with infinite lifetime}
-They are the main branch of the project. There are two different branches:
+They are the main branches of the project. There are two different infinite lifetime branches:
 \begin{itemize}
-\item \textbf{master}:\\
-  this branch contains %the deployed project version%
-  the last project review locked down by the project responsables.
+\item \textbf{master}: this branch contains the last project review locked down by the project responsible.
     
   Only with the last version on master it can be done \textit{the level design to art handoff}.
   
-  You have not to do any commit/merge in this branch unless the project responsables agree that the current version can be \textit{lock-down}.
-\item \textbf{develop}:\\
-  This branch is the development branch. Each have to work and make own changes to it.
+  You have not to do any commit/merge in this branch unless the project responsibles agree that the current version can be \textit{locked-down}.
+\item \textbf{develop}: This branch is the development branch. Each one has to work and make his own changes to it.
   
-  When you think you had made a good change, you have to do a commit it inside here so other can use it.
+  When you think you had made a good change, you have to do a commit inside here so other can use it.
 \end{itemize}
 
 \subsection{Branch with finite lifetime}
@@ -232,7 +238,7 @@ And so on.
 \subsection*{Revision history}
 Wherever you make a commit or a merge with the \textit{develop} branch, you must remember to add a comment about your work in the revision history file. % QUA POTREMMO METTERE UN LINK CHE TI PORTA ALLA SPIEGAZIONE DI COS'E' QUEL FILE
 
-
+\subsection{Data access and permissions}
 Only \textbf{editors} are allowed to add new files and edit existent ones. You can find the list of allowed editors for a folder in the file \textbf{!AdminAndEditors.txt} in the corresponding folder. If absent, refer to the same file in parent folder.
 
 Only \textbf{admins} are allowed to add new editors. You can find the list of admins for a folder in the file \textbf{!AdminAndEditors.txt} in the corresponding folder. If absent, refer to the same file in parent folder.
