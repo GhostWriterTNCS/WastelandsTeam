@@ -251,9 +251,13 @@ And so on.
 Whenever you make a commit or a merge with the \textit{develop} branch, you must add a comment about your work in the revision history file: \path{./Documents/revisionHistory.tex}.
 
 \subsection{Data access and permissions}
-Only \textit{editors} are allowed to add and edit files, according to the following table.
+The following table indicates \textit{owners} and \textit{editors} for files.
 
-Only the \textit{owners} can enable new \textit{editors}.
+Only the \textit{editors} are allowed to add and edit files.
+
+Only the \textit{owners} are allowed to enable new \textit{editors}, edit the folder and add subfolders. The \textit{owners} are not allowed to edit files (unless they are also editors).
+
+To avoid merge on non-text files, non-text files can be assigned to only one editor at a time.
 
 Everybody can read all the files.
 
@@ -272,8 +276,6 @@ Rules are sorted by priority: first rule has the highest priority and overwrites
 \path{./*} & Francesco Principe, Francesco Periti, Davide Valentini & Francesco Principe, Francesco Periti, Davide Valentini \\ \hline
 \end{tabularx}
 \end{table}
-
-To avoid merge on non-text files, nobody can add/edit non-text files in any directory unless he/she is the directory owner.
 
 \subsection{Backup}
 There are daily backups on three different machines in three different locations.
