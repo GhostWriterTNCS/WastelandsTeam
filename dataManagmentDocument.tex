@@ -15,6 +15,7 @@
 \usepackage{fancyhdr}             % for image in header    
 \usepackage[table,xcdraw]{xcolor} % for color in cell
 \usepackage{float}
+\usepackage{tabularx}
 \restylefloat{table}
 
 \setlength{\parindent}{0pt}
@@ -80,7 +81,7 @@
 % TABELLA 2
 \begin{table}[H]
 \centering
-\begin{tabular}{|l|l|l|}
+  \begin{tabularx}{\textwidth}{|l|l|X|}
 \hline
 \cellcolor{lightgray}\textbf{Who} & \cellcolor{lightgray}\textbf{When} & \cellcolor{lightgray}\textbf{What} \\ \hline
 Francesco Periti & 02/11/2018 & Created this document \\ \hline
@@ -91,7 +92,7 @@ Davide Valentini & 04/11/2018 & Added software list \\ \hline
 Francesco Principe & 05/11/2018 & Global revision \\ \hline
 Davide Valentini & 06/11/2018 & Added file access rules \\ \hline
 Francesco Periti & 06/11/2018 & Added repository structure rules \\ \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
 \clearpage
@@ -120,9 +121,9 @@ Windows 10
 DD/MM/YYYY
 
 \subsection{Text}
-tex (LaTeX).
+Formats: tex (LaTeX).
 
-Use 4-spaces \textbf{tabs} for indentations.
+%Use 4-spaces \textbf{tabs} for indentations.
 
 Use \textbf{double return} to break paragraphs.
 
@@ -131,11 +132,11 @@ Use '\textbf{H}' to place floats (e.g. images and tables) in their correct posit
 Every LaTeX files has 100\% compatibility with any other LaTeX file.
 
 \subsection{Images}
-\textbf{Formats available for assets}: tif/tiff, svg.
+\textbf{Formats for assets}: tif/tiff, svg.
 
-\textbf{Formats available within documentation}: png.
+\textbf{Formats within documentation}: png.
 
-\textbf{Formats available for reference images}: tif/tiff, png, svg, jpeg, jpg, bmp, gif.
+\textbf{Formats for reference images}: tif/tiff, png, svg, jpeg, jpg, bmp, gif.
 
 Size (W x H) is defined according to image category (texture, portrait, input button…):
 \begin{itemize}
@@ -177,7 +178,7 @@ Resolution: 1920x1080px (preferred), 2K, 4K, 1280x720px
 
 FPS: 24+
 
-Format: mkv, avi, mp4
+Formats: mkv, avi, mp4
 
 \subsection{3D Models}
 Software to be defined.
@@ -194,14 +195,15 @@ Maximum number of triangles: to be defined.
 Scale: to be defined.
 
 \section{Data Storage and Access}
-Project data are stored on a private git repository: \textit{git@pong.di.unimi.it:GLD/18/teamdellelande}
+Project data are stored on a private git repository:\\
+	\textit{git@pong.di.unimi.it:GLD/18/teamdellelande}
 
 The repository structure follows the good pratices of GitFlow.
 
 The history graph can become very complex; in order to avoid that, you have to work with two type of branch:
 \begin{itemize}
-\item branch with infinite lifetime;
-\item branch with finite lifetime;
+	\item branch with infinite lifetime
+	\item branch with finite lifetime
 \end{itemize}
 
 \subsection{Branch with infinite lifetime}
@@ -209,9 +211,10 @@ They are the main branches of the project. There are two different infinite life
 \begin{itemize}
 \item \textbf{master}: this branch contains the last project review locked down by the project responsible.
     
-  Only with the last version on master it can be done \textit{the level design to art handoff}.
+  Only with the last version on master it can be done the \textit{level design to art handoff}.
   
   You have not to do any commit/merge in this branch unless the project responsibles agree that the current version can be \textit{locked-down}.
+  
 \item \textbf{develop}: This branch is the development branch. Each one has to work and make his own changes to it.
   
   When you think you had made a good change, you have to do a commit inside here so other can use it.
@@ -236,13 +239,29 @@ When you work on a new content, you have to work on temporary branch and when yo
 And so on.
 
 \subsection*{Revision history}
-Wherever you make a commit or a merge with the \textit{develop} branch, you must remember to add a comment about your work in the revision history file. % QUA POTREMMO METTERE UN LINK CHE TI PORTA ALLA SPIEGAZIONE DI COS'E' QUEL FILE
+Whenever you make a commit or a merge with the \textit{develop} branch, you must add a comment about your work in the revision history file: \path{./Documents/revisionHistory.tex}.
 
 \subsection{Data access and permissions}
-Only \textbf{editors} are allowed to add new files and edit existent ones. You can find the list of allowed editors for a folder in the file \textbf{!AdminAndEditors.txt} in the corresponding folder. If absent, refer to the same file in parent folder.
+Only \textit{editors} are allowed to add and edit files, according to the following table.
 
-Only \textbf{admins} are allowed to add new editors. You can find the list of admins for a folder in the file \textbf{!AdminAndEditors.txt} in the corresponding folder. If absent, refer to the same file in parent folder.
-\input{dataAccessAndPermissions.tex}
+Only the \textit{owners} can enable new \textit{editors}.
+
+Everybody can read all the files.
+
+Rules are sorted by priority: first rule has the highest priority and overwrites the other.
+
+\begin{table}[H]
+\centering
+  \begin{tabularx}{\textwidth}{|X|l|X|}
+\hline
+\cellcolor{lightgray}\textbf{Files} & \cellcolor{lightgray}\textbf{Owner} & \cellcolor{lightgray}\textbf{Editors} \\ \hline
+\path{./Documents/Images/SVG/*} & Davide Valentini & Davide Valentini \\ \hline
+\path{./Documents/Images/Characters/*} & Francesco Principe & Francesco Principe \\ \hline
+\path{./Documents/Images/Logos/*} & Francesco Periti & Francesco Periti \\ \hline
+\path{./Documents/*.tex} & Francesco Principe & Every member of the Wastelands Team \\ \hline
+\end{tabularx}
+\end{table}
+
 \subsection{Backup}
 There are daily backups on three different machines in three different locations.
 Responsibles:
@@ -270,12 +289,12 @@ Responsibles:
 To add notes or comments to a file, create a txt file with the same name in the same folder.
 
 \section{File Naming Convention}
-During the project development has to be respected the following conventions:
+%During the project development has to be respected the following conventions:
 \begin{itemize}
   \item The name of each directory and each file has to be significant and homogeneous.
   \item The name of each file has to begin with a lowercase character. Each time you want to separate two words within a file name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{fileNameExample.ext}
-  \item The name of each file has to begin with a uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
-   \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory
+  \item The name of each folder has to begin with a uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
+   \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory.
 \end{itemize}
 
 
