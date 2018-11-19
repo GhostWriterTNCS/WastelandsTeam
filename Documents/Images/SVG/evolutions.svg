@@ -677,6 +677,21 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
     </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2041-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2039-1-8" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -685,9 +700,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2464.0189"
-     inkscape:cy="181.24774"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="3017.5139"
+     inkscape:cy="22.255169"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -718,7 +733,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -728,6 +743,15 @@
      id="layer1"
      style="display:inline"
      transform="translate(0,1031.811)">
+    <circle
+       style="display:inline;opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle783-5-4"
+       cx="2607.874"
+       cy="668.97626"
+       r="24.243662"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker5779-2-90);marker-end:url(#marker5659);paint-order:normal"
        d="M 1425.3417,-464.88197 H 615.60334"
@@ -873,7 +897,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4790-0"
@@ -881,7 +905,7 @@
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart-4);marker-end:url(#Arrow1Mend-0);paint-order:normal"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -890,7 +914,7 @@
        id="text6329-1"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan6327-1"
          x="1018.9391"
@@ -904,7 +928,7 @@
        id="text6333-7"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan6331-95"
          x="1020.1403"
@@ -917,7 +941,7 @@
        id="text6337-5"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan6335-0"
          x="1531.4348"
@@ -930,7 +954,7 @@
        id="text6341-1"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan6339-3"
          x="500.3299"
@@ -942,7 +966,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4790-6"
@@ -950,7 +974,7 @@
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart-8);marker-end:url(#Arrow1Mend-4);paint-order:normal"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -959,7 +983,7 @@
        id="text6329-32"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan6327-5"
          x="2719.7268"
@@ -973,7 +997,7 @@
        id="text6333-6"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan6331-7"
          x="2720.928"
@@ -986,7 +1010,7 @@
        id="text6337-4"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan6335-8"
          x="3232.2227"
@@ -999,7 +1023,7 @@
        id="text6341-4"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan6339-34"
          x="2201.1172"
@@ -1061,30 +1085,30 @@
     <circle
        style="display:inline;opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-7"
-       cx="1133.8583"
+       cx="793.70081"
        cy="555.59052"
        r="24.243662"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png" />
     <circle
        style="display:inline;opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-9"
-       cx="1133.8583"
+       cx="793.70081"
        cy="668.97638"
        r="24.243662"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png" />
     <circle
        style="display:inline;opacity:1;fill:#df2d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4598-1-74"
-       cx="1133.8583"
+       cx="793.70081"
        cy="782.36218"
        r="24.243662"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png" />
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend);paint-order:normal"
        d="M 793.7008,-578.26771 907.08663,-805.03937"
@@ -1107,20 +1131,20 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path2037-2"
-       d="M 1133.8583,555.59059 V 668.9764"
+       d="M 793.70084,555.59059 V 668.9764"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2041-5);paint-order:normal"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path2037-4"
-       d="M 1133.8583,668.9764 V 782.36222"
+       d="M 793.70084,668.9764 V 782.36222"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2041-0);paint-order:normal"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1349,7 +1373,7 @@
     <text
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        id="text647"
        y="268.12082"
        x="196.25925"
@@ -1363,7 +1387,7 @@
     <text
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        id="text651"
        y="343.80905"
        x="223.73972"
@@ -1377,7 +1401,7 @@
     <text
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        id="text655"
        y="494.89255"
        x="229.89206"
@@ -1391,7 +1415,7 @@
     <text
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        id="text659"
        y="569.92651"
        x="200.67331"
@@ -1405,7 +1429,7 @@
     <text
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        id="text663"
        y="418.74533"
        x="208.48581"
@@ -1419,7 +1443,7 @@
     <text
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        id="text667"
        y="646.12244"
        x="206.06393"
@@ -1433,7 +1457,7 @@
     <circle
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        r="24.243662"
        cy="479.99997"
        cx="113.38583"
@@ -1442,7 +1466,7 @@
     <circle
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        r="24.243662"
        cy="253.22824"
        cx="113.38583"
@@ -1451,7 +1475,7 @@
     <circle
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        r="24.243662"
        cy="328.8187"
        cx="113.38583"
@@ -1460,7 +1484,7 @@
     <circle
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        r="24.243662"
        cy="404.40927"
        cx="113.38583"
@@ -1469,7 +1493,7 @@
     <circle
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        r="24.243662"
        cy="555.59058"
        cx="113.38583"
@@ -1478,7 +1502,7 @@
     <circle
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        r="24.243662"
        cy="631.18115"
        cx="113.38583"
@@ -1487,7 +1511,7 @@
     <text
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        x="216.84521"
@@ -1501,14 +1525,14 @@
     <circle
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="circle685"
        cx="113.38583"
        cy="177.63766"
        r="24.243662" />
     <path
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        sodipodi:nodetypes="cc"
@@ -1517,7 +1541,7 @@
        d="M 113.38583,895.74778 H 226.77167"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d50000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-8);paint-order:normal" />
     <path
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8-3);paint-order:normal"
@@ -1526,7 +1550,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        id="text693"
@@ -1540,7 +1564,7 @@
          id="tspan691"
          sodipodi:role="line">Spare Mizar</tspan></text>
     <text
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\calciferEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\calciferEvolution.png"
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        id="text697"
@@ -1766,7 +1790,7 @@
        x="1897.0466"
        y="268.12082"
        id="text755"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -1780,7 +1804,7 @@
        x="1924.5271"
        y="343.80905"
        id="text759"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -1794,7 +1818,7 @@
        x="1930.6794"
        y="494.89255"
        id="text763"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -1808,7 +1832,7 @@
        x="1901.4607"
        y="569.92651"
        id="text767"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -1822,7 +1846,7 @@
        x="1909.2732"
        y="418.74533"
        id="text771"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -1836,7 +1860,7 @@
        x="1906.8513"
        y="646.12244"
        id="text775"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -1850,7 +1874,7 @@
        cx="1814.1732"
        cy="479.99997"
        r="24.243662"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1859,7 +1883,7 @@
        cx="1814.1732"
        cy="253.22824"
        r="24.243662"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1868,7 +1892,7 @@
        cx="1814.1732"
        cy="328.8187"
        r="24.243662"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1877,7 +1901,7 @@
        cx="1814.1732"
        cy="404.40927"
        r="24.243662"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1886,7 +1910,7 @@
        cx="1814.1732"
        cy="555.59058"
        r="24.243662"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1895,7 +1919,7 @@
        cx="1814.1732"
        cy="631.18115"
        r="24.243662"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -1904,7 +1928,7 @@
        x="1917.6326"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        xml:space="preserve"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-size:40px;stroke-width:0"
@@ -1918,7 +1942,7 @@
        cx="1814.1732"
        id="circle793"
        style="display:inline;opacity:1;fill:#f24cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1929,7 +1953,7 @@
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1938,7 +1962,7 @@
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00840e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6153-8-3);paint-order:normal"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png" />
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Merida';-inkscape-font-specification:'Chess Merida';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1947,7 +1971,7 @@
        id="text801"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan799"
          x="1930.6185"
@@ -1961,7 +1985,7 @@
        id="text805"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"><tspan
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"><tspan
          sodipodi:role="line"
          id="tspan803"
          x="1900.7552"
@@ -2567,10 +2591,10 @@
     <circle
        style="display:inline;opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="circle783-5"
-       cx="2834.6458"
+       cx="2607.874"
        cy="782.36206"
        r="24.243662"
-       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\Evolutions\justinEvolution.png"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -2867,5 +2891,14 @@
        cx="680.315"
        id="circle1059-0"
        style="display:inline;opacity:1;fill:#00b303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2037-2-4"
+       d="M 2607.874,782.36222 V 668.97645"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:5.99999989, 11.99999978;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2041-5-9);paint-order:normal"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\Evolutions\justinEvolution.png" />
   </g>
 </svg>
