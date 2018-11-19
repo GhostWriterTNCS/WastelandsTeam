@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="worldDiagram.svg"
-   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\worldDiagram.png"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\Images\SVG\Exported\worldDiagram.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -300,8 +300,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="619.29288"
-     inkscape:cy="536.74313"
+     inkscape:cx="457.26307"
+     inkscape:cy="670.64053"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -364,18 +364,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        x="416.38278"
-       y="600.29608"
+       y="600.75995"
        id="text829"><tspan
          sodipodi:role="line"
          id="tspan827"
          x="416.38278"
-         y="600.29608"
-         style="fill:#000000;fill-opacity:1;stroke:none">Moving</tspan><tspan
+         y="600.75995"
+         style="fill:#000000;fill-opacity:1;stroke:none">Flying</tspan><tspan
          sodipodi:role="line"
          x="416.38278"
-         y="641.96277"
+         y="642.42664"
          style="fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan833">Castle (hub)</tspan></text>
+         id="tspan833">castle (hub)</tspan></text>
     <g
        id="g962"
        transform="translate(37.795222,-151.18112)">
