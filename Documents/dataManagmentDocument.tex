@@ -12,7 +12,7 @@
 \usepackage{color}                % use if color is used in text
 \usepackage{subfigure}            % use for side-by-side figures
 \usepackage{hyperref}             % use for hypertext links, including those to external documents and URLs
-\usepackage{fancyhdr}             % for image in header    
+\usepackage{fancyhdr}             % for image in header
 \usepackage[table,xcdraw]{xcolor} % for color in cell
 \usepackage{float}
 \usepackage{tabularx}
@@ -220,13 +220,13 @@ The history graph can become very complex; in order to avoid that, you have to w
 They are the main branches of the project. There are two different infinite lifetime branches:
 \begin{itemize}
 \item \textbf{master}: this branch contains the last project review locked down by the project responsible.
-    
+
   Only with the last version on master it can be done the \textit{level design to art handoff}.
-  
+
   You have not to do any commit/merge in this branch unless the project responsibles agree that the current version can be \textit{locked-down}.
-  
+
 \item \textbf{develop}: This branch is the development branch. Each one has to work and make his own changes to it.
-  
+
   When you think you had made a good change, you have to do a commit inside here so others can use it.
   If the project responsibles agree that the current version can be \textit{locked-down} the develop will be merged on the \textit{master} branch and a TAG version will be binded to that commit.
 \end{itemize}
@@ -240,7 +240,7 @@ When you want to add a new content you have not to work on \textit{develop} bran
 
 You have to create a temporary branch where you can work and only when you have finished it you have to merge your branch with the \textit{develop} branch.
 
-%You will never use more this branch so delete it. When you will want to add new content you have to make a new branch e so on. 
+%You will never use more this branch so delete it. When you will want to add new content you have to make a new branch e so on.
 
 \subsection*{Synthesis}
 When you work on a new content, you have to work on a temporary branch and when you have finished you have to merge your commits with the \textit{develop} branch.\\
@@ -258,7 +258,7 @@ Only the \textit{editors} are allowed to add and edit files.
 
 Only the \textit{owners} are allowed to enable new \textit{editors}, edit the folder and add subfolders. The \textit{owners} are not allowed to edit files (unless they are also \textit{editors}).
 
-To avoid merging non-text files, nobody has to add/edit non-text files in any directory, unless he is the owner of the directory and that is a subdirectory of the Images directory. 
+To avoid merging non-text files, nobody has to add/edit non-text files in any directory, unless he is the owner of the directory and that is a subdirectory of the Images directory.
 
 Everybody can read all the files.
 
@@ -289,6 +289,13 @@ Responsibles:
 \end{itemize}
 
 \section{Directory Structure}
+\begin{center}
+  \begin{figure}[H]
+  \centering
+  \vspace*{5\baselineskip}
+  %\includegraphics[width=10cm]{Images/Logos/logoTeam}
+  \end{figure}
+\end{center}
 \begin{itemize}
 \item \textbf{\path{./Documents}}: contains all files used for the level design document and the data management document. Each subfolder but \textit{Images} matches a chapter of the Level Design Document.
   \begin{itemize}
@@ -311,12 +318,58 @@ Responsibles:
 To add notes or comments to a file, create a \textit{txt} file with the same name in the same folder.
 
 \section{File Naming Convention}
-%During the project development has to be respected the following conventions:
+\subsection{General conventions}
+During the project development has always to be respected the following generic conventions:
 \begin{itemize}
-  \item The name of each directory and each file has to be significant and homogeneous.
   \item The name of each file has to begin with a lowercase character. Each time you want to separate two words within a file name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{fileNameExample.ext}
   \item The name of each folder has to begin with an uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
-   \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory.
+   \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory. Each chapter directory has to contain one.
 \end{itemize}
+\subsection{Specific conventions}
+File naming has to respect some conventions in according to the current work directory:
+\begin{itemize}
+  \item LevelDesignDocument:\\
+  Each directory inside this is bound with a chapter. So, each chapter has its own directory named with own name. If you want add a chapter you have to add also the relative directory.
+  \item Inside a chapter directory, each file has to have as a name the name of a section of the chapter.\\
+  If you want add a section you have to add also the relative file.
+  \item Images\/Characters:\\
+  The name of each file inside here has to be the concatenation of three strings:
+  \begin{enumerate}
+    \item the name of character represented. If there are represented more characters you have to link their name with "+" (e.g. Howl+Calcifer).
+    \item the current date (e.g. 2018-1-1)
+    \item the character "\#" followed by the current number of file with this name plus one.
+  \end{enumerate}
+  If there are five image about Sophie and Howl and all of them are added today, your next image about Sophie and Howl (if you add it today) is: \textit{Sophie+Howl2018-1-1\#6}
+  \item Images\/Locations:
+  The name of each file inside here has to be the concatenation of three strings:
+  \begin{enumerate}
+    \item the name of location represented. If there are represented more location you have to link their name with "+" (e.g. Wastelands+SouthernDesert).
+    \item the current date (e.g. 2018-1-1)
+    \item the character "\#" followed by the current number of file with this name plus one.
+  \end{enumerate}
+  If there are five image about Southern Desert and all of them are added today, your next image about it (if you add it today) is: \textit{SouthernDesert2018-1-1\#6}
+  \item Images\/Map:
+  The name of each image inside here has to be the concatenation of three strings:
+  \begin{enumerate}
+    \item the name of level represented. If there are represented more level you have to link their name with "+".
+    \item the current date
+    \item the character "\#" followed by the current number of file with this name plus one.
+  \end{enumerate}
+  \item Images\/Logs:
+  The name of each image inside here has to be the concatenation of two strings:
+  \begin{enumerate}
+    \item "logo"
+    \item the argument of the logo.
+  \end{enumerate}
+  If you want add a logo about a program named "RPG Maker" for example, you have to name this logo \textit{logoRpgMaker}.
+  \item Images\/SVG: \\Each file with extension \textit{.svg} has to have the corrispective file (with the corrispective name) in the exported directory with the extension \textit{.png}.
+  \item Images\/References\/Illustrations:\\
+  he name of each image inside here has to be the concatenation of three strings:
+  \item name,"+",surname of illustrator (e.g. elena+coperchini)
+  \item name of subject illustrated. An example may be a name character if the subject is the character.
+  \item date
+  \item the character "\#" followed by the current number of file with this name plus one.
+  E.g. elena+coperchiniBelzel2018-1-1#0
 
+\end{itemize}
 \end{document}
