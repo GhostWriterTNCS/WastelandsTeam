@@ -42,11 +42,11 @@
   \rfoot{Page \thepage\ of \pageref{LastPage}}
 }
 
+\patchcmd{\chapter}{\thispagestyle{plain}}{\thispagestyle{fancy}}{}{}
+
 \begin{document}
 
-%\thispagestyle{fancy}{
-%  \cfoot{ }
-%}
+\thispagestyle{empty}{}
 
 % logoTeam
 \begin{center}
@@ -64,7 +64,7 @@
   \large \textbf{\textit{PONG - Game and Level Design}}
 \end{center}
 
-\AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{Images/Logos/flyingCastle}};
+\AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{Images/Cover/flyingCastle}}
 
 \vspace{20pt}
 \begin{table}[H]
@@ -76,6 +76,8 @@
     \textbf{Elena Coperchini}	& \underline{\href{mailto:elena.coperchini@gmail.com}{elena.coperchini@gmail.com}}			& \\
 	\end{tabular}
 \end{table}
+
+\pagebreak
 
 \tableofcontents
 
