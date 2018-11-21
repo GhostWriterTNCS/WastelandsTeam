@@ -1,0 +1,97 @@
+\documentclass[12pt]{article}
+
+% PACKAGES
+\usepackage[a4paper,bindingoffset=0in,
+            left=1in,right=1in,top=1in,bottom=1.5in,
+            footskip=.5in]{geometry}
+\usepackage{lastpage}
+\usepackage[ddmmyyyy]{datetime}
+\usepackage{amsmath}              % need for subequations
+\usepackage{graphicx}             % need for figures
+\usepackage{verbatim}             % useful for program listings
+\usepackage{color}                % use if color is used in text
+\usepackage{subfigure}            % use for side-by-side figures
+\usepackage{hyperref}             % use for hypertext links, including those to external documents and URLs
+\usepackage{fancyhdr}             % for image in header
+\usepackage[table,xcdraw]{xcolor} % for color in cell
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{longtable}
+\restylefloat{table}
+
+\setlength{\parindent}{0pt}
+\hypersetup{
+    colorlinks=false,
+    pdfborder={0 0 0},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% HEADER and FOOTER
+\pagestyle{fancy}{
+  \lhead{\includegraphics[width=4.5cm]{../../Logos/logoUnimi}}
+  \rhead{\includegraphics[width=5cm]{../../Logos/logoPong}}
+  \lfoot{Last updated: \today}
+  \cfoot{ }
+  \rfoot{Page \thepage\ of \pageref{LastPage}}
+}
+
+\begin{document}
+
+% logoTeam
+\begin{center}
+  \begin{figure}[H]
+  \centering
+  \vspace*{5\baselineskip}
+  \includegraphics[width=10cm]{../../Logos/logoTeam}
+  \end{figure}
+
+  \vspace{50pt}
+
+  \huge \textbf{Sophie's Flying Castle}
+
+  \Large \textbf{Dungeons \& Djinns}
+
+  \vspace{20pt}
+
+  \large \textbf{\textit{Game and Level Design}}
+
+\end{center}
+
+\vspace{20pt}
+\begin{table}[H]
+  \centering
+  \begin{tabular}{lcr}
+    \textbf{Francesco Periti}	& \underline{\href{mailto:francesco.periti@studenti.unimi.it}{francesco.periti@studenti.unimi.it}}	& 930650 \\
+    \textbf{Francesco Principe}	& \underline{\href{mailto:francesco.principe@studenti.unimi.it}{francesco.principe@studenti.unimi.it}}	& 937622 \\
+    \textbf{Davide Valentini}	& \underline{\href{mailto:davide.valentini1@studenti.unimi.it}{davide.valentini1@studenti.unimi.it}}	& 939054 \\
+    \textbf{Elena Coperchini}	& \underline{\href{mailto:elena.coperchini@gmail.com}{elena.coperchini@gmail.com}}			& \\
+  \end{tabular}
+\end{table}
+
+
+  \vspace{10pt}
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{|l|l|}
+    \hline
+    \cellcolor{lightgray}\textbf{Purpose} &  Define rules for files and directories \\\hline
+    \cellcolor{lightgray}\textbf{Creation date} & 02/11/2018 \\\hline
+    \cellcolor{lightgray}\textbf{Current owner} & Francesco Periti \\\hline
+  \end{tabular}
+\end{table}
+
+\clearpage
+
+\input{revisionHistory}
+
+\clearpage
+
+\input{softwareList}
+\input{dataTypesAndFormat}
+\input{dataStorageAndAccess}
+\input{directoryStructure}
+\input{fileNamingConventions}
+
+\end{document}
