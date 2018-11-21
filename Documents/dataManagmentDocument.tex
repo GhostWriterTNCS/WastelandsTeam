@@ -297,25 +297,26 @@ Responsibles:
   \end{figure}
 \end{center}
 \begin{itemize}
-\item \textbf{\path{./Documents}}: contains all files used for the level design document and the data management document. Each subfolder but \textit{Images} matches a chapter of the Level Design Document.
+\item \textbf{\path{./Documents}}: contains a directory for each document and a template that has to be used for eventual new documents.
   \begin{itemize}
-    \item \textbf{\path{./Documents/dataManagmentDocument.tex}}: this is the current data-managment-document file. It contains all technical features and rules to work on the project.
+    \item \textbf{\path{./DataManagmentDocument}}: contains the data managment document, where you find all technical features and rules to work on the project, and the relative revision history.
 
-    \item \textbf{\path{./Documents/levelDesignDocument.tex}}: this is the current level-design-document file. It contains references to the LaTeX files that compose it.
-
-    \item \textbf{\path{./Documents/revisionHistory.tex}}: contains revision history references for the level design document.
-
-    \item \textbf{\path{./Documents/Characters}}: this directory contains all the LaTeX files about the characters.
-
-    \item \textbf{\path{./Documents/Images}}: this directory contains every useful image for the documentation.
-
-    \item \textbf{\path{./Documents/Images/SVG/Exported}}: this directory contains PNG images exported from SVG files. Don't edit these files directly.
-
-    \item \textbf{\path{./Documents/Story}}: this directory contains all the LaTeX files about the story.
-  \end{itemize}
+    \item \textbf{\path{./LevelDesignDocument}}: contains the level design document, where you find everything about the game and level, the relative revision history, a directory containing images for the whole project and a directory for each chapter. Each chapter subfolder has its own section files and a "index.tex" file.
+    \begin{itemize}
+    \item \textbf{\path{./Images}}: contains every image for the level design documentation. There are some subfolders:
+    \begin{itemize}
+      \item \textbf{\path{/Characters}}: contains one portrait for each character.
+      \item \textbf{\path{/Diagrams}}: contains all diagrams file used in the level design document. If the diagram is a circumplex or an evolution it has to be placed in the relative subfolder.
+        \item \textbf{\path{/Locations}}: contains one picture for each location.
+        \item \textbf{\path{/Maps}}: contains all the maps used in the level design document.
+    \end{itemize}
 \end{itemize}
+\end{itemize}
+    \item \textbf{\path{./Logos}}: contains all the logos (\textit{.png} file) used in the level design document.
 
-To add notes or comments to a file, create a \textit{txt} file with the same name in the same folder.
+    \item \textbf{\path{./ReferenceImages}}: this directory contains all the LaTeX files about the story.
+
+\end{itemize}
 
 \section{File Naming Convention}
 \subsection{General conventions}
