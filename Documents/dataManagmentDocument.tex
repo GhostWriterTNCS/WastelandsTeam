@@ -1,4 +1,4 @@
-\documentclass[12pt]{report}
+\documentclass[12pt]{article}
 
 % PACKAGES
 \usepackage[a4paper,bindingoffset=0in,
@@ -28,8 +28,8 @@
 
 % HEADER and FOOTER
 \pagestyle{fancy}{
-  \lhead{\includegraphics[width=4.5cm]{Images/Logos/logoUnimi}}
-  \rhead{\includegraphics[width=5cm]{Images/Logos/logoPong}}
+  \lhead{\includegraphics[width=4.5cm]{../Logos/logoUnimi}}
+  \rhead{\includegraphics[width=5cm]{../Logos/logoPong}}
   \lfoot{Last updated: \today}
   \cfoot{ }
   \rfoot{Page \thepage\ of \pageref{LastPage}}
@@ -42,7 +42,7 @@
   \begin{figure}[H]
   \centering
   \vspace*{5\baselineskip}
-  \includegraphics[width=10cm]{Images/Logos/logoTeam}
+  \includegraphics[width=10cm]{../Logos/logoTeam}
   \end{figure}
 
   \vspace{50pt}
@@ -108,7 +108,7 @@ Francesco Periti & 18/11/2018 & Added game title \\ \hline
 \section{Software List}
 
 \subsection{Asset Editing Software}
-\textbf{Photoshop CC 2018} for 2D bitmap images.
+\textbf{Photoshop CC 2018} for 2D raster images.
 \textbf{Inkscape 0.92+} for SVG images.
 
 \subsection{Development Software}
@@ -141,11 +141,14 @@ Every LaTeX files has 100\% compatibility with any other LaTeX file.
 If you need to create new documents, use the template file \textit{template.tex}
 
 \subsection{Images}
-\textbf{Formats for assets}: tif/tiff, svg.
+\textbf{Formats for assets}: tif/tiff, svg.\\
+\textbf{Dpi for assets}: 300dpi.
 
-\textbf{Formats for documentation}: png.
+\textbf{Formats for documentation}: png.\\
+\textbf{Dpi for documentation:} 300dpi.
 
 \textbf{Formats for reference images}: tif/tiff, png, svg, jpeg, jpg, bmp, gif.
+\textbf{Dpi for documentation:} any dpi.
 
 Size (W x H) and editing software are defined by the following rules:
 \begin{itemize}
@@ -321,8 +324,10 @@ Responsibles:
 \end{itemize}
     \item \textbf{\path{./Logos}}: contains all the logos (\textit{.png} file) used in the level design document.
 
-    \item \textbf{\path{./ReferenceImages}}: this directory contains all the LaTeX files about the story.
-
+    \item \textbf{\path{./References}}: contains all the reference files.
+      \begin{itemize}
+        \item \textbf{\path{./Images}}: contains all the reference images grouped in folders by argument.
+        \end{itemize}
 \end{itemize}
 
 \section{File Naming Convention}
@@ -332,7 +337,7 @@ During the project development has always to be respected the following generic 
 \begin{itemize}
   \item The name of each file has to begin with a lowercase character. Each time you want to separate two words within a file name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{fileNameExample.ext}
   \item The name of each folder has to begin with an uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
-   \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory. Each chapter directory has to contain one.
+   \item Files named \textit{index.tex} are used as containers, they connect all the other files \textit{.tex} inside the current directory. Each chapter directory has to contain one.
 \end{itemize}
 
 \subsection{Specific conventions}
