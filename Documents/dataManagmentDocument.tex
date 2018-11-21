@@ -1,4 +1,4 @@
-\documentclass[12pt]{article}
+\documentclass[12pt]{report}
 
 % PACKAGES
 \usepackage[a4paper,bindingoffset=0in,
@@ -46,8 +46,15 @@
   \end{figure}
 
   \vspace{50pt}
-  {\huge \textbf{Sophie's Flying Castle}} \\
-  {\large \textbf{ \textit{PONG - Game and Level Design}}}
+  
+  \huge \textbf{Sophie's Flying Castle}
+  
+  \large \textbf{Dungeons \& Djinns}
+  
+  \vspace{20pt}
+  
+  \large \textbf{\textit{Game and Level Design}}
+  
 \end{center}
 
 \vspace{20pt}
@@ -63,7 +70,7 @@
 
 
   \vspace{10pt}
-% TABELLA 1
+
 \begin{table}[H]
   \centering
   \begin{tabular}{|l|l|}
@@ -71,14 +78,12 @@
     \cellcolor{lightgray}\textbf{Purpose} &  Define rules for files and directories \\\hline
     \cellcolor{lightgray}\textbf{Creation date} & 02/11/2018 \\\hline
     \cellcolor{lightgray}\textbf{Current owner} & Francesco Periti \\\hline
-%    \cellcolor{lightgray}\textbf{Last update} & \today \\\hline
   \end{tabular}
 \end{table}
 
 \clearpage
 
 \section*{Revision History}
-% TABELLA 2
 \begin{table}[H]
 \centering
   \begin{tabularx}{\textwidth}{|l|l|X|}
@@ -120,7 +125,7 @@ Francesco Periti & 18/11/2018 & Added game title \\ \hline
 \section{Data Types and Format}
 
 \subsection{Date format}
-DD/MM/YYYY
+Dates in filenames has to be in ISO format YYYY-MM-DD.
 
 \subsection{Text}
 \textbf{Formats}: tex (LaTeX).
@@ -132,6 +137,8 @@ Use \textbf{double return} to break paragraphs.
 Use '\textbf{H}' to place floats (e.g. images and tables) in their correct position. Example: \textit{\textbackslash{}begin\{figure\}[H]}
 
 Every LaTeX files has 100\% compatibility with any other LaTeX file.
+
+If you need to create new documents, use the template file \textit{template.tex}
 
 \subsection{Images}
 \textbf{Formats for assets}: tif/tiff, svg.
@@ -148,61 +155,61 @@ Size (W x H) and editing software are defined by the following rules:
 	\item \textbf{\path{./Documents/Images/SVG}}: Inkscape
 \end{itemize}
 
-\subsection{Audio}
-%Audacity
-
-\textbf{Formats for assets}: flac.
-
-\textbf{Formats for reference audios}: mp3.
-
-Software to be defined.
-
-Contact one of the project owners:
-\begin{itemize}
-	\item francesco.periti@studenti.unimi.it
-	\item francesco.principe@studenti.unimi.it
-	\item davide.valentini1@studenti.unimi.it
-\end{itemize}
-
-Bit rate: 96kbps+
-
-Sampling rate: 44.1-48KHz
-
-Channel: stereo (if available)
-
-\subsection{Video}
-\textbf{Formats for assets}: mkv, avi, mp4.
-
-\textbf{Formats for reference videos}: mkv, avi, mp4, flv.
-
-Software to be defined.
-
-Contact one of the project owners:
-\begin{itemize}
-	\item francesco.periti@studenti.unimi.it
-	\item francesco.principe@studenti.unimi.it
-	\item davide.valentini1@studenti.unimi.it
-\end{itemize}
-
-Resolution: 1920x1080px (preferred), 2K, 4K, 1280x720px
-
-FPS: 24+
-
-\subsection{3D Models}
-\textbf{Formats}: to be defined.
-
-Software to be defined.
-
-Contact one of the project owners:
-\begin{itemize}
-	\item francesco.periti@studenti.unimi.it
-	\item francesco.principe@studenti.unimi.it
-	\item davide.valentini1@studenti.unimi.it
-\end{itemize}
-
-Maximum number of triangles: to be defined.
-
-Scale: to be defined.
+%\subsection{Audio}
+%%Audacity
+%
+%\textbf{Formats for assets}: flac.
+%
+%\textbf{Formats for reference audios}: mp3.
+%
+%Software to be defined.
+%
+%Contact one of the project owners:
+%\begin{itemize}
+%	\item francesco.periti@studenti.unimi.it
+%	\item francesco.principe@studenti.unimi.it
+%	\item davide.valentini1@studenti.unimi.it
+%\end{itemize}
+%
+%Bit rate: 96kbps+
+%
+%Sampling rate: 44.1-48KHz
+%
+%Channel: stereo (if available)
+%
+%\subsection{Video}
+%\textbf{Formats for assets}: mkv, avi, mp4.
+%
+%\textbf{Formats for reference videos}: mkv, avi, mp4, flv.
+%
+%Software to be defined.
+%
+%Contact one of the project owners:
+%\begin{itemize}
+%	\item francesco.periti@studenti.unimi.it
+%	\item francesco.principe@studenti.unimi.it
+%	\item davide.valentini1@studenti.unimi.it
+%\end{itemize}
+%
+%Resolution: 1920x1080px (preferred), 2K, 4K, 1280x720px
+%
+%FPS: 24+
+%
+%\subsection{3D Models}
+%\textbf{Formats}: to be defined.
+%
+%Software to be defined.
+%
+%Contact one of the project owners:
+%\begin{itemize}
+%	\item francesco.periti@studenti.unimi.it
+%	\item francesco.principe@studenti.unimi.it
+%	\item davide.valentini1@studenti.unimi.it
+%\end{itemize}
+%
+%Maximum number of triangles: to be defined.
+%
+%Scale: to be defined.
 
 \section{Data Storage and Access}
 Project data are stored on a private git repository:\\
@@ -318,6 +325,7 @@ Responsibles:
 To add notes or comments to a file, create a \textit{txt} file with the same name in the same folder.
 
 \section{File Naming Convention}
+
 \subsection{General conventions}
 During the project development has always to be respected the following generic conventions:
 \begin{itemize}
@@ -325,51 +333,65 @@ During the project development has always to be respected the following generic 
   \item The name of each folder has to begin with an uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
    \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory. Each chapter directory has to contain one.
 \end{itemize}
+
 \subsection{Specific conventions}
 File naming has to respect some conventions in according to the current work directory:
 \begin{itemize}
-  \item LevelDesignDocument:\\
-  Each directory inside this is bound with a chapter. So, each chapter has its own directory named with own name. If you want add a chapter you have to add also the relative directory.
-  \item Inside a chapter directory, each file has to have as a name the name of a section of the chapter.\\
-  If you want add a section you have to add also the relative file.
-  \item Images\/Characters:\\
-  The name of each file inside here has to be the concatenation of three strings:
-  \begin{enumerate}
-    \item the name of character represented. If there are represented more characters you have to link their name with "+" (e.g. Howl+Calcifer).
-    \item the current date (e.g. 2018-1-1)
-    \item the character "\#" followed by the current number of file with this name plus one.
-  \end{enumerate}
-  If there are five image about Sophie and Howl and all of them are added today, your next image about Sophie and Howl (if you add it today) is: \textit{Sophie+Howl2018-1-1\#6}
-  \item Images\/Locations:
-  The name of each file inside here has to be the concatenation of three strings:
-  \begin{enumerate}
-    \item the name of location represented. If there are represented more location you have to link their name with "+" (e.g. Wastelands+SouthernDesert).
-    \item the current date (e.g. 2018-1-1)
-    \item the character "\#" followed by the current number of file with this name plus one.
-  \end{enumerate}
-  If there are five image about Southern Desert and all of them are added today, your next image about it (if you add it today) is: \textit{SouthernDesert2018-1-1\#6}
-  \item Images\/Map:
-  The name of each image inside here has to be the concatenation of three strings:
-  \begin{enumerate}
-    \item the name of level represented. If there are represented more level you have to link their name with "+".
-    \item the current date
-    \item the character "\#" followed by the current number of file with this name plus one.
-  \end{enumerate}
-  \item Images\/Logs:
+  \item \textbf{LevelDesignDocument}:\\
+  Each directory inside this is bound with a chapter. So, each chapter has a directory named with its own name. If you want to add a chapter you have to add also the relative directory.
+  \item Inside a chapter directory, each file has to be named after the section of the chapter. If you want add a section you have to add also the relative file.
+  
+  \item \textbf{Images/Characters}:\\
+  The name of each file inside here has to be the name of the character.\\
+  Example: \textit{sophie.png}
+%  The name of each file inside here has to be the concatenation of three strings:
+%  \begin{enumerate}
+%    \item the name of character represented. If there are represented more characters you have to link their name with "+" (e.g. Howl+Calcifer).
+%    \item the current date (e.g. 2018-1-1)
+%    \item the character "\#" followed by the current number of file with this name plus one.
+%  \end{enumerate}
+%  If there are five image about Sophie and Howl and all of them are added today, your next image about Sophie and Howl (if you add it today) is: \textit{Sophie+Howl2018-1-1\#6}
+
+  \item \textbf{Images/Locations}:
+  The name of each file inside here has to be the name of the location.\\
+  Example: \textit{castleOfKingsbury.png}
+%  The name of each file inside here has to be the concatenation of three strings:
+%  \begin{enumerate}
+%    \item the name of location represented. If there are represented more location you have to link their name with "+" (e.g. Wastelands+SouthernDesert).
+%    \item the current date (e.g. 2018-1-1)
+%    \item the character "\#" followed by the current number of file with this name plus one.
+%  \end{enumerate}
+%  If there are five image about Southern Desert and all of them are added today, your next image about it (if you add it today) is: \textit{SouthernDesert2018-1-1\#6}
+
+  \item \textbf{Images/Map}:
+  The name of each file inside here has to be the name of the location.\\
+  Example: \textit{kingsbury.png}
+%  The name of each image inside here has to be the concatenation of three strings:
+%  \begin{enumerate}
+%    \item the name of level represented. If there are represented more level you have to link their name with "+".
+%    \item the current date
+%    \item the character "\#" followed by the current number of file with this name plus one.
+%  \end{enumerate}
+
+  \item \textbf{Images/Logos}:
   The name of each image inside here has to be the concatenation of two strings:
   \begin{enumerate}
     \item "logo"
-    \item the argument of the logo.
+    \item the name of the logo.
   \end{enumerate}
-  If you want add a logo about a program named "RPG Maker" for example, you have to name this logo \textit{logoRpgMaker}.
-  \item Images\/SVG: \\Each file with extension \textit{.svg} has to have the corrispective file (with the corrispective name) in the exported directory with the extension \textit{.png}.
-  \item Images\/References\/Illustrations:\\
+  Example: \textit{logoUnimi.png}
+
+  \item \textbf{Images/Diagrams}: \\Each file with extension \textit{.svg} has to have the corrispective file (with the corrispective name) in the exported directory with the extension \textit{.png}.
+
+  \item \textbf{Images/References/Illustrations}:\\
   he name of each image inside here has to be the concatenation of three strings:
-  \item name,"+",surname of illustrator (e.g. elena+coperchini)
+  \begin{enumerate}
+  \item name\_surname of illustrator (e.g. elena\_coperchini)
   \item name of subject illustrated. An example may be a name character if the subject is the character.
-  \item date
+  \item date in ISO format YYYY-MM-DD
   \item the character "\#" followed by the current number of file with this name plus one.
-  E.g. elena+coperchiniBelzel2018-1-1#0
+  \end{enumerate}
+  Example: \textit{elena\_coperchiniBelzel2018-1-1\#0}
 
 \end{itemize}
 \end{document}
