@@ -30,7 +30,7 @@
          offset="0"
          id="stop2012" />
       <stop
-         style="stop-color:#ffd596;stop-opacity:1"
+         style="stop-color:#ffc089;stop-opacity:1"
          offset="1"
          id="stop2014" />
     </linearGradient>
@@ -168,8 +168,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="455.3054"
-     inkscape:cy="355.76203"
+     inkscape:cx="189.40156"
+     inkscape:cy="637.33324"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
