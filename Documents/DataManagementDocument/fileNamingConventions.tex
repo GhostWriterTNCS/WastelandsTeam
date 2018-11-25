@@ -1,5 +1,5 @@
 \subsection{General conventions}
-During the project development has always to be respected the following generic conventions:
+During the project development you have to respect the following generic conventions:
 \begin{itemize}
   \item The name of each file has to begin with a lowercase character. Each time you want to separate two words within a file name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{fileNameExample.ext}
   \item The name of each folder has to begin with an uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
@@ -12,7 +12,7 @@ During the project development has always to be respected the following generic 
 \rowcolor[HTML]{9B9B9B} 
 \multicolumn{1}{|l|}{\cellcolor[HTML]{9B9B9B}\textbf{PATH}} & \multicolumn{1}{l|}{\cellcolor[HTML]{9B9B9B}\textbf{CONVENTIONS}}                 \\ \hline
 \path{/Documents/} &
-Each directory inside this, is bound with a document.
+Each directory inside this is bound with a document.
 
 So, each document has a directory named after its own name.
 
@@ -37,14 +37,39 @@ If you want add a section you have to add also the relative file \textit{.tex}.
 Example: \textit{sectionName.tex} \\\hline
 
 \path{/Documents/LevelDesignDocument/Images/Characters} &
-The name of each file inside here has to be the name of the character.
+The name of each file inside here has to be the name of the character. There is only one image for each character.
 
 Example: \textit{sophie.png} \\\hline
 
 \path{/Documents/LevelDesignDocument/Images/Locations}  &
-The name of each file inside here has to be the name of the location.
+The name of each file inside here has to be the name of the location. There is only one image for each location.
 
 Example: \textit{castleOfKingsbury.png} \\\hline
+
+\path{/Documents/LevelDesignDocument/Images/Maps}       &
+The name of each file inside here has to be the name of the location.
+
+Example: \textit{kingsbury.png} \\\hline
+
+\path{/Documents/LevelDesignDocument/Images/Diagrams}   & For each \textit{.svg} file create a \textit{.png} file with the same name exported from the \textit{.svg} file itself.
+
+	Each file inside a subdirectory has to be named as the concatenation of two strings:
+   \begin{itemize}
+   \item character name
+   \item directory name (singular)
+   \end{itemize}
+   Example: \textit{sophieEvolution.png}
+
+   Each other file has to have a name which clarify the content.
+   
+   Example: \textit{worldDiagram.svg} \\\hline
+   
+\path{/Documents/DataManagementDocument/} &
+   Each file inside this, is bound with a section.
+
+So, each section has a file named after its own name.
+
+If you want to add a section you have to add also the relative file. \\\hline
 
 \path{/Logos} &
 The name of each image inside here has to be the concatenation of two strings:
@@ -54,23 +79,7 @@ The name of each image inside here has to be the concatenation of two strings:
    \end{itemize}
 Example: \textit{logoUnimi.png} \\\hline
 
-\path{/Documents/LevelDesignDocument/Images/Maps}       &
-The name of each file inside here has to be the name of the location.
-
-Example: \textit{kingsbury.png} \\
-
-\path{/Documents/LevelDesignDocument/Images/Diagrams}   & Each file with extension \textit{.svg} has to have the corrispective file (with the corrispective name) in the exported directory with the
-
-  extension \textit{.png}. Each file inside a subdirectory has to be named as the concatenation of two strings:
-   \begin{itemize}
-   \item character name
-   \item directory name (singular)
-   \end{itemize}
-   Example: \textit{sophieEvolution.png}
-
-   Each other file has to have the name of the content. \\\hline
-   
-   \path{/References/Image/} &
+   \path{/References/Images/} &
    Subfolders name are the same as the subfolder contained in \path{/Documents/LevelDesignDocument/Images/}.
 
    Each file inside a subdirectory has to be named as the concatenation of three strings:
@@ -81,16 +90,8 @@ Example: \textit{kingsbury.png} \\
 \item directory name (singular)
 \end{itemize}
 
-Example: \textit{5dynamiaLocation.png}
-
-
+Example: \textit{dynamiaLocation.png}
 
 Each other file has to be named after its content following the general conventions. \\\hline
-\path{/Documents/DataManagementDocument/} &
-   Each file inside this, is bound with a section.
-
-So, each section has a file named after its own name.
-
-If you want to add a section you have to add also the relative file. \\\hline
 
 \end{longtable}

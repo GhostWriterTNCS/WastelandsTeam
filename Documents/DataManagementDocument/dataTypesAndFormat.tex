@@ -1,7 +1,7 @@
 \section{Data Types and Format}
 
 \subsection{Date format}
-Dates in filenames has to be in ISO format YYYY-MM-DD.
+Dates in filenames have to be in ISO format YYYY-MM-DD.
 
 \subsection{Text}
 \textbf{Formats}: tex (LaTeX).
@@ -23,13 +23,23 @@ If you need to create new documents, use the template file \textit{template.tex}
 
 \textbf{Formats for reference images}: tif/tiff, png, svg, jpeg, jpg, bmp, gif.
 
-Size (W x H) and editing software are defined by the following rules:
-\begin{itemize}
-	\item \textbf{\path{./Documents/Images/Characters}}: 250px x 350px, Photoshop
-	\item \textbf{\path{./Documents/Images/SVG/Exported/Circumplexes}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/circumplexes.svg}
-	\item \textbf{\path{./Documents/Images/SVG/Exported/Evolutions}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/evolutions.svg}
-	\item \textbf{\path{./Documents/Images/SVG}}: Inkscape
-\end{itemize}
+%Size (W x H) and editing software are defined by the following rules:
+%\begin{itemize}
+%	\item \textbf{\path{./Documents/Images/Characters}}: 250px x 350px, Photoshop
+%	\item \textbf{\path{./Documents/Images/SVG/Exported/Circumplexes}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/circumplexes.svg}
+%	\item \textbf{\path{./Documents/Images/SVG/Exported/Evolutions}}: 1321px x 895px, exported from \path{./Documents/Images/SVG/evolutions.svg}
+%	\item \textbf{\path{./Documents/Images/SVG}}: Inkscape
+%\end{itemize}
+\begin{table}[H]
+\begin{tabularx}{\textwidth}{|X|l|X|}
+\hline
+\rowcolor[HTML]{C0C0C0} 
+\textbf{PATH} & \textbf{WxH (px)} & \textbf{EDITOR} \\ \hline
+\path{./Documents/Images/Characters/*} & 250x350 & Photoshop \\ \hline
+\path{./Documents/Images/Diagrams/*.png} & - & Exported from the \textit{svg} file with the same name. \\ \hline
+\path{./Documents/Images/Diagrams/*.svg} & - & Inkscape \\ \hline
+\end{tabularx}
+\end{table}
 
 %\subsection{Audio}
 %%Audacity
