@@ -673,9 +673,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="657.79976"
-     inkscape:cy="1149.4038"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="628.95822"
+     inkscape:cy="1087.9697"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -700,7 +700,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -797,7 +797,7 @@
          x="1058.2677"
          y="-669.57001"
          style="font-size:29.33333397px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan3911">in World Diagram</tspan></text>
+         id="tspan3911">in the World Diagram</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect3913"
@@ -1022,11 +1022,11 @@
          x="226.8712"
          sodipodi:role="line"
          style="font-size:21.33333397px">Sophie, Calcifer and Howl</tspan><tspan
-         y="576.39465"
+         y="576.39471"
          x="226.8712"
          sodipodi:role="line"
          id="tspan2945-1"
-         style="font-size:21.33333397px">find out the hideout of Mizar's</tspan><tspan
+         style="font-size:21.33333397px">find out the hideout of Mizar’s</tspan><tspan
          y="607.16089"
          x="226.8712"
          sodipodi:role="line"
@@ -1149,7 +1149,7 @@
          sodipodi:role="line"
          x="755.91687"
          y="598.26801"
-         id="tspan219-7">7.1 .Mizar's past</tspan><tspan
+         id="tspan219-7">7.1 .Mizar’s past</tspan><tspan
          sodipodi:role="line"
          x="755.91687"
          y="628.26801"
@@ -1161,9 +1161,9 @@
          style="font-size:21.33333397px">Howl uses the magic door to</tspan><tspan
          sodipodi:role="line"
          x="755.91687"
-         y="689.03418"
+         y="689.03424"
          id="tspan2958-6"
-         style="font-size:21.33333397px">see Mizar's past and discover</tspan><tspan
+         style="font-size:21.33333397px">see Mizar’s past and discover</tspan><tspan
          sodipodi:role="line"
          x="755.91687"
          y="719.80042"
@@ -1408,9 +1408,9 @@
          x="226.59435"
          sodipodi:role="line"
          style="font-size:21.33333397px"
-         id="tspan2281-6">Belzel to open a magic gate</tspan><tspan
+         id="tspan2281-6">Belzel to open a magic portal</tspan><tspan
          id="tspan1602-0"
-         y="377.65891"
+         y="377.65894"
          x="226.59435"
          sodipodi:role="line"
          style="font-size:21.33333397px">to the spirits realm</tspan></text>
@@ -1446,11 +1446,11 @@
          sodipodi:role="line"
          x="755.80603"
          y="264.27286"
-         id="tspan2238-3">until they find Belze’s home</tspan><tspan
+         id="tspan2238-3">until they find Belzel’s home</tspan><tspan
          id="tspan1620-3"
          sodipodi:role="line"
          x="755.80603"
-         y="295.03909" /></text>
+         y="295.03906" /></text>
     <text
        id="text1604-3-0"
        y="371.49646"
@@ -1493,7 +1493,7 @@
          sodipodi:role="line"
          x="226.64146"
          y="709.66962"
-         id="tspan219-5-3">7.2. The nal choice</tspan><tspan
+         id="tspan219-5-3">7.2. The final choice</tspan><tspan
          sodipodi:role="line"
          x="226.64146"
          y="739.66962"
@@ -1696,5 +1696,5 @@
            height="103.937"
            x="3193.7007"
            y="-1145.1969" /></flowRegion><flowPara
-         id="flowPara8028"></flowPara></flowRoot>  </g>
+         id="flowPara8028" /></flowRoot>  </g>
 </svg>
