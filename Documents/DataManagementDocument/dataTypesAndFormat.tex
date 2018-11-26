@@ -10,16 +10,20 @@ Dates in filenames have to be in ISO format YYYY-MM-DD.
 
 Use \textbf{double return} to break paragraphs.
 
-Use '\textbf{H}' to place floats (e.g. images and tables) in their correct position. Example: \textit{\textbackslash{}begin\{figure\}[H]}
+Use '\textbf{H}' to place floats (e.g. images and tables) in their correct position.
+
+Example: \textit{\textbackslash{}begin\{figure\}[H]}\\
 
 Every LaTeX files has 100\% compatibility with any other LaTeX file.
 
 If you need to create new documents, use the template file \textit{template.tex}
 
 \subsection{Images}
-\textbf{Formats for assets}: tif/tiff, svg.
+\textbf{Formats for assets}: tif/tiff, svg.\\
+\textbf{Dpi for assets}: 300.\\
 
-\textbf{Formats for documentation}: png.
+\textbf{Formats for documentation}: png.\\
+\textbf{Dpi for documentation}: 300.\\
 
 \textbf{Formats for reference images}: tif/tiff, png, svg, jpeg, jpg, bmp, gif.
 
@@ -34,10 +38,13 @@ If you need to create new documents, use the template file \textit{template.tex}
 \begin{tabularx}{\textwidth}{|X|l|X|}
 \hline
 \rowcolor[HTML]{C0C0C0} 
-\textbf{PATH} & \textbf{WxH (px)} & \textbf{EDITOR} \\ \hline
-\path{./Documents/Images/Characters/*} & 250x350 & Photoshop \\ \hline
-\path{./Documents/Images/Diagrams/*.png} & - & Exported from the \textit{svg} file with the same name. \\ \hline
-\path{./Documents/Images/Diagrams/*.svg} & - & Inkscape \\ \hline
+\textbf{PATH} & \textbf{W$\times$H (type)} & \textbf{EDITOR} \\\hline
+\path{./Documents/Images/Characters/*} & 250$\times$350 & Photoshop \\ \hline
+\path{./Documents/Images/Diagrams/*.png} & \begin{tabular}[c]{@{}l@{}}from 150$\times$150\\ to 3000$\times$3000\end{tabular} & Exported from the \textit{svg} file with the same name. \\\hline
+\path{./Documents/Images/Diagrams/*.svg} & \begin{tabular}[c]{@{}l@{}}from 150$\times$150\\ to 3000$\times$3000\end{tabular} & Inkscape \\\hline
+\path{./Documents/Images/Locations/*} & 450$\times$350 & Photoshop \\\hline
+\path{./Logos/*} & \begin{tabular}[c]{@{}l@{}}550$\times$170 (small)\\ 1900$\times$670 (big) \\ 940$\times$1329 (cover)\end{tabular} & Photoshop \\\hline
+\path{./References/Images/*} & \begin{tabular}[c]{@{}l@{}}from 150$\times$150\\ to 3000$\times$3000\end{tabular} & Photoshop \\\hline
 \end{tabularx}
 \end{table}
 

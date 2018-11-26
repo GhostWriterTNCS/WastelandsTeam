@@ -1,11 +1,14 @@
 \subsection{General conventions}
 During the project development you have to respect the following generic conventions:
 \begin{itemize}
-  \item The name of each file has to begin with a lowercase character. Each time you want to separate two words within a file name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{fileNameExample.ext}
+  \item The name of each file has to begin with a lowercase character. Each time you want to separate two words within a file name, you have not to add a space between them but you have to make the first character of the second word uppercase. If you have more than one version of the file, add an underscore before the file type identifier: \textit{fileNameExample\_type.ext}
   \item The name of each folder has to begin with an uppercase character. Each time you want to separate two words within a directory name, you have not to add a space between them but you have to make the first character of the second word uppercase: \textit{FolderNameExample}
   \item Files named \textit{index.tex} are used as containers, they connect all the other files inside the current directory. Each chapter directory has to contain one.
-  \item Never separate words.
+  %\item Never separate words.
 \end{itemize}
+
+\newpage
+
 \subsection{Specific conventions}
 \begin{longtable}[H]{|p{8cm}|p{8cm}|}
 \hline
@@ -46,10 +49,10 @@ The name of each file inside here has to be the name of the location. There is o
 
 Example: \textit{castleOfKingsbury.png} \\\hline
 
-\path{/Documents/LevelDesignDocument/Images/Maps}       &
-The name of each file inside here has to be the name of the location.
-
-Example: \textit{kingsbury.png} \\\hline
+%\path{/Documents/LevelDesignDocument/Images/Maps}       &
+%The name of each file inside here has to be the name of the location.
+%
+%Example: \textit{kingsbury.png} \\\hline
 
 \path{/Documents/LevelDesignDocument/Images/Diagrams}   & For each \textit{.svg} file create a \textit{.png} file with the same name exported from the \textit{.svg} file itself.
 
@@ -77,21 +80,22 @@ The name of each image inside here has to be the concatenation of two strings:
    \item logo
    \item the name of the logo
    \end{itemize}
-Example: \textit{logoUnimi.png} \\\hline
+Example: \textit{logoUnimi\_small.png} \\\hline
 
-   \path{/References/Images/} &
-   Subfolders name are the same as the subfolder contained in \path{/Documents/LevelDesignDocument/Images/}.
+\path{/References/Images/} &
+   Folders inside this directory are named according to their topic. You can use up to three words in the name of the topic.
 
-   Each file inside a subdirectory has to be named as the concatenation of three strings:
+   %Each file inside a subdirectory has to be named as the concatenation of three strings:
 
 \begin{itemize}
-\item a number, the count of the images with the same name.
-\item character name
-\item directory name (singular)
+\item topic name
+%\item directory name (singular)
+\item underscore
+\item counter starting from 1
 \end{itemize}
 
-Example: \textit{dynamiaLocation.png}
+Example: \textit{Dynamia/dynamia\_5.png} \\\hline
 
-Each other file has to be named after its content following the general conventions. \\\hline
+%Each other file has to be named after its content following the general conventions.
 
 \end{longtable}
