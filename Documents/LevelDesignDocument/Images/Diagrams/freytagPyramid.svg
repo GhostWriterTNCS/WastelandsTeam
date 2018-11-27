@@ -15,8 +15,11 @@
    width="2216"
    height="1136"
    viewBox="0 0 2216 1136"
-   sodipodi:docname="piramide.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="freytagPyramid.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\freytagPyramid.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata86">
     <rdf:RDF>
@@ -45,8 +48,8 @@
      id="namedview82"
      showgrid="false"
      inkscape:zoom="0.31723122"
-     inkscape:cx="951.57032"
-     inkscape:cy="619.05651"
+     inkscape:cx="1167.8574"
+     inkscape:cy="442.78266"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -66,28 +69,28 @@
      id="rect102"
      width="508.21054"
      height="168.69173"
-     x="-81.14286"
+     x="1.6640112"
      y="817.83453"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="-46.977444"
+     x="35.82943"
      y="866.94739"
      id="text136"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"><tspan
        sodipodi:role="line"
        id="tspan134"
-       x="-46.977444"
+       x="35.82943"
        y="866.94739">Sophie comes to </tspan><tspan
        sodipodi:role="line"
-       x="-46.977444"
+       x="35.82943"
        y="916.94739"
        id="tspan138">Dynamia with Calcifer</tspan><tspan
        sodipodi:role="line"
-       x="-46.977444"
+       x="35.82943"
        y="966.94739"
        id="tspan144">to look for Howl</tspan></text>
   <rect
@@ -95,29 +98,29 @@
      id="rect102-3"
      width="508.21054"
      height="168.69173"
-     x="260.51126"
-     y="415.32327"
+     x="258.28226"
+     y="428.69724"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="294.6767"
-     y="464.43613"
+     x="292.44769"
+     y="477.81009"
      id="text136-5"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"><tspan
        sodipodi:role="line"
-       x="294.6767"
-       y="464.43613"
+       x="292.44769"
+       y="477.81009"
        id="tspan144-9">Sophie discovers that </tspan><tspan
        sodipodi:role="line"
-       x="294.6767"
-       y="514.43616"
+       x="292.44769"
+       y="527.81012"
        id="tspan178">his friend Justin has </tspan><tspan
        sodipodi:role="line"
-       x="294.6767"
-       y="564.43616"
+       x="292.44769"
+       y="577.81012"
        id="tspan180">been imprisoned</tspan></text>
   <rect
      style="fill:#8787de"
@@ -125,24 +128,24 @@
      width="508.21054"
      height="168.69173"
      x="819.96991"
-     y="-7.4736772"
+     y="6.5263228"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="858.40607"
-     y="60.85722"
+     y="74.857224"
      id="text136-5-2"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"><tspan
        sodipodi:role="line"
        x="858.40607"
-       y="60.85722"
+       y="74.857224"
        id="tspan180-9">Sophie frees Justin </tspan><tspan
        sodipodi:role="line"
        x="858.40607"
-       y="110.85722"
+       y="124.85722"
        id="tspan220">from the castle prison</tspan></text>
   <rect
      style="fill:#8787de"
@@ -150,28 +153,28 @@
      width="508.21054"
      height="168.69173"
      x="1368.7518"
-     y="417.45865"
+     y="424.14563"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="1394.376"
-     y="466.5715"
+     y="473.25848"
      id="text136-5-2-6"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"><tspan
        sodipodi:role="line"
        x="1394.376"
-       y="466.5715"
+       y="473.25848"
        id="tspan220-8">Sophie runs away from</tspan><tspan
        sodipodi:role="line"
        x="1394.376"
-       y="516.57153"
+       y="523.25854"
        id="tspan262">the enemy guards with</tspan><tspan
        sodipodi:role="line"
        x="1394.376"
-       y="566.57153"
+       y="573.25854"
        id="tspan264">Justin</tspan></text>
   <rect
      style="fill:#8787de"
@@ -179,42 +182,32 @@
      width="508.21054"
      height="168.69173"
      x="1659.1578"
-     y="838.12036"
+     y="836.12036"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="1693.3232"
-     y="887.23322"
+     x="1688.8652"
+     y="907.52319"
      id="text136-9"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"><tspan
        sodipodi:role="line"
-       x="1693.3232"
-       y="887.23322"
+       x="1688.8652"
+       y="907.52319"
        id="tspan144-2">Sophie comes back to </tspan><tspan
        sodipodi:role="line"
-       x="1693.3232"
-       y="937.23322"
-       id="tspan298">the flying castle and </tspan><tspan
-       sodipodi:role="line"
-       x="1693.3232"
-       y="987.23322"
-       id="tspan300">go to Kingsbury</tspan></text>
-  <path
-     id="path327"
-     style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 257.07812,200.19141 c -0.52127,0.002 -2.15139,0.71577 -2.89648,0.84961 -1.81126,0.32536 -3.61878,0.67761 -5.43945,0.94531 -10.6952,1.57252 -21.35953,0.0245 -32.12305,0.20508 -13.23563,0.16116 -12.40543,-0.0562 -25.92187,0.97461 -4.85365,0.37017 -9.68811,0.98069 -14.54493,1.30664 -27.52102,1.84697 -55.11464,2.92904 -82.681637,3.73437 -21.129757,0.61728 -20.160963,21.94887 0.96875,21.33008 27.608287,-0.80851 55.244557,-1.88567 82.806637,-3.73828 5.12525,-0.3445 10.22761,-0.97342 15.34961,-1.36328 12.78314,-0.97297 11.93592,-0.76999 24.25977,-0.89258 10.72768,0.0341 21.93424,1.13045 32.75195,-0.01 3.52632,1.01662 8.27119,0.45976 13.70117,-2.6582 0.65173,-0.37423 1.08594,-0.63529 1.49805,-0.89258 0.0427,-0.0169 0.0862,-0.0298 0.12891,-0.0469 -0.005,-0.008 -0.009,-0.0139 -0.0137,-0.0215 2.52018,-1.60207 0.40303,-1.55791 -4.30469,-7.33984 -3.60866,-7.05933 -3.68723,-10.52548 -4.48047,-11.38477 0.40734,-0.1509 0.76773,-0.36258 1.01953,-0.71484 0.14674,-0.20528 0.0956,-0.28379 -0.0781,-0.2832 z m -3.4375,1.63086 c -0.007,0.004 -0.0143,0.008 -0.0215,0.0117 -0.001,-0.002 -9.3e-4,-0.004 -0.002,-0.006 0.007,-0.003 0.0162,-0.003 0.0234,-0.006 z"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+       x="1688.8652"
+       y="957.52319"
+       id="tspan300">the flying castle</tspan></text>
   <rect
      style="fill:#ffffff"
      id="rect341"
      width="792.21051"
      height="418.52631"
-     x="-25.62406"
-     y="-117.44361"
+     x="0"
+     y="0"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
 </svg>
