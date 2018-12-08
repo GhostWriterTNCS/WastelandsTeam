@@ -703,9 +703,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="662.25303"
-     inkscape:cy="1501.4167"
+     inkscape:zoom="0.7"
+     inkscape:cx="782.71677"
+     inkscape:cy="1532.778"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -831,7 +831,7 @@
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect3913"
-       width="396.85043"
+       width="453.5433"
        height="491.33853"
        x="1096.063"
        y="-918.42517"
@@ -1608,24 +1608,24 @@
     <text
        id="text8012"
        y="-865.27991"
-       x="1294.4882"
+       x="1322.1185"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#3188ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-size:29.33333397px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          y="-865.27991"
-         x="1294.4882"
+         x="1322.1185"
          sodipodi:role="line"
-         id="tspan241">#. Mission name</tspan><tspan
+         id="tspan241">Level number. Mission name</tspan><tspan
          style="font-size:29.33333397px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          y="-833.7475"
-         x="1294.4882"
+         x="1322.1185"
          sodipodi:role="line"
-         id="tspan8018">[Level]</tspan><tspan
+         id="tspan8018">[Level name]</tspan><tspan
          style="font-size:24px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          y="-803.7475"
-         x="1294.4882"
+         x="1322.1185"
          sodipodi:role="line"
          id="tspan8020">Brief description</tspan></text>
     <flowRoot
@@ -1700,7 +1700,7 @@
          y="-519.2049"
          x="793.71118"
          sodipodi:role="line"
-         style="font-size:29.33333397px">2.2. A wizard duty</tspan><tspan
+         style="font-size:29.33333397px">2.2. A wizard’s duty</tspan><tspan
          y="-487.67245"
          x="793.71118"
          sodipodi:role="line"
