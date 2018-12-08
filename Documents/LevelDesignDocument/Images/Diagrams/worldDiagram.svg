@@ -167,9 +167,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="151.72835"
-     inkscape:cy="269.28965"
+     inkscape:zoom="0.7"
+     inkscape:cx="216.97433"
+     inkscape:cy="927.75299"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -255,28 +255,13 @@
          y="642.42664"
          style="fill:#000000;fill-opacity:1;stroke:none"
          id="tspan833">castle (hub)</tspan></text>
-    <g
-       id="g974"
-       transform="translate(75.590545,-113.38582)">
-      <rect
-         y="187.08652"
-         x="491.33865"
-         height="94.488197"
-         width="226.77164"
-         id="rect20-56"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-      <text
-         id="text829-9"
-         y="246.27724"
-         x="641.04669"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         xml:space="preserve"><tspan
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           y="246.27724"
-           x="641.04669"
-           sodipodi:role="line"
-           id="tspan1029">Prison</tspan></text>
-    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect20-56"
+       width="283.46436"
+       height="94.488197"
+       x="538.58289"
+       y="73.700699" />
     <g
        id="g945"
        transform="translate(56.692926,37.795162)">
@@ -602,17 +587,17 @@
        id="rect1281-7"
        width="56.692917"
        height="56.692917"
-       x="585.82678"
+       x="557.48029"
        y="92.598396" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffe9a9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="614.17322"
+       x="585.82672"
        y="133.0542"
        id="text871-9-6"><tspan
          sodipodi:role="line"
          id="tspan869-4-1"
-         x="614.17322"
+         x="585.82672"
          y="133.0542"
          style="fill:#000000;fill-opacity:1;stroke:none">3.2</tspan></text>
     <rect
@@ -972,5 +957,21 @@
        height="226.77168"
        x="-151.18111"
        y="1273.7007" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="716.93835"
+       y="109.41322"
+       id="text1440-8"><tspan
+         sodipodi:role="line"
+         x="716.93835"
+         y="109.41322"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan1436-4">Castle of</tspan><tspan
+         sodipodi:role="line"
+         x="716.93835"
+         y="151.0799"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan1438-4">Dynamia</tspan></text>
   </g>
 </svg>
