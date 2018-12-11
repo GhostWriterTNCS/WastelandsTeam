@@ -1,0 +1,16 @@
+# TexMaker generated files
+build/
+
+# LaTex generated files
+*.out
+*.aux
+*.toc
+*.log
+*.pdf
+
+# script compilazione
+*.sh
+
+# file temporanei di ubuntu
+*~
+[#]*[#]
