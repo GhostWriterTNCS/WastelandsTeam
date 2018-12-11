@@ -1,0 +1,44 @@
+\section{Directories Structure}
+This is the main directories structure. Note that it describes the general case for each directory. In the next page, instead there is the specific structure of directory \textit{Images}. 
+\begin{center}
+  \begin{figure}[H]
+  \centering
+  %\vspace*{5\baselineskip}
+  \includegraphics[height=15.5cm]{directories}
+  \end{figure}
+\end{center}
+\begin{center}
+  \begin{figure}[H]
+  \centering
+  %\vspace*{5\baselineskip}
+  \includegraphics[height=22cm]{directoryImage}
+  \end{figure}
+\end{center}
+\begin{itemize}
+\item \textbf{\path{./Documents}}: contains a directory for each document and a template that has to be used for eventual new documents.
+  \begin{itemize}
+    \item \textbf{\path{./DataManagmentDocument}}: contains the data managment document, where you find all technical features and rules to work on the project, and the relative revision history.
+
+    \item \textbf{\path{./LevelDesignDocument}}: contains the level design document, where you find everything about the game and level, the relative revision history, a directory containing images for the whole project and a directory for each chapter. Each chapter subfolder has its own section files and a "index.tex" file.
+    \begin{itemize}
+    \item \textbf{\path{./Images}}: contains every image for the level design documentation. There are some subfolders:
+    \begin{itemize}
+    \item \textbf{\path{/Characters}}: contains one portrait for each character.
+      \item \textbf{\path{/Enemies}}: contains one portrait for each type of enemy.
+      \item \textbf{\path{/Diagrams}}: contains all diagrams file used in the level design document. If the diagram is a circumplex or an evolution it has to be placed in the relative subfolder.
+      \item \textbf{\path{/Locations}}: contains one picture for each location.
+        \item \textbf{\path{/Landmarks}}: contains one picture for each landmark in the gameplay.
+        \item \textbf{\path{/Maps}}: contains all the maps used in the level design document.
+        \item \textbf{\path{/Clothes}}: contains one picture for each cloth collectable.
+        \item \textbf{\path{/Hats}}: contains one picture for each hat collectable.
+        \item \textbf{\path{/Lanterns}}: contains one picture for each lantern collectable.
+        \item \textbf{\path{/CraftingMaterials}}: contains one picture for each type of crafting material.
+    \end{itemize}
+\end{itemize}
+\end{itemize}
+    \item \textbf{\path{./Logos}}: contains all the logos (\textit{.png} file) used in the level design document.
+
+    \item \textbf{\path{./References/Images}}: this directory contains all the reference images for the project. Each image must be placed in the folder corresponding to the image topic.
+
+\end{itemize}
+
