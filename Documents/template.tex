@@ -1,0 +1,51 @@
+\documentclass[12pt]{report}
+
+% PACKAGES
+\usepackage[a4paper,bindingoffset=0in,
+            left=1in,right=1in,top=1in,bottom=1.5in,
+            footskip=.5in]{geometry}
+\usepackage{lastpage}
+\usepackage[ddmmyyyy]{datetime}
+\usepackage{amsmath}    % need for subequations
+\usepackage{graphicx}   % need for figures
+\usepackage{verbatim}   % useful for program listings
+\usepackage{color}      % use if color is used in text
+\usepackage{subfigure}  % use for side-by-side figures
+\usepackage{hyperref}   % use for hypertext links, including those to external documents and URLs
+\usepackage{fancyhdr}   % for image in header
+\usepackage[outline]{contour} %contorno
+\usepackage{float}
+\restylefloat{table}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{screenplay-pkg}
+\usepackage{eso-pic}
+\usepackage{pst-text}
+\usepackage{transparent} % TRASPARENZA
+\usepackage{efbox} % PER ETICHETTA 
+
+\newlength{\mydimen}
+\setlength{\mydimen}{10mm}
+
+
+\setlength{\parindent}{1em}
+\hypersetup{
+    colorlinks=false,
+    pdfborder={0 0 0},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% HEADER and FOOTER
+\pagestyle{fancy}{
+  \lhead{\includegraphics[width=4.5cm]{../../Logos/logoUnimi}}
+  \rhead{\includegraphics[width=5cm]{../../Logos/logoPong}}
+  \lfoot{Last updated: \today}
+  \cfoot{ }
+  \rfoot{Page \thepage\ of \pageref{LastPage}}
+}
+
+\patchcmd{\chapter}{\thispagestyle{plain}}{\thispagestyle{fancy}}{}{}
+
+\begin{document}
+
+\end{document}
