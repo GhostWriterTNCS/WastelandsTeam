@@ -15,7 +15,7 @@
    viewBox="0 0 2798.8502 3292.185"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="castleOfDynamia.svg"
    inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\castleOfDynamia.png"
    inkscape:export-xdpi="96"
@@ -1138,6 +1138,22 @@
        fx="1029.9213"
        fy="942.99213"
        r="28.846495" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker22909-0-1-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#3188ff;fill-opacity:1;fill-rule:evenodd;stroke:#3188ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22907-0-5-6" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1146,11 +1162,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497477"
-     inkscape:cx="1137.3144"
-     inkscape:cy="2681.4066"
+     inkscape:zoom="0.35000002"
+     inkscape:cx="2073.7048"
+     inkscape:cy="763.23919"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="cm"
      inkscape:snap-global="true"
@@ -1308,15 +1324,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="985.26624"
-       y="6402.8188"
+       x="985.26642"
+       y="6365.021"
        id="text21782-9-8-3"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan21780-2-6-9"
-         x="985.26624"
-         y="6402.8188"
+         x="985.26642"
+         y="6365.021"
          style="font-size:74.66666412px;stroke:none">J</tspan></text>
     <path
        style="display:inline;opacity:1;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1535,6 +1551,12 @@
          y="6482.9111"
          x="623.62262"
          sodipodi:role="line">floor</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.19607843;fill-rule:nonzero;stroke:#3188ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:6, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22909-0-1-1);paint-order:normal"
+       d="m 963.78021,6602.8277 h 28.3464 V 6479.993 h -122.8346 v -132.2834 h 37.7953 v 18.8976 h -18.8977 v 94.4882 h 122.83469 v 47.2441 h 28.3465"
+       id="path2141-0-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
     <path
        style="opacity:1;fill:#383838;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 623.62273,6451.6467 425.19697,56.6929"
