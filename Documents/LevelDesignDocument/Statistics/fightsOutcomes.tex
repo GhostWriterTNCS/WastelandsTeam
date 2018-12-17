@@ -1,15 +1,228 @@
 \section{Fights Outcomes}
-In the following table we will show the expected outcomes for all of the encounters in the level \textit{In enemy territory}.
+In the following tables we will show the expected outcomes for all of the encounters in the level \textit{In enemy territory}. \\
+\textbf{Damages per turn} inflicted by a character is calculated as follows:\\\\
+$(E[diceWeapon] + bonus) \cdot P(throw \ge (TAC0 - EnemyAC) on 1d20)$\\\\
+Estimated \textbf{turns to defeat a character} are calculated as follows:\\\\
+$\frac{EnemyHP}{DamagePerTurn}$\\\\
+For each Sophie's level (3 and 4) we will show the values for four situations: with no bonus, with intermiadiate bounuses and
+with maximum bonus.\\
+She deals the same amount of damage to the guards and demons because they have the same AC. 
 \begin{table}[H]
-\begin{tabular}{|c|l|l|l|l|}
-\hline
+  \centering
+  \begin{tabular}{|c|c|c|}
+    \hline
+    \rowcolor[HTML]{9B9B9B} 
+    \multicolumn{3}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie - Level 3}}} \\ \hline
+    \rowcolor[HTML]{C0C0C0} 
+    \textbf{Bonus} & \textbf{Dice} & \textbf{Damages per turn to guard or demon} \\ \hline
+    0 & 1d8 & 3.15 \\ \hline
+    1 & 1d8 & 3.85 \\ \hline
+    2 & 1d8 & 4.5 \\ \hline
+    3 & 1d8 & 5.25 \\ \hline
+    %0 & 1d10 & 5.5 \\ \hline
+    %1 & 1d10 & 6.5 \\ \hline
+    %2 & 1d10 & 7.5 \\ \hline
+    %3 & 1d10 & 8.5 \\ \hline
+  \end{tabular}
+  \quad
+  \centering
+  \begin{tabular}{|c|c|c|}
+    \hline
+    \rowcolor[HTML]{9B9B9B} 
+    \multicolumn{3}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie - Level 4}}} \\ \hline
+    \rowcolor[HTML]{C0C0C0} 
+    \textbf{Bonus} & \textbf{Dice} & \textbf{Damages per turn to guard or demon} \\ \hline
+    0 & 1d8 & 3.15 \\ \hline
+    1 & 1d8 & 3.85 \\ \hline
+    2 & 1d8 & 4.5 \\ \hline
+    3 & 1d8 & 5.25 \\ \hline
+    %0 & 1d10 & 5.5 \\ \hline
+    %1 & 1d10 & 6.5 \\ \hline
+    %2 & 1d10 & 7.5 \\ \hline
+    %3 & 1d10 & 8.5 \\ \hline
+  \end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{|c|c|c|}
+  \hline
+  \rowcolor[HTML]{9B9B9B} 
+  \multicolumn{3}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie - Level 3}}} \\ \hline
+  \rowcolor[HTML]{C0C0C0} 
+  \textbf{Bonus} & \textbf{Dice} & \textbf{Damages per turn to guard-demon} \\ \hline
+   0 & 1d8 & 2.92 \\ \hline
+  1 & 1d8 & 3.57 \\ \hline
+  2 & 1d8 & 4.22 \\ \hline
+  3 & 1d8 & 4.87 \\ \hline
+  %0 & 1d10 & 5.5 \\ \hline
+  %1 & 1d10 & 6.5 \\ \hline
+  %2 & 1d10 & 7.5 \\ \hline
+  %3 & 1d10 & 8.5 \\ \hline
+\end{tabular}
+\quad
+\centering
+\begin{tabular}{|c|c|c|}
+  \hline
+  \rowcolor[HTML]{9B9B9B} 
+  \multicolumn{3}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie - Level 4}}} \\ \hline
+  \rowcolor[HTML]{C0C0C0} 
+  \textbf{Bonus} & \textbf{Dice} & \textbf{Damages per turn to guard-demon} \\ \hline
+  0 & 1d8 & 2.92 \\ \hline
+  1 & 1d8 & 3.57 \\ \hline
+  2 & 1d8 & 4.22 \\ \hline
+  3 & 1d8 & 4.87 \\ \hline
+  %0 & 1d10 & 5.5 \\ \hline
+  %1 & 1d10 & 6.5 \\ \hline
+  %2 & 1d10 & 7.5 \\ \hline
+  %3 & 1d10 & 8.5 \\ \hline
+\end{tabular}
+\end{table}
+We assume that the probabilities to have 0, 1, 2, 3 bonus are respectively 0.60, 0.25, 0.10, 0.05.
+
+So the expected value of Sophie's \textbf{dameges per turns to guards or demons} is :\\
+$3.15 \cdot 0.50 + 3.85 \cdot 0.35 + 4.5 \cdot 0.10 + 5.25 \cdot 0.05 = 3.63$.\\
+
+The expected value of Sophie's \textbf{dameges per turns to guards or demons} is:
+$2.92 \cdot 0.50 + 3.57 \cdot 0.35 + 4.22 \cdot 0.10 + 4.87 \cdot 0.05 = 3.37$.
+
+\begin{table}[H]
+  \scalebox{0.75}{
+    \centering
+    \begin{tabular}{c|c|c|c|c|c|}
+      \cline{2-6}
+      \multicolumn{1}{l|}{} & \multicolumn{5}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Turns to defeat enemies}}} \\
+      \hline
+      \rowcolor[HTML]{C0C0C0}
+      \multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{Level}} & \textbf{Guard x1} & \textbf{Demon x1} & \textbf{Guard x1, Demon x1}
+      & \textbf{Guard x2, Demon x1} & \textbf{Guard x2, Demon x2} \\ \hline
+      3 & 2.75 & \multicolumn{1}{c|}{2.75} & 5.5 & 8.25 & 11 \\ \hline
+      4 & 2.75 & \multicolumn{1}{c|}{2.75} & 5.5 & 8.25 & 11 \\ \hline
+  \end{tabular}}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{l|c|}
+    \cline{2-2} & \cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Turns to defeat Boss}} \\ \hline
+    \rowcolor[HTML]{C0C0C0} 
+    \multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{Level}} & \textbf{Guard demons x1} \\ \hline
+    \multicolumn{1}{|l|}{3} & 5.92 \\ \hline
+    \multicolumn{1}{|l|}{4} & 5.92 \\ \hline
+  \end{tabular}
+\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[H]
+  \centering
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    \rowcolor[HTML]{9B9B9B} 
+    \multicolumn{4}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Guard - Level 3}}} \\ \hline
+    \rowcolor[HTML]{C0C0C0} 
+    \textbf{Range bonus} & \textbf{Dice} & \textbf{Sophie's AC} & \textbf{Damages per turn to Sophie} \\ \hline
+    -1 & 1d8 & 4 & 3.15 \\ \hline
+    0 & 1d8 & 4 & 3.15 \\ \hline
+    1 & 1d8 & 4 & 3.15 \\ \hline
+    -1 & 1d8 & 5 & 3.85 \\ \hline
+    0 & 1d8 & 5 & 3.85 \\ \hline
+    1 & 1d8 & 5 & 3.85 \\ \hline
+    -1 & 1d8 & 6 & 4.5 \\ \hline
+    0 & 1d8 & 6 & 4.5 \\ \hline
+    1 & 1d8 & 6 & 4.5 \\ \hline
+    -1 & 1d8 & 7 & 5.25 \\ \hline
+    0 & 1d8 & 7 & 5.25 \\ \hline
+    1 & 1d8 & 7 & 5.25 \\ \hline
+    %0 & 1d10 & 5.5 \\ \hline
+    %1 & 1d10 & 6.5 \\ \hline
+    %2 & 1d10 & 7.5 \\ \hline
+    %3 & 1d10 & 8.5 \\ \hline
+  \end{tabular}
+  \quad
+  \centering
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    \rowcolor[HTML]{9B9B9B} 
+    \multicolumn{4}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Guard - Level 4}}} \\ \hline
+    \rowcolor[HTML]{C0C0C0} 
+    \textbf{Range bonus} & \textbf{Dice} & \textbf{Sophie's AC} & \textbf{Damages per turn to Sophie} \\ \hline
+    -1 & 1d8 & 4 & 3.15 \\ \hline
+    0 & 1d8 & 4 & 3.15 \\ \hline
+    1 & 1d8 & 4 & 3.15 \\ \hline
+    -1 & 1d8 & 5 & 3.85 \\ \hline
+    0 & 1d8 & 5 & 3.85 \\ \hline
+    1 & 1d8 & 5 & 3.85 \\ \hline
+    -1 & 1d8 & 6 & 4.5 \\ \hline
+    0 & 1d8 & 6 & 4.5 \\ \hline
+    1 & 1d8 & 6 & 4.5 \\ \hline
+    -1 & 1d8 & 7 & 5.25 \\ \hline
+    0 & 1d8 & 7 & 5.25 \\ \hline
+    1 & 1d8 & 7 & 5.25 \\ \hline
+    %0 & 1d10 & 5.5 \\ \hline
+    %1 & 1d10 & 6.5 \\ \hline
+    %2 & 1d10 & 7.5 \\ \hline
+    %3 & 1d10 & 8.5 \\ \hline
+  \end{tabular}
+\end{table}
+So the expected value of guard's \textbf{dameges per turns to Sophie} is :\\
+$3.15 \cdot 0.50 + 3.85 \cdot 0.35 + 4.5 \cdot 0.10 + 5.25 \cdot 0.05 = 3.63$.\\
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    \rowcolor[HTML]{9B9B9B} 
+    \multicolumn{4}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Demon - Level 3}}} \\ \hline
+    \rowcolor[HTML]{C0C0C0} 
+    \textbf{Range bonus} & \textbf{Dice} & \textbf{Sophie's AC} & \textbf{Damages per turn to Sophie} \\ \hline
+    0 & 1d8 & 4 & 3.15 \\ \hline
+    0 & 1d8 & 5 & 3.85 \\ \hline
+    0 & 1d8 & 6 & 4.5 \\ \hline
+    0 & 1d8 & 7 & 5.25 \\ \hline
+    %0 & 1d10 & 5.5 \\ \hline
+    %1 & 1d10 & 6.5 \\ \hline
+    %2 & 1d10 & 7.5 \\ \hline
+    %3 & 1d10 & 8.5 \\ \hline
+  \end{tabular}
+  \quad
+  \centering
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    \rowcolor[HTML]{9B9B9B} 
+    \multicolumn{4}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Demon - Level 4}}} \\ \hline
+    \rowcolor[HTML]{C0C0C0} 
+    \textbf{Range bonus} & \textbf{Dice} & \textbf{Sophie's AC} & \textbf{Damages per turn to Sophie} \\ \hline
+    0 & 1d8 & 4 & 3.15 \\ \hline
+    0 & 1d8 & 5 & 3.85 \\ \hline
+    0 & 1d8 & 6 & 4.5 \\ \hline
+    0 & 1d8 & 7 & 5.25 \\ \hline
+    %0 & 1d10 & 5.5 \\ \hline
+    %1 & 1d10 & 6.5 \\ \hline
+    %2 & 1d10 & 7.5 \\ \hline
+    %3 & 1d10 & 8.5 \\ \hline
+  \end{tabular}
+\end{table}
+So the expected value of demons's \textbf{dameges per turns to Sophie} is :\\
+$3.15 \cdot 0.50 + 3.85 \cdot 0.35 + 4.5 \cdot 0.10 + 5.25 \cdot 0.05 = 3.63$.\\
+
+
+\begin{table}[H]
+  \scalebox{0.7}{
+\begin{tabular}{cl|c|c|c|l|c|}
+\cline{3-7}
+\multicolumn{1}{l}{} &  & \multicolumn{5}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Turns to defeat Sophie}}} \\ \hline
 \rowcolor[HTML]{C0C0C0} 
-\textbf{Enemies} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Damage by Sophie}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Damage to Sophie}} & \textbf{Turns to defeat Enemies} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Turns to defeat Sophie}} \\ \hline
-Guard x1 &  &  &  &  \\ \hline
-Demon x1 &  &  &  &  \\ \hline
-Guard x1, demon x1 &  &  &  &  \\ \hline
-Guard x2, demon x1 &  &  &  &  \\ \hline
-Guard x2, demon x2 &  &  &  &  \\ \hline
-Guard demon x1 &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \textbf{Guard x1} & \textbf{Demon x1} & \textbf{Guard x1, Demons x1} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Guard x1, Demons x1}} & \textbf{Guard x2, Demons x2} \\ \hline
+\multicolumn{1}{|c|}{1} &  &  &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{2} &  &  &  &  &  &  \\ \hline
+\end{tabular}}
+\end{table}
+\begin{table}[H]
+\begin{tabular}{cl|c|}
+\cline{3-3}
+\multicolumn{1}{l}{} &  & \multicolumn{1}{l|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Turns to defeat Sophie}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \textbf{Guard demon x1} \\ \hline
+\multicolumn{1}{|c|}{1} &  &  \\ \hline
+\multicolumn{1}{|c|}{2} &  &  \\ \hline
 \end{tabular}
 \end{table}
