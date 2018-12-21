@@ -72,9 +72,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="487.57753"
-     inkscape:cy="730.87511"
+     inkscape:zoom="1.4"
+     inkscape:cx="456.96501"
+     inkscape:cy="720.94911"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -324,7 +324,7 @@
          sodipodi:role="line"
          id="tspan5110"
          x="623.62201"
-         y="357.16531">Justin</tspan></text>
+         y="357.16531">Prison</tspan></text>
     <rect
        style="opacity:1;fill:#0056ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect5114"
@@ -403,15 +403,15 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:121.00000381%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        x="321.06714"
-       y="359.37552"
+       y="349.9267"
        id="text5100-0-1"><tspan
          sodipodi:role="line"
          id="tspan5098-6-2"
          x="321.06714"
-         y="359.37552">Enter the</tspan><tspan
+         y="349.9267">Enter the</tspan><tspan
          sodipodi:role="line"
          x="321.06714"
-         y="385.18884"
+         y="375.74002"
          id="tspan5266-8">castle</tspan></text>
   </g>
   <g
