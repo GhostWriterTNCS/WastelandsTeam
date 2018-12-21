@@ -24,6 +24,9 @@
 \usepackage{tabularx}
 \usepackage{longtable}
 
+\expandafter\def\expandafter\UrlBreaks\expandafter{\UrlBreaks%  save the current one
+  \do\*\do\-\do\~\do\'\do\"\do\-}
+
 \usepackage{titlesec}
 \newcommand{\sectionbreak}{\clearpage}
 
