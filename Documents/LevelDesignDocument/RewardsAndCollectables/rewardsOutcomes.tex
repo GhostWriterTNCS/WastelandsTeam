@@ -1,0 +1,88 @@
+\section{Rewards Outcomes}
+A difficulty level is associated with each reward. These difficulty levels may be used to estimate how are the player stats in a specific levels in according depending on which reward he may have gotten. Each estimation for each stat in each level is calculated with the following formula: \\\\
+\begin{equation}
+  E[Stat]= \frac{\sum_{i}^{n} Stat\textsubscript{reward\textsubscript{i}}
+  \cdot
+  P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10})}
+  {\sum_{i}^{n}P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10}}
+\end{equation}
+\\\\
+where n is the number of reward that the player may have in a certain level.\\
+\textit{Example:}\\
+If the player has gotten \textit{Derby} (D) and \textit{Balmoral Bonnet} (BB) the expected value of wisdom is:\\\\
+\begin{equation}
+E[Wisdom]= \frac{Wisdom\textsubscript{D} \cdot P(1-\frac{Difficulty\textsubscript{D}}{10}) +
+  Wisdom\textsubscript{BB} \cdot P(1-\frac{Difficulty\textsubscript{BB}}{10})}
+{P(1-\frac{Difficulty\textsubscript{D}}{10})+P(1-\frac{Difficulty\textsubscript{BB}}{10})} 
+\end{equation}
+\begin{center}
+  $= \frac{1*1 + 2*0.6}{1.6} =1.37$
+  \end{center}
+\\
+Dice estimation is made in terms of expected value of the dice:\\\\
+\begin{equation}
+  E[Dice]= \frac{\sum_{i}^{n} E[dice]{reward\textsubscript{i}}
+  \cdot
+  P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10})}
+  {\sum_{i}^{n}P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10}}
+\end{equation}
+The final bonus estimation is simply the sum of hat estimation, clothes estimation and lantern estimation.\\\\
+\begin{center}
+  $E[Stat]=E[Stat]\textsubscript{hats} + E[Stat]\textsubscript{lanterns} + E[Stat]\textsubscript{clothes}$
+  \end{center}
+
+\subsection{Rewards for levels}
+The following table rapresents the possible rewards for levels.
+\begin{table}[H]
+  \scalebox{0.80}{
+\begin{tabular}{|
+        >{\columncolor[HTML]{C0C0C0}}p{4.0cm} |p{5.0cm}|p{5.0cm}|p{5.0cm}|}
+\cline{2-4}
+\multicolumn{1}{l|}{} & \multicolumn{3}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Possible rewards gotten}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}}} & \textbf{Possible hats gotten} & \textbf{Possible lantern gotten} & \textbf{Possible clothes gotten} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} & Derby &  & Sophie’s dress \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} & Derby, Bearskin, Balmoral Bonnet, Winter & Magic Lantern, Spacious  & Sophie’s dress
+\\\hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator  & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask, Wolf spirit, Bear headgear, Dog headgear,Pungiball & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask, Wolf spirit, Bear headgear, Dog headgear,Pungiball, Sultan  of piety, Sultan  of vengeance & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic, Gold, Five Hits, Cristal, American & Sophie’s dress, Guard, I love Venice  \\ \hline
+\end{tabular}}
+\end{table}
+
+The next table contains all the expected bonus value for each stats in each level.
+\begin{table}[H]
+  \centering
+\begin{tabular}{c|c|c|l|l|}
+\cline{2-5}
+ & \multicolumn{4}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie Stats Bonus}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}}} & \textbf{HP} & \textbf{AC} & \textbf{TAC0} & \textbf{Dice}\\\hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} &  &  &  & \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} &  &  &  &   \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}} &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}} &  &  &  &   \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+  \centering
+\begin{tabular}{c|c|c|l|l|c|}
+\cline{2-6}
+ & \multicolumn{5}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie Stats Bonus}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Strenght}}} & \textbf{Intelligence} & \textbf{Wisdom} & \textbf{Dexterity} & \textbf{Consitution} & \textbf{Charisma} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} &  &  &  &  &   \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} &  &  &  &  & \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} &  &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}}&  &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} &  &  &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &  &  &  &  & \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}}&  &  &  &  & \\ \hline
+\end{tabular}
+\end{table}
