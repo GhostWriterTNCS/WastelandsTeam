@@ -19,9 +19,9 @@ E[Wisdom]= \frac{Wisdom\textsubscript{D} \cdot P(1-\frac{Difficulty\textsubscrip
   $= \frac{1*1 + 2*0.6}{1.6} =1.37$
   \end{center}
 
-Dice estimation is made in terms of expected value of the dice:\\\\
+The weapons estimation are made in terms of expected values of the dice:\\\\
 \begin{equation}
-  E[Dice]= \frac{\sum_{i}^{n} E[dice]{reward\textsubscript{i}}
+  E[Dice]= \frac{\sum_{i}^{n} E[dice]\textsubscript{reward\textsubscript{i}}
   \cdot
   P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10})}
   {\sum_{i}^{n}P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10})}
@@ -42,47 +42,48 @@ The following table rapresents the possible rewards for levels.
 \rowcolor[HTML]{C0C0C0} 
 \multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}}} & \textbf{Possible hats gotten} & \textbf{Possible lantern gotten} & \textbf{Possible clothes gotten} \\ \hline
 \multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} & Derby &  & Sophie’s dress \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} & Derby, Bearskin, Balmoral Bonnet, Winter & Magic Lantern, Spacious  & Sophie’s dress
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} & Winter, Ascot cap & Magic Lantern, Spacious  & Sophie’s dress
 \\\hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator  & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China & Sophie’s dress, Guard, I love Venice  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China & Sophie’s dress, Guard, I love Venice  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic & Sophie’s dress, Guard, I love Venice  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask, Wolf spirit, Bear headgear, Dog headgear,Pungiball & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic & Sophie’s dress, Guard, I love Venice  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask, Wolf spirit, Bear headgear, Dog headgear,Pungiball, Sultan  of piety, Sultan  of vengeance & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic, Gold, Five Hits, Cristal, American & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} & Balmoral Bonnet, Shako, Baseball,  Nurse, Sombrero, Bucket & Demonic, Smelly, Perfumed & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}} & Suliman's hat, Fez, Christmas, Non la & Silver, Diamond & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} & Winged helmet, Desert, Non la, Boomers helmet,  Bearskin, Mask & Belzel’s lantern, China, Arabic & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &Panter, Bear headgear, Dog headgear & Gold & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}} & Helmet & & Sophie’s dress, Guard, I love Venice  \\ \hline
 \end{tabular}}
 \end{table}
 
 The next table contains all the expected bonus value for each stats in each level.
 \begin{table}[H]
   \centering
-\begin{tabular}{c|c|c|l|l|}
-\cline{2-5}
- & \multicolumn{4}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie Stats Bonus}}} \\ \hline
+\begin{tabular}{c|c|c|l|}
+\cline{2-4}
+ & \multicolumn{3}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie Stats Bonus}}} \\ \hline
 \rowcolor[HTML]{C0C0C0} 
-\multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}}} & \textbf{HP} & \textbf{AC} & \textbf{TAC0} & \textbf{Weapon}\\\hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} &  &  &  & \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} &  &  &  &   \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}} &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}} &  &  &  &   \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}}} & \textbf{AC} & \textbf{TAC0} & \textbf{Weapon}\\\hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} &    & 0 & \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}}   &  & 0.47 &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}}   &  &  &   \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}}   &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}}   &  &  &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &  &    &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}} &  &    &   \\ \hline
 \end{tabular}
 \end{table}
 
 \begin{table}[H]
+  \scalebox{0.8}{
   \centering
-\begin{tabular}{c|c|c|l|l|c|}
-\cline{2-6}
- & \multicolumn{5}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie Stats Bonus}}} \\ \hline
+\begin{tabular}{c|c|c|l|l|c|c|}
+\cline{2-7}
+ & \multicolumn{6}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie Stats Bonus}}} \\ \hline
 \rowcolor[HTML]{C0C0C0} 
-\multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Strenght}}} & \textbf{Intelligence} & \textbf{Wisdom} & \textbf{Dexterity} & \textbf{Consitution} & \textbf{Charisma} \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} &  &  &  &  &   \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} &  &  &  &  & \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} &  &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}}&  &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} &  &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &  &  &  &  & \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}}&  &  &  &  & \\ \hline
-\end{tabular}
+&  \textbf{Strenght} & \textbf{Intelligence} & \textbf{Wisdom} & \textbf{Dexterity} & \textbf{Consitution} & \textbf{Charisma} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} & 0& 0 & +1 &  0&  0 & 0 \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} &  &  &  &  &  &\\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} &  &  &  &  & &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}}&  &  &  &  &  & \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} &  &  &  &  & &  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &  &  &  &  &  &\\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}}&  &  &  &  & & \\ \hline
+\end{tabular}}
 \end{table}
