@@ -27,5 +27,25 @@
 \subsection{Description}
 Guards of Dynamia are chosen by the Captain among the strongest, fastest and smartest people of Dynamia after many months of training. They are all good shooters, experts in the usage of arquebus and devoted to the sovereign.
 
+\subsection{Final State Machine}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{Images/Diagrams/FSMs/guardFSM}
+  \caption{FSM for the guard}
+\end{figure}
+
+\begin{itemize}
+	\item \textbf{Patrolling}: the guard roams around in its area and looks around.
+	\item \textbf{Alerted}: the guard moves towards the noise source and looks around for the player.
+	\item \textbf{Fighting}:
+	\begin{itemize}
+		\item \textbf{Close}: the guard goes away from the player.
+		\item \textbf{Short range}: the guard attacks the player (short range attack).
+		\item \textbf{Medium range}: the guard attacks the player (medium range attack).
+		\item \textbf{Long range}: the guard moves towards the player.
+	\end{itemize}
+	\item \textbf{Defeated}: the guard falls down confused.
+\end{itemize}
+
 For more reference images: \url{http://wastelandsteam.altervista.org/guards/}\\
 Password: \textit{gld18}
