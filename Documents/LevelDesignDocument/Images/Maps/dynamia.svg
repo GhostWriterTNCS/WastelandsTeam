@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
-   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\dynamiaMainMissions.png"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\dynamiaPuzzles.png"
    sodipodi:docname="dynamia.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    id="svg8"
@@ -76,13 +76,13 @@
     </filter>
   </defs>
   <sodipodi:namedview
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      units="px"
      showgrid="true"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer10"
      inkscape:document-units="px"
-     inkscape:cy="651.88613"
-     inkscape:cx="199.35661"
+     inkscape:cy="738.65561"
+     inkscape:cx="365.69263"
      inkscape:zoom="0.51"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -3864,6 +3864,28 @@
          x="432.82266"
          y="712.64899"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none">2</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Puzzles">
+    <path
+       style="display:inline;fill:#ffb051;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 270.54954,264.41023 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67198,-20.99612 -13.31655,-31.67809 -9.36981,-15.06316 -12.16626,-21.52796 -12.16626,-28.12583 0,-10.66317 9.49012,-22.93877 20.12346,-26.02997 15.33293,-4.4574 30.3638,2.77037 35.86396,17.24561 3.71481,9.77658 1.73296,18.28488 -7.68328,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
+       id="path5105-02-2-5-19-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#f0ddc2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="272.17334"
+       y="210.68286"
+       id="text563-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan561-2-68"
+         x="272.17334"
+         y="210.68286"
+         style="fill:#000000;fill-opacity:1">1</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

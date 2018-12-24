@@ -1536,14 +1536,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15595691"
-     inkscape:cx="1399.0648"
-     inkscape:cy="1779.7874"
+     inkscape:zoom="0.11027819"
+     inkscape:cx="1579.1738"
+     inkscape:cy="1658.6928"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer8"
      showgrid="true"
      units="cm"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -4475,23 +4475,23 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Puzzles"
-     style="display:none">
+     style="display:inline">
     <path
        style="display:inline;opacity:1;fill:#ffb051;fill-opacity:1;stroke:#000000;stroke-width:12.39610577;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 202.78574,2677.8866 c -0.7972,-3.9484 -3.0444,-16.2435 -4.9937,-27.3225 -4.9024,-27.8605 -21.0903,-66.3688 -42.0936,-100.1347 -29.6183,-47.6145 -38.4577,-68.0499 -38.4577,-88.9058 0,-33.7065 29.9983,-72.5097 63.6105,-82.2811 48.46729,-14.0899 95.98009,8.7573 113.36589,54.5138 11.7425,30.9036 5.4781,57.7984 -24.287,104.2658 -30.1319,47.0409 -44.859,82.0168 -51.7469,122.8952 -2.7277,16.1888 -5.1167,22.4473 -8.84279,23.1649 -3.2755,0.6306 -5.625,-1.5904 -6.5547,-6.1956 z"
+       d="m 193.33692,2677.3198 c -0.7972,-3.9484 -3.0444,-16.2435 -4.9937,-27.3225 -4.9024,-27.8605 -21.0903,-66.3688 -42.0936,-100.1347 -29.6183,-47.6145 -38.4577,-68.0499 -38.4577,-88.9058 0,-33.7065 29.9983,-72.5097 63.6105,-82.2811 48.46729,-14.0899 95.98009,8.7573 113.36589,54.5138 11.7425,30.9036 5.4781,57.7984 -24.287,104.2658 -30.1319,47.0409 -44.859,82.0168 -51.7469,122.8952 -2.7277,16.1888 -5.1167,22.4473 -8.84279,23.1649 -3.2755,0.6306 -5.625,-1.5904 -6.5547,-6.1956 z"
        id="path5105-02-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.01093292px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#f0ddc2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.16100717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="206.82254"
-       y="2503.1226"
+       x="197.37372"
+       y="2502.5557"
        id="text563-9-8"><tspan
          sodipodi:role="line"
          id="tspan561-6-9"
-         x="206.82254"
-         y="2503.1226"
+         x="197.37372"
+         y="2502.5557"
          style="fill:#000000;fill-opacity:1;stroke-width:3.16100717">1</tspan></text>
     <path
        style="display:inline;opacity:1;fill:#ffb051;fill-opacity:1;stroke:#000000;stroke-width:12.39610577;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
