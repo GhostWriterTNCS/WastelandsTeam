@@ -1,39 +1,8 @@
 \section{Rewards Outcomes}
-A difficulty level is associated with each reward. These difficulty levels may be used to estimate how are the player stats in a specific levels in according depending on which reward he may have gotten. Each estimation for each stat in each level is calculated with the following formula: \\\\
-\begin{equation}
-  E[Stat]= \frac{\sum_{i}^{n} Stat\textsubscript{reward\textsubscript{i}}
-  \cdot
-  P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10})}
-  {\sum_{i}^{n}P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10})}
-\end{equation}
-\\\\
-where n is the number of reward that the player may have in a certain level.\\
-\textit{Example:}\\
-If the player has gotten \textit{Derby} (D) and \textit{Balmoral Bonnet} (BB) the expected value of wisdom is:\\\\
-\begin{equation}
-E[Wisdom]= \frac{Wisdom\textsubscript{D} \cdot P(1-\frac{Difficulty\textsubscript{D}}{10}) +
-  Wisdom\textsubscript{BB} \cdot P(1-\frac{Difficulty\textsubscript{BB}}{10})}
-{P(1-\frac{Difficulty\textsubscript{D}}{10})+P(1-\frac{Difficulty\textsubscript{BB}}{10})} 
-\end{equation}
-\begin{center}
-  $= \frac{1*1 + 2*0.6}{1.6} =1.37$
-  \end{center}
-
-Dice estimation is made in terms of expected value of the dice:\\\\
-\begin{equation}
-  E[Dice]= \frac{\sum_{i}^{n} E[dice]{reward\textsubscript{i}}
-  \cdot
-  P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10})}
-  {\sum_{i}^{n}P(1-\frac{Difficulty\textsubscript{reward\textsubscript{i}}}{10})}
-\end{equation}
-The final bonus estimation is simply the sum of hat estimation, clothes estimation and lantern estimation.\\\\
-\begin{center}
-  $E[Stat]=E[Stat]\textsubscript{hats} + E[Stat]\textsubscript{lanterns} + E[Stat]\textsubscript{clothes}$
-  \end{center}
-
 \subsection{Rewards for levels}
-The following table rapresents the possible rewards for levels.
+The following table rapresents all the possible \textit{useful} rewards for levels. For a level not are considered rewards that the player gets at its end because playing the level he can't use them. These are considered \textit{useful} for the next level.
 \begin{table}[H]
+  \centering
   \scalebox{0.80}{
 \begin{tabular}{|
         >{\columncolor[HTML]{C0C0C0}}p{4.0cm} |p{5.0cm}|p{5.0cm}|p{5.0cm}|}
@@ -42,47 +11,288 @@ The following table rapresents the possible rewards for levels.
 \rowcolor[HTML]{C0C0C0} 
 \multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}}} & \textbf{Possible hats gotten} & \textbf{Possible lantern gotten} & \textbf{Possible clothes gotten} \\ \hline
 \multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} & Derby &  & Sophie’s dress \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} & Derby, Bearskin, Balmoral Bonnet, Winter & Magic Lantern, Spacious  & Sophie’s dress
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{2}} & Winter, Ascot cap & Magic Lantern, Spacious  & Sophie’s dress
 \\\hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator  & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China & Sophie’s dress, Guard, I love Venice  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China & Sophie’s dress, Guard, I love Venice  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic & Sophie’s dress, Guard, I love Venice  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask, Wolf spirit, Bear headgear, Dog headgear,Pungiball & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic & Sophie’s dress, Guard, I love Venice  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}} & Derby, Bearskin, Balmoral Bonnet, Winter, Ascot cap, Shako, Turban, Baseball, Chullo, Helmet, Fascinator, Suliman’s hat, Winged helmet, Desert, Malefica, Mask, Wolf spirit, Bear headgear, Dog headgear,Pungiball, Sultan  of piety, Sultan  of vengeance & Magic Lantern, Spacious, Demonic, Smelly, Perfumed, Silver, China, Belzel’s lantern, Arabic, Gold, Five Hits, Cristal, American & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{3}} & Balmoral Bonnet, Shako, Baseball,  Nurse, Sombrero, Bucket & Demonic, Smelly, Perfumed & Sophie’s dress, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{4}} & Suliman's hat, Fez, Christmas, Non la & Silver, Diamond & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} & Winged helmet, Desert, Non la, Boomers helmet,  Bearskin, Mask & Belzel’s lantern, China, Arabic & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{6}} &Panter, Bear headgear, Dog headgear & Gold & Sophie’s dress, Guard, I love Venice  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{7}} & Helmet & & Sophie’s dress, Guard, I love Venice  \\ \hline
 \end{tabular}}
 \end{table}
 
-The next table contains all the expected bonus value for each stats in each level.
+\subsection{Distribution of rewards}
+This table show how are distributed the bonus on the game.
 \begin{table}[H]
   \centering
-\begin{tabular}{c|c|c|l|l|}
-\cline{2-5}
- & \multicolumn{4}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie Stats Bonus}}} \\ \hline
+  \scalebox{0.6}{
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\rowcolor[HTML]{9B9B9B} 
+\multicolumn{11}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Hats}}} \\ \hline
 \rowcolor[HTML]{C0C0C0} 
-\multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}}} & \textbf{HP} & \textbf{AC} & \textbf{TAC0} & \textbf{Weapon}\\\hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} &  &  &  & \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} &  &  &  &   \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}} &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}} &  &  &  &   \\ \hline
-\end{tabular}
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Difficulty}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Hat}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{TAC0}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Strength}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Intelligence}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Wisdom}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Dexterity}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Constitution}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Charisma}} \\ \hline
+0 & 1 & Derby &  &  &  &  & 1 &  &  &  \\ \hline
+4 & 2 & Winter &  &  &  &  & 2 &  & 1 & 1 \\ \hline
+4 & 2 & Ascot cap & -1 &  &  & 1 &  &  & 2 &  \\ \hline
+5 & 3 & Balmoral bonnet & -1 & 1 &  & 1 &  &  & 1 &  \\ \hline
+4 & 3 & Shako &  &  & 3 & -2 &  & 2 & -1 &  \\ \hline
+4 & 3 & Baseball &  &  &  & 2 & 1 &  & 2 &  \\ \hline
+5 & 3 & Nurse &  & 2 & -3 &  &  &  & 2 & 3 \\ \hline
+4 & 3 & Sombrero &  &  &  &  &  &  & 4 &  \\ \hline
+4 & 3 & Bucket & -2 &  & 2 &  &  &  &  & 3 \\ \hline
+3 & 4 & Suliman's hat &  & 3 &  &  & 2 &  &  & 2 \\ \hline
+4 & 4 & Fez & -2 &  &  &  &  & 2 &  & 3 \\ \hline
+4 & 4 & Christmas & -2 &  & 2 &  & 4 &  & 2 &  \\ \hline
+0 & 5 & Winged helmet &  & 3 &  & 2 &  &  & 3 &  \\ \hline
+2 & 5 & Desert & -3 &  &  & 3 &  &  & 4 & -2 \\ \hline
+4 & 5 & Non la &  &  & -3 & 3 & 3 &  &  &  \\ \hline
+7 & 5 & Boomers Helmet &  & 2 &  &  &  & 4 &  & 4 \\ \hline
+6 & 5 & Bearskin &  & -1 & 4 &  &  &  &  & 4 \\ \hline
+6 & 5 & Mask &  &  &  & 3 & 4 & 4 &  &  \\ \hline
+5 & 6 & Panter & -2 &  & 4 &  &  &  & 5 &  \\ \hline
+4 & 6 & Bear headgear & -4 & 5 &  &  &  &  &  & 1 \\ \hline
+8 & 6 & Dog headgear &  &  & 3 & 4 &  &  & -1 & 4 \\ \hline
+7 & 7 & Helmet & -2 & 4 & 2 &  &  & 3 & 6 &  \\ \hline
+\end{tabular}}
 \end{table}
 
 \begin{table}[H]
   \centering
-\begin{tabular}{c|c|c|l|l|c|}
-\cline{2-6}
- & \multicolumn{5}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie Stats Bonus}}} \\ \hline
+  \scalebox{0.6}{
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\rowcolor[HTML]{9B9B9B} 
+\multicolumn{12}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Lanterns}}} \\ \hline
 \rowcolor[HTML]{C0C0C0} 
-\multicolumn{1}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Strenght}}} & \textbf{Intelligence} & \textbf{Wisdom} & \textbf{Dexterity} & \textbf{Consitution} & \textbf{Charisma} \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{First Step}} &  &  &  &  &   \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Where is Howl?}} &  &  &  &  & \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{In enemy territory}} &  &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Nasty surprise(s)}}&  &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The djinn of the desert}} &  &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{The spirits realm}} &  &  &  &  & \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Fire and secrets}}&  &  &  &  & \\ \hline
-\end{tabular}
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Difficulty}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Lantern}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{TAC0}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{STRENGTH}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{INTELLIGENCE}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{WISDOM}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{DEXTERITY}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{CONSTITUTION}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{CHARISMA}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{weapon}} \\ \hline
+ & 1 &  &  &  &  &  &  &  &  &  & 0 \\ \hline
+0 & 2 & Magic Lantern &  &  &  &  &  &  &  &  & 4.5 \\ \hline
+4 & 2 & Spacious &  &  & 1 & 1 &  &  &  &  & 4.5 \\ \hline
+5 & 3 & Demonic &  &  &  & -2 &  &  & 1 &  & 5.5 \\ \hline
+7 & 3 & , Smelly, & 1 &  & 2 &  &  & 2 &  &  & 4.5 \\ \hline
+7 & 3 & Perfumed &  & -2 & 2 &  & 3 &  &  &  & 4.5 \\ \hline
+3 & 4 & Silver &  & 1 & -2 &  &  &  & 3 & 2 & 5.5 \\ \hline
+4 & 4 & Diamond & -2 &  & 4 &  &  &  & 3 &  & 3.5 \\ \hline
+3 & 5 & Belzels lantern &  & 1 & 2 & 3 &  &  &  &  & 4.5 \\ \hline
+5 & 5 & China & -1 &  & 3 &  & 2 & 4 &  &  & 3.5 \\ \hline
+8 & 5 & Ara- bic &  &  & 3 &  &  &  & 4 &  & 4.5 \\ \hline
+5 & 6 & Gold & -1 & 2 & 3 &  & 1 &  &  & 2 & 5.5 \\ \hline
+ & 7 &  &  &  &  &  &  &  &  &  & 0 \\ \hline
+\end{tabular}}
+\end{table}
+
+
+\subsection{Minimum and maximum bonus}
+Clothes are not considered in the following tables because they haven't bonus on the stats.
+\subsubsection{Minimum stats bonus for level}
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|l|}{} & \multicolumn{8}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Hats}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{TAC0}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Strenght}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Intelligence}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Wisdom}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Dexterity}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Constitution}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Charisma}} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & 0 & 0 & 0 & -2 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & 0 & 0 & 0 & -2 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & 0 & -1 & -3 & -2 & 0 & 0 & 0 & -2 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & 0 & -1 & -3 & -2 & 0 & 0 & -1 & -2 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & 0 & -1 & -3 & -2 & 0 & 0 & -1 & -2 \\ \hline
+\end{tabular}}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|l|}{} & \multicolumn{9}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Lanterns}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{TAC0}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{STRENGTH}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{INTELLIGENCE}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{WISDOM}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{DEXTERITY}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{CONSTITUTION}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{CHARISMA}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Weapn}} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & 0 & 0 & 0 & -2 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & 1 & -2 & 0 & -2 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & 1 & -2 & -2 & -2 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & 1 & -2 & -2 & -2 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & 1 & -2 & -2 & -2 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & 1 & -2 & -2 & -2 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\end{tabular}}
+\end{table}
+
+The final bonus estimation is simply the sum of hat values and lanterns values.\\\\
+\begin{center}
+  $Min[Bonus]=Min\textsubscript{hats} + Min\textsubscript{lanterns}$
+\end{center}
+
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \multicolumn{9}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Hats + Lanterns}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \textbf{AC} & \textbf{TAC0} & \textbf{STRENGTH} & \textbf{INTELLIGENCE} & \textbf{WISDOM} & \textbf{DEXTERITY} & \textbf{CONSTITUTION} & \textbf{CHARISMA} & \textbf{Weapn} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & 0 & 0 & 0 & -2 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & 1 & -2 & 0 & -4 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & 1 & -2 & -2 & -4 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & 1 & -3 & -5 & -4 & 0 & 0 & 0 & -2 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & 1 & -3 & -5 & -4 & 0 & 0 & -1 & -2 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & 1 & -3 & -5 & -4 & 0 & 0 & -1 & -2 & 0 \\ \hline
+\end{tabular}}
+\end{table}
+
+\subsubsection{Maximum stats bonus for level}
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|l|}{} & \multicolumn{8}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Hats}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{TAC0}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{STRENGTH}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{INTELLIGENCE}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{WISDOM}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{DEXTERITY}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{CONSTITUTION}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{CHARISMA}} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & -1 & 0 & 0 & 1 & 2 & 0 & 2 & 1 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & -2 & 2 & 3 & 2 & 1 & 2 & 4 & 3 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & -2 & 3 & 3 & 2 & 4 & 2 & 4 & 3 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & -3 & 3 & 4 & 3 & 4 & 4 & 4 & 4 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & -4 & 5 & 4 & 4 & 4 & 4 & 5 & 4 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & -2 & 5 & 4 & 4 & 4 & 4 & 6 & 4 \\ \hline
+\end{tabular}}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|l|}{} & \multicolumn{9}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Lanterns}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{TAC0}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{STRENGTH}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{INTELLIGENCE}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{WISDOM}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{DEXTERITY}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{CONSTITUTION}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{CHARISMA}} & \textbf{Weapn} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & 0 & 0 & 1 & 1 & 0 & 0 & 0 & 0 & 4.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & 0 & 0 & 2 & 1 & 3 & 2 & 1 & 0 & 5.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & -2 & 0 & 4 & 1 & 3 & 2 & 3 & 2 & 5.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & -2 & 1 & 4 & 3 & 2 & 4 & 4 & 2 & 5.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & -2 & 2 & 4 & 3 & 1 & 4 & 4 & 2 & 5.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & -2 & 2 & 4 & 3 & 1 & 4 & 4 & 2 & 5.5 \\ \hline
+\end{tabular}}
+\end{table}
+
+The final bonus estimation is simply the sum of hat values and lanterns values.\\\\
+\begin{center}
+  $Max[Bonus]=Max\textsubscript{hats} + Max\textsubscript{lanterns}$
+\end{center}
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \multicolumn{9}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Hats + Lanterns}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \textbf{AC} & \textbf{TAC0} & \textbf{STRENGTH} & \textbf{INTELLIGENCE} & \textbf{WISDOM} & \textbf{DEXTERITY} & \textbf{CONSTITUTION} & \textbf{CHARISMA} & \textbf{Weapn} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & -1 & 0 & 1 & 2 & 2 & 0 & 2 & 1 & 4.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & -2 & 2 & 5 & 3 & 4 & 4 & 5 & 3 & 5.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & -4 & 3 & 7 & 3 & 7 & 4 & 7 & 5 & 5.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & -5 & 4 & 8 & 6 & 6 & 8 & 8 & 6 & 5.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & -6 & 7 & 8 & 7 & 5 & 8 & 9 & 6 & 5.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & -4 & 7 & 8 & 7 & 5 & 8 & 10 & 6 & 5.5 \\ \hline
+\end{tabular}}
+\end{table}
+
+\subsection{Expected bonus}
+A difficulty level is associated with each reward. These difficulty levels may be used to estimate how are the player bonus in a specific levels depending on which reward he may have gotten. Each estimation for each stat in each level is calculated with the following formula: \\\\
+\begin{equation}
+  E[Bonus-Level\textsubscript{k}]= \frac{[\sum_{i}^{n} Bonus\textsubscript{i}
+  \cdot
+  P(1-\frac{Difficulty\textsubscript{i}}{10})]+E[Bonus-Level\textsubscript{k-1}]}
+  {[\sum_{i}^{n}P(1-\frac{Difficulty\textsubscript{i}}{10})]+b}
+\end{equation}
+\\\\
+where \textbf{k} is the number of considered level, \textbf{n} is the number of reward that the player may have in level k, \textbf{i} is the i-th of n, \textbf{k-1} is the number of level before k.\\
+\textbf{b} is a flag:
+\begin{itemize}
+\item b = 0 if E[Bonus-Level\textsubscript{k-1}] = 0
+  \item b = 1 otherwise
+  \end{itemize}
+Obviously for level 1 a previous level is not considered, so E[Bonus-Level\textsubscript{-1}] = 0.
+%% \textit{Example:}\\
+%% If the player has gotten \textit{Derby} (D) and \textit{Balmoral Bonnet} (BB) the expected value of wisdom is:\\\\
+%% \begin{equation}
+%% E[Wisdom]= \frac{Wisdom\textsubscript{D} \cdot P(1-\frac{Difficulty\textsubscript{D}}{10}) +
+%%   Wisdom\textsubscript{BB} \cdot P(1-\frac{Difficulty\textsubscript{BB}}{10})}
+%% {P(1-\frac{Difficulty\textsubscript{D}}{10})+P(1-\frac{Difficulty\textsubscript{BB}}{10})} 
+%% \end{equation}
+%% \begin{center}
+%%   $= \frac{1*1 + 2*0.6}{1.6} =1.37$
+%%   \end{center}
+
+The weapons estimation are made in terms of expected values of the dice:\\\\
+\begin{equation}
+  E[Dice-Level\textsubscript{k}]= \frac{[\sum_{i}^{n} E[Dice]\textsubscript{i}
+  \cdot
+  P(1-\frac{Difficulty\textsubscript{i}}{10})] + E[Dice-Level\textsubricpt{k-1}]}
+  {[\sum_{i}^{n}P(1-\frac{Difficulty\textsubscript{i}}{10})]+b}
+\end{equation}
+
+
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \multicolumn{8}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Hats}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \textbf{AC} & \textbf{TAC0} & \textbf{STRENGTH} & \textbf{INTELLIGENCE} & \textbf{WISDOM} & \textbf{DEXTERITY} & \textbf{CONSTITUTION} & \textbf{CHARISMA} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & -0.6 & 0 & 0 & 0.6 & 1.37 & 0 & 1.5 & 0.6 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & -0.73 & 1.5 & 0.88 & 0.4 & 1.23 & 1.2 & 1.57 & 1.85 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & -1.09 & 2.11 & 1.3 & 0.4 & 2.18 & 1.5 & 1.73 & 2.19 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & -1.93 & 2.53 & 0.55 & 2.05 & 2.79 & 2.53 & 2.83 & 1.3 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & -2.54 & 3.4 & 1.85 & 2.37 & 2.79 & 2.53 & 3.01 & 1.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & -2.41 & 3.54 & 1.88 & 2.37 & 2.79 & 2.64 & 3.7 & 1.5 \\ \hline
+\end{tabular}}
+\end{table}
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \multicolumn{9}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Lanterns}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \textbf{AC} & \textbf{TAC0} & \textbf{STRENGTH} & \textbf{INTELLIGENCE} & \textbf{WISDOM} & \textbf{DEXTERITY} & \textbf{CONSTITUTION} & \textbf{CHARISMA} & \textbf{Weapn} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & 0 & 0 & 0.6 & 0.6 & 0 & 0 & 0 & 0 & 4.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & 0.3 & -0.6 & 1.12 & -0.2 & 0.9 & 0.6 & 0.5 & 0 & 4.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & -0.56 & 0.05 & 1 & -0.2 & 0.9 & 0.6 & 1.91 & 0.7 & 4.73 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & -0.76 & 0.4 & 1.87 & 1.11 & 1.26 & 1.73 & 2.25 & 0.7 & 4.38 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & -0.84 & 0.93 & 2.24 & 1.11 & 1.17 & 1.73 & 2.25 & 1.13 & 4.75 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & -0.84 & 0.93 & 2.24 & 1.11 & 1.17 & 1.73 & 2.25 & 1.13 & 4.75 \\ \hline
+\end{tabular}}
+\end{table}
+
+The final bonus estimation is simply the sum of hat values and lanterns values.\\\\
+\begin{center}
+  $E[Stat]=E[Stat]\textsubscript{hats} + E[Stat]\textsubscript{lanterns}$
+  \end{center}
+\begin{table}[H]
+  \centering
+  \scalebox{0.6}{
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \multicolumn{9}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Hats+Lanterns}}} \\ \hline
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Level}} & \textbf{AC} & \textbf{TAC0} & \textbf{Strength} & \textbf{Intelligence} & \textbf{Wisdom} & \textbf{Dexterity} & \textbf{Constitution} & \textbf{Charisma} & \textbf{Weapn} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{1} & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{2} & -0.6 & 0 & 0.6 & 1.2 & 1.37 & 0 & 1.5 & 0.6 & 4.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{3} & -0.43 & 0.9 & 2 & 0.2 & 2.13 & 1.8 & 2.07 & 1.85 & 4.5 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{4} & -1.65 & 2.16 & 2.3 & 0.2 & 3.08 & 2.1 & 3.64 & 2.89 & 4.73 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{5} & -2.69 & 2.93 & 2.42 & 3.16 & 4.05 & 4.26 & 5.08 & 2 & 4.38 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{6} & -3.38 & 4.33 & 4.09 & 3.48 & 3.96 & 4.26 & 5.26 & 2.63 & 4.75 \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{7} & -3.25 & 4.47 & 4.12 & 3.48 & 3.96 & 4.37 & 5.95 & 2.63 & 4.75 \\ \hline
+\end{tabular}}
 \end{table}
