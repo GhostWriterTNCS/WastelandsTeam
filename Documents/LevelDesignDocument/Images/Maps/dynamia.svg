@@ -81,9 +81,9 @@
      showgrid="true"
      inkscape:current-layer="layer6"
      inkscape:document-units="px"
-     inkscape:cy="590.89941"
-     inkscape:cx="189.13012"
-     inkscape:zoom="0.72124892"
+     inkscape:cy="651.88613"
+     inkscape:cx="199.35661"
+     inkscape:zoom="0.51"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -4080,15 +4080,15 @@
        y="102.04722"
        id="text3030-1"><tspan
          sodipodi:role="line"
-         id="tspan3028-8"
          x="-151.18112"
          y="102.04722"
-         style="font-size:32px;text-align:end;text-anchor:end">Pick up a</tspan><tspan
+         style="font-size:32px;text-align:end;text-anchor:end"
+         id="tspan1985">Build the</tspan><tspan
          sodipodi:role="line"
          x="-151.18112"
          y="152.04721"
          style="font-size:32px;text-align:end;text-anchor:end"
-         id="tspan1985">gondola</tspan></text>
+         id="tspan675">Shark machine</tspan></text>
     <text
        id="text1574"
        y="253.22832"
