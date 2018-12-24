@@ -1,4 +1,5 @@
-{\let\clearpage\relax\section{Castle of Dynamia}}
+%{\let\clearpage\relax\section{Castle of Dynamia}}
+\section{Castle of Dynamia}
 
 \begin{figure}[H]
   \centering
@@ -31,13 +32,9 @@ If the player gets stuck for some time, Sophie will tell some lines to help the 
 
 \begin{figure}[H]
   \centering
-  \includegraphics[]{Images/Puzzles/torchPuzzleStart} \quad \includegraphics[]{Images/Puzzles/torchPuzzleSolution}
+  \includegraphics[width=\textwidth]{Images/Puzzles/torchPuzzleStart}
   \caption{Puzzle 2 in the Castle of Dynamia}
 \end{figure}
-
-%The torch is a puzzle itself. The player has to rotate the torch and its arms according to the given scheme.
-
-%When the player rotates the main body, the two arms rotate too. When he/she rotates an arm, the main body rotates too, but the other arm stays still.
 
 The player has to rotate three rings on the base of the torch in order to align them in the proper way to create an uninterrupted black path. The player can reset all of the three circles to the starting state by rotating the arm of the torch. The player is supposed to be already taught about how to play this game in the previous levels
 
@@ -57,9 +54,14 @@ The outer circle rotates by 10 degrees and make the middle one rotate by 5 degre
 The inner circle rotates by 50 degrees and make the outer one rotate by 15 degrees for each step.
 
 
-\subsubsection*{Optimal solution}
-The solution is composed by three steps (that can be done in any order):
+\subsubsection*{Solution}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{Images/Puzzles/torchPuzzleSolution}
+  \caption{Solution of puzzle 2 in the Castle of Dynamia}
+\end{figure}
 
+The optimal solution is composed by three steps (that can be done in any order):
 \begin{itemize}
 	\item Rotate anticlockwise the inner circle by three steps.
 	\item Rotate clockwise the middle circle by two steps.
@@ -102,7 +104,15 @@ Under the torch there is a small rusty golden plate with four horizontal carved 
 
 The player has to press the bricks under the torch in the positions corresponding to the carved lines. A protruding brick, corresponding to the raised line, helps the player to identify the bricks to press.
 
-The player has to press the bricks in the order specified by the small arrows.
+The player has to press the bricks in the order specified by the small arrows. If he/she presses them in the right order, the previous bricks stay pressed, otherwise all the bricks return to their normal state and the player has to start again.
+
+\subsubsection*{Solution}
+TODO (immagine)
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{Images/Puzzles/castleOfDynamia_3}
+  \caption{Solution of the puzzle 3 in the Castle of Dynamia}
+\end{figure}
 
 \subsubsection*{Hints}
 If the player gets stuck for some time, the torch will tell some lines to help the player.
@@ -119,11 +129,52 @@ If the player gets stuck for some time, the torch will tell some lines to help t
 
 %There are some cables that hang under the torch. The player has to connect them in the correct pairs, according to the pattern on the plugs.
 
-There are some cables that hang under the torch and two small rusty golden plate, each one with a bars. The bar on the left is full of a red liquid, the other one is empty. Each bar has five marks, one mark per bar is highlighted.
+There are six cables that hang under the torch, three on the left and three on the right, and two small rusty golden plates, each one with a bar. The bar on the left is full of a red liquid, the other one is empty.
 
-Each cable has a roman number on the plug. The player has to connect the cables on the left with the cables on the right in a way that ensure that the liquid is distributed according to the highlighted marks.
+Each bar has 5 marks. One mark per bar is highlighted: the second one on the left bar and the third one on the right bar.
 
-\textit{Example}: I on the left plug and III on the right plug. The liquid will fill 1/4 of the left bar and 3/4 of the right bar.
+Each cable has a roman number on the plug.
+
+Left cables:
+\begin{itemize}
+	\item I
+	\item II
+	\item III
+\end{itemize}
+
+Right cables:
+\begin{itemize}
+	\item II
+	\item IV
+	\item VI
+\end{itemize}
+
+The player has to connect the cables on the left with the cables on the right in a way that ensure that the liquid is distributed by 2/5 on the left and 3/5 on the right.
+
+When the player connects two cables, he/she can see some flashing lights that flow from the left cable to the right cable and the bars on the plates moves according to the proportion established by the number on the plates.
+
+\textit{Example 1}
+\begin{itemize}
+	\item Cables: \textcolor{red}{I}-\textcolor{blue}{II}
+	\item Left bar: \textcolor{red}{1}/(\textcolor{red}{1}+\textcolor{blue}{2}) = 1/3
+	\item Right bar: \textcolor{blue}{2}/(\textcolor{red}{1}+\textcolor{blue}{2}) = 1/3
+\end{itemize}
+
+\textit{Examle 2}
+\begin{itemize}
+	\item Cables: \textcolor{red}{I}-\textcolor{blue}{II} and \textcolor{red}{II}-\textcolor{blue}{IV}
+	\item Left bar: (\textcolor{red}{1}+\textcolor{blue}{2})/(\textcolor{red}{1}+\textcolor{blue}{2}+\textcolor{red}{2}+\textcolor{blue}{4}) = 3/9 = 1/3
+	\item Right bar: (\textcolor{red}{2}+\textcolor{blue}{4})/(\textcolor{red}{1}+\textcolor{blue}{2}+\textcolor{red}{2}+\textcolor{blue}{4}) = 6/9 = 2/3
+\end{itemize}
+
+\subsubsection*{Solution}
+The player has to connect the cables I and III on the left with the cables II and IV on the right (pairs are not relevant).
+
+So the possible solutions are:
+\begin{itemize}
+	\item I-II and III-IV
+	\item I-IV and III-II
+\end{itemize}
 
 \subsubsection*{Hints}
 If the player gets stuck for some time, the torch will tell some lines to help the player.
