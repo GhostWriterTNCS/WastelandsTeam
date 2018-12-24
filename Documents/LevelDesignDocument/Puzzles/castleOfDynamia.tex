@@ -31,7 +31,7 @@ If the player gets stuck for some time, Sophie will tell some lines to help the 
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{Images/Puzzles/castleOfDynamia_2}
+  \includegraphics[]{Images/Puzzles/torchPuzzleStart} \quad \includegraphics[]{Images/Puzzles/torchPuzzleSolution}
   \caption{Puzzle 2 in the Castle of Dynamia}
 \end{figure}
 
@@ -39,18 +39,54 @@ If the player gets stuck for some time, Sophie will tell some lines to help the 
 
 %When the player rotates the main body, the two arms rotate too. When he/she rotates an arm, the main body rotates too, but the other arm stays still.
 
-The player has to rotate three rings on the base of the torch in order to align them in the proper way.
+The player has to rotate three rings on the base of the torch in order to align them in the proper way to create an uninterrupted black path. The player can reset all of the three circles to the starting state by rotating the arm of the torch. The player is supposed to be already taught about how to play this game in the previous levels
 
-When the player rotates the outer ring of one step, the center ring rotates in the same directions of one step.
+When the player rotates the outer ring of one step, the middle ring rotates in the same direction.
 
-When the player rotates the center ring of one step, the outer ring rotates in the same direction of two steps.
+When the player rotates the middle ring of one step, the outer ring rotates in the same direction.
 
-When the player rotate the inner ring of one step, the center ring rotates in the same direction of one step.
+When the player rotate the inner ring of one step, the middle ring rotates in the same direction.
+
+\subsubsection*{Technical details}
+The starting and the final position of the circles can be found in the pictures here above.
+
+The inner circle rotates by 15 degrees and make the middle one rotate by 15 degrees for each step.
+
+The outer circle rotates by 10 degrees and make the middle one rotate by 5 degrees for each step.
+
+The inner circle rotates by 50 degrees and make the outer one rotate by 15 degrees for each step.
+
+
+\subsubsection*{Optimal solution}
+The solution is composed by three steps (that can be done in any order):
+
+\begin{itemize}
+\item Rotate anticlockwise the inner circle by three steps.
+
+\item Rotate clockwise the middle circle by two steps.
+
+\item Rotate clockwise the outer circle by one step.
+
 
 \subsubsection*{Hints}
 If the player gets stuck for some time, the torch will tell some lines to help the player.
 
-\textbf{Torch}: I think turning the rings just randomly is not a good strategy.
+If the player has not rotated correctly any of the three circle:
+\textbf{Torch}: I think turning the rings just randomly is not a good strategy. Try to start again! Rotate my arm!
+
+If the player rotated correctly at least one of the three circles:
+\textbf{Torch}: You are on the right track! Keep going!
+
+If the player rotated correctly two of the three circles:
+\textbf{Torch}: You are almost done! You are so close!
+
+Once the player has done one of the step of the solution the player will hear a sound feedback: 
+\textbf{*CLICK*}
+
+If the player activates the sound feedback but keeps rotating:
+\textbf{Torch}:Wait! I have heard something
+or
+\textbf{Torch} Are you sure? Listen carefully!
 
 \subsection{3. Press the bricks}
 
