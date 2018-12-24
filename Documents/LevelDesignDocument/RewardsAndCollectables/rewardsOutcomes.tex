@@ -216,9 +216,9 @@ A difficulty level is associated with each reward. These difficulty levels may b
 where \textbf{k} is the number of considered level, \textbf{n} is the number of reward that the player may have in level k, \textbf{i} is the i-th of n, \textbf{k-1} is the number of level before k.\\
 \textbf{b} is a flag:
 \begin{itemize}
-\item b = 0 if E[Bonus-Level\textsubscript{k-1}] = 0
+  \item b = 0 if E[Bonus-Level\textsubscript{k-1}] = 0
   \item b = 1 otherwise
-  \end{itemize}
+\end{itemize}
 Obviously for level 1 a previous level is not considered, so E[Bonus-Level\textsubscript{-1}] = 0.
 %% \textit{Example:}\\
 %% If the player has gotten \textit{Derby} (D) and \textit{Balmoral Bonnet} (BB) the expected value of wisdom is:\\\\
@@ -235,7 +235,7 @@ The weapons estimation are made in terms of expected values of the dice:\\\\
 \begin{equation}
   E[Dice-Level\textsubscript{k}]= \frac{[\sum_{i}^{n} E[Dice]\textsubscript{i}
   \cdot
-  P(1-\frac{Difficulty\textsubscript{i}}{10})] + E[Dice-Level\textsubricpt{k-1}]}
+  P(1-\frac{Difficulty\textsubscript{i}}{10})]+E[Dice-Level\textsubscript{k-1}]}
   {[\sum_{i}^{n}P(1-\frac{Difficulty\textsubscript{i}}{10})]+b}
 \end{equation}
 
