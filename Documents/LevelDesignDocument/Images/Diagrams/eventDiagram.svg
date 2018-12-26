@@ -73,10 +73,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="531.39656"
-     inkscape:cy="757.0545"
+     inkscape:cx="477.46228"
+     inkscape:cy="715.73428"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="px"
      inkscape:snap-text-baseline="true"
@@ -112,7 +112,7 @@
        y="253.22832" />
     <rect
        y="404.40939"
-       x="302.36221"
+       x="283.46457"
        height="302.36224"
        width="37.795277"
        id="rect5307"
@@ -224,7 +224,7 @@
     <rect
        style="opacity:1;fill:#ed1212;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect5000-4"
-       width="94.488174"
+       width="18.897627"
        height="264.56696"
        x="170.07875"
        y="442.20468" />
@@ -244,9 +244,9 @@
        style="opacity:1;fill:#0056ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <rect
        y="517.79523"
-       x="264.56693"
-       height="188.97643"
-       width="37.795277"
+       x="188.97639"
+       height="188.97639"
+       width="94.488159"
        id="rect5008-7-3"
        style="opacity:1;fill:#00b813;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <text
@@ -272,33 +272,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:121.00000381%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="216.72388"
+       x="179.52756"
        y="371.39914"
        id="text5100"><tspan
          sodipodi:role="line"
-         x="216.72388"
+         x="179.52756"
          y="371.39914"
          id="tspan5299">Enemies</tspan><tspan
          sodipodi:role="line"
-         x="216.72388"
+         x="179.52756"
          y="397.21246"
          id="tspan5303">on the</tspan><tspan
          sodipodi:role="line"
-         x="216.72388"
+         x="179.52756"
          y="423.02582"
          id="tspan5305">streets</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:121.00000381%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="359.00302"
+       x="349.55423"
        y="402.53629"
        id="text5104"><tspan
          sodipodi:role="line"
          id="tspan5102"
-         x="359.00302"
+         x="349.55423"
          y="402.53629">Old</tspan><tspan
          sodipodi:role="line"
-         x="359.00302"
+         x="349.55423"
          y="428.34961"
          id="tspan5297">storage</tspan></text>
     <text
@@ -328,9 +328,9 @@
     <rect
        style="opacity:1;fill:#0056ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect5114"
-       width="37.795277"
+       width="56.692886"
        height="264.56696"
-       x="340.15747"
+       x="321.25986"
        y="442.20468" />
     <rect
        y="404.40942"
@@ -389,28 +389,32 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:121.00000381%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        x="671.24634"
-       y="213.55991"
+       y="191.82991"
        id="text5100-0-4"><tspan
          sodipodi:role="line"
          x="671.24634"
-         y="213.55991"
+         y="191.82991"
          id="tspan5291">Escape</tspan><tspan
          sodipodi:role="line"
          x="671.24634"
-         y="239.37325"
-         id="tspan5295">on gondola</tspan></text>
+         y="217.64325"
+         id="tspan5295">accros</tspan><tspan
+         sodipodi:role="line"
+         x="671.24634"
+         y="243.45657"
+         id="tspan112">the canals</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:121.00000381%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="321.06714"
+       x="301.84137"
        y="349.9267"
        id="text5100-0-1"><tspan
          sodipodi:role="line"
          id="tspan5098-6-2"
-         x="321.06714"
+         x="301.84137"
          y="349.9267">Enter the</tspan><tspan
          sodipodi:role="line"
-         x="321.06714"
+         x="301.84137"
          y="375.74002"
          id="tspan5266-8">castle</tspan></text>
   </g>
