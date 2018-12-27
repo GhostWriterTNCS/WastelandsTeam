@@ -1,148 +1,139 @@
 \section{Fights Outcomes}
-In the following tables we will show the expected outcomes for all of the encounters in the level \textit{In enemy territory}. \\
-\textbf{Damages per turn} inflicted by Sophie is calculated as follows:\\\\
-$DamagePerTurn=(E[diceWeapon] + bonus) \cdot P(throw \ge (TAC0 - EnemyAC) on 1d20)$\\\\
-\textbf{Damages per turn} inflicted by a enemy is calculated as follows:\\\\
-$HIT=(E[diceWeapon] + bonus) \cdot P(throw \ge (TAC0 - SophieAC) on 1d20)$\\
-$ST=P(throw \ge savingThrow on 1d20)$\\
-$DamagePerTurn=HIT \cdot (1-ST)+\frac{HIT}{2} \cdot ST$\\\\
-Estimated \textbf{turns to defeat a enemy} are calculated as follows:\\\\
-$TDE=\frac{EnemyHP}{DamagePerTurn}$\\\\
-Estimated \textbf{turns to defeat Sophie} are calculated as follows:\\\\
-$TDS=\frac{EnemyHP}{DamagePerTurn}$\\\\
-For each Sophie's level (3 and 4) we will show the values for two situations: minimum and maximum bonus.\\
-She deals the same amount of damage to the guards and demons because they have the same AC.
-\begin{table}[H]
-  \centering
-  \begin{tabular}{|c|c|c|}
-    \hline
-    \rowcolor[HTML]{9B9B9B}
-    \multicolumn{3}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie}}} \\ \hline
-    \rowcolor[HTML]{C0C0C0}
-    \textbf{Bonus} & \textbf{Dice} & \textbf{Damages per turn to guard or demon} \\ \hline
-    0 & 1d8 & 3.37 \\ \hline
-    3 & 1d8 & 5.62 \\ \hline
-  \end{tabular}
-\end{table}
-So the expected value of Sophie's \textbf{damages per turns to guards or demons} is :\\
-$\frac{3.37+5.62}{2}$ = 4.49\\
+In this section we will show the expected outcomes for all of the encounters in the level \textit{In enemy territory}. 
+\subsubsection{DPT}
+\textbf{DPT} (Damage Per Turn) inflicted by Sophie to a enemy is calculated as follows:\\\\
+$DPT\textsubscript{S}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot P(throw \ge (TAC0\textsubscript{S} - AC\textsubscript{E} + DEXb\textsubscript{E}) on 1d20)$\\\\
+$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot \frac{21-AC\textsubscript{E} + DEXb\textsubscript{E}}{20}$\\\\\\
+\textbf{DPT} inflicted by a enemy to Sophie is calculated as follows:\\\\
+$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot P(throw \ge (TAC0\textsubscript{E} - AC\textsubscript{S} + DEXb\textsubscript{S}) on 1d20)$\\\\
+$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot \frac{21-AC\textsubscript{S} + DEXb\textsubscript{S}}{20}$\\\\\\
 
+Where \textbf{\textsubscript{E}} means that the bonus \textbf{b} or a stats is owned by a enemy and \textbf{\textsubscript{S}} means that the bonus \textbf{b} or a stats is owned by Sophie. \textbf{RANGEb} indicates the bonus distance of an attack and it can be: 1, 0, -1 relatively short range, medium range and short range.
+
+\subsubsection{TTDE and TTDS}
+Estimated \textbf{TTDE} (Turns To Defeat Enemies) are calculated as follows:\\\\
+$TTDE=\sum_{i}\frac{HP\textsubscript{E\textsubscript{i}}}{DPT\textsubscript{S\textsubscript{i}}}$\\\\\\
+Estimated \textbf{TTDS}(Turns To Defeat Sophie) are calculated as follows:\\\\
+$TDS=\frac{HP\textsubscript{S}}{\sum_{i}DPT\textsubscript{E\textsubscript{i}}}$\\\\
+Where i is the i-th enemy.\\
+
+We will show the DPT and TTD values according to the received estimated bonus from collectables in the level \textit{In enemy territory} (\textit{References to this chapter: Rewards and collectables}). Each of these bonus has been approximated by default or excess and added to the relevant stats. For the calculations of the fights outcomes the ESL column was considered.
 \begin{table}[H]
   \centering
-\begin{tabular}{|c|c|c|}
-  \hline
-  \rowcolor[HTML]{9B9B9B}
-  \multicolumn{3}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Sophie}}} \\ \hline
-  \rowcolor[HTML]{C0C0C0}
-  \textbf{Bonus} & \textbf{Dice} & \textbf{Damages per turn to captain} \\ \hline
-  0 & 1d8 & 3.15 \\ \hline
-  3 & 1d8 & 5.25 \\ \hline
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\rowcolor[HTML]{C0C0C0} 
+\textbf{Sophie} & \textbf{Basic stats} & \textbf{EBFC} & \textbf{ESL} & \textbf{Effective Bonus} \\ \hline
+HP & 18 & level*(6+CONb) & 24 & 24 \\ \hline
+AC & 4 & -0.43 & 4 & 4 \\ \hline
+TAC0 & 13 & 0.9 & 14 & 14 \\ \hline
+STR & 12 & 2 & 14 & 1 \\ \hline
+INT & 12 & 0.2 & 12 & 0 \\ \hline
+WIS & 12 & 2.13 & 14 & 1 \\ \hline
+DEX & 12 & 1.8 & 14 & 1 \\ \hline
+CON & 12 & 2.07 & 14 & 2 \\ \hline
+CHA & 12 & 1.85 & 14 & 1 \\ \hline
+Weapon & 1d8 & 1d8 & 1d8 & 1d8 \\ \hline
 \end{tabular}
 \end{table}
-So the mean value of Sophie's \textbf{damages per turns to captain} is :\\
-$\frac{3.15+5.25}{2}$ = 4.20\\
+Where Basic stats = Sophie's basic stats without any collectables.\\
+Where EBFC = Estimated bonus from collectables in \textit{in Enemy territory} for stats. \\
+Where ESL = Estimated stats for level in \textit{in Enemy territory} for stats.\\
+Where Effective Bonus = effective bonus for stats according D \& D1 rules.\\
 
-\begin{table}[H]
-  \scalebox{0.75}{
-    \centering
-    \begin{tabular}{c|c|c|c|c|c|}
-      \cline{2-6}
-      \multicolumn{1}{l|}{} & \multicolumn{5}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Turns to defeat enemies}}} \\
-      \hline
-      \rowcolor[HTML]{C0C0C0}
-      \multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{Bonus}} & \textbf{Guard x1} & \textbf{Demon x1} & \textbf{Guard x1, Demon x1}
-      & \textbf{Guard x1, Demon x2} & \textbf{Guard x2, Demon x1} \\ \hline
-      0 & 2.96 & \multicolumn{1}{c|}{2.96} & 5.92 & 8.88 & 11.84 \\ \hline
-      mean & 2.22 & \multicolumn{1}{c|}{2.22} & 4.44 & 6.66 & 8.88 \\ \hline
-      3 & 1.77 & \multicolumn{1}{c|}{1.77} & 3.54 & 5.31 & 7.08 \\ \hline
-  \end{tabular}}
-\end{table}
-
+\subsection{Sophie vs Guard}
 \begin{table}[H]
   \centering
-  \begin{tabular}{l|c|}
-    \cline{2-2} & \cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Turns to defeat Boss}} \\ \hline
-    \rowcolor[HTML]{C0C0C0}
-    \multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{Bonus}} & \textbf{Captain x1} \\ \hline
-    \multicolumn{1}{|l|}{0} & 6.34 \\ \hline
-    \multicolumn{1}{|l|}{mean} & 4.70 \\ \hline
-    \multicolumn{1}{|l|}{3} & 3.80 \\ \hline
-  \end{tabular}
+\begin{tabular}{|l|l|l|l|}
+\hline
+\rowcolor[HTML]{C0C0C0} 
+\textbf{Sophie vs Guards} & \textbf{DPT} & \textbf{TTD Opponent} & \textbf{RANGE} \\ \hline
+Sophie & 2.75 & 1.818181818 & Medium \\ \hline
+Guard & 1.575 & 15.23809524 & Short \\ \hline
+Guard & 1.225 & 19.59183673 & Medium \\ \hline
+Guard & 0.875 & 27.42857143 & Long \\ \hline
+\end{tabular}
+\end{table}
+The three guard-rows indicates three extreme but significant cases:
+\begin{enumerate}
+\item The worse case: guard attack Sophie only from short range
+\item The medium case: guard attack Sophie only  from long range
+\item The best case: guard attack Sophie only  from long range
+\end{enumerate}
+\subsection{Sophie vs Demon}
+\begin{table}[H]
+  \centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\rowcolor[HTML]{C0C0C0} 
+\textbf{Sophie vs Demon} & \textbf{DPT} & \textbf{TTD Opponent} & \textbf{RANGE} \\ \hline
+Sophie & 3.3 & 1.212121212 & Medium \\ \hline
+Demon & 1.25 & 19.2 & Medium \\ \hline
+\end{tabular}
+\end{table}
+There aren't best, medium or worse case beacuse demons can attack only from medium range.
+\subsection{Sophie vs Captain}
+\begin{table}[H]
+  \centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\rowcolor[HTML]{C0C0C0} 
+\textbf{Sophie vs Captain} & \textbf{DPT} & \textbf{TTD Opponent} & \textbf{RANGE} \\ \hline
+Sophie & 3.85 & 4.415584416 & Medium \\ \hline
+Captain & 2.6 & 9.230769231 & Short \\ \hline
+Captain & 2.2 & 10.90909091 & Medium \\ \hline
+Captain & 1.8 & 13.33333333 & Long \\ \hline
+\end{tabular}
+\end{table}
+The three captain-rows indicates three extreme but significant cases:
+\begin{enumerate}
+\item The worse case: captain attack Sophie only from short range
+\item The medium case: captain attack Sophie only  from long range
+\item The best case: captain attack Sophie only  from long range
+\end{enumerate}
+\subsection{Sophie vs Guardx2}
+\begin{table}[H]
+  \centering
+\begin{tabular}{ll|l|l|l|}
+\cline{2-5}
+\multicolumn{1}{l|}{} & \multicolumn{2}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie vs Guardx2}} & \cellcolor[HTML]{C0C0C0}\textbf{DPT} & \cellcolor[HTML]{C0C0C0}\textbf{TTD Opponent} \\ \cline{2-5} 
+\multicolumn{1}{l|}{\textbf{}} & \multicolumn{2}{l|}{\textbf{Sophie}} & \multicolumn{2}{l|}{} \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 3.3 & 3.63 \\ \hline
+\multicolumn{1}{l|}{} & \textbf{Guard1} & \textbf{Guard2} & \multicolumn{2}{l|}{} \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Long & Short & 4.4 & 7.346938776 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Long & 4.4 & 7.346938776 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0} \textbf{RANGE}} & Long & Long & 3.6 & 6.666666667 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Medum & Medium & 4.4 & 5.454545455 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Medium & Short & 4.8 & 5 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Medium & 4.8 & 5 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Short & 5.2 & 4.615384615 \\ \hline 
+\end{tabular}
 \end{table}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Sophie vs Demonx2}
 \begin{table}[H]
   \centering
-  \begin{tabular}{|c|c|c|c|}
-    \hline
-    \rowcolor[HTML]{9B9B9B}
-    \multicolumn{4}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Guard}}} \\ \hline
-    \rowcolor[HTML]{C0C0C0}
-    \textbf{Range bonus} & \textbf{Dice} & \textbf{Sophie's AC} & \textbf{Damages per turn to Sophie} \\ \hline
-    -1 & 1d8 & 6 & 1.95 \\ \hline
-     1 & 1d8 & 6 & 2.82 \\ \hline
-    -1 & 1d8 & 4 & 1.63\\ \hline
-     1 & 1d8 & 4 & 2.35 \\ \hline
-  \end{tabular}
+\begin{tabular}{ll|l|l|l|}
+\cline{2-5}
+\multicolumn{1}{l|}{} & \multicolumn{2}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie vs Demonx2}} & \cellcolor[HTML]{C0C0C0}\textbf{DPT} & \cellcolor[HTML]{C0C0C0}\textbf{TTD Opponent} \\ \cline{2-5} 
+\multicolumn{1}{l|}{\textbf{}} & \multicolumn{2}{l|}{\textbf{Sophie}} & \multicolumn{2}{l|}{} \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 3.3 & 2.735042735 \\ \hline
+\multicolumn{1}{l|}{} & \textbf{Demon1} & \textbf{Demon2} & \multicolumn{2}{l|}{} \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & Medium & Medium & 2.825 & 9.6 \\ \hline
+\end{tabular}
 \end{table}
-So the expected value of guard's \textbf{damages per turns to Sophie} is :\\
-$\frac{1.95+2.82+1.63+2.35}{4}=2.18$.\\
 
+\subsection{Sophie vs Guard, Demon}
 \begin{table}[H]
   \centering
-  \begin{tabular}{|c|c|c|c|}
-    \hline
-    \rowcolor[HTML]{9B9B9B}
-    \multicolumn{4}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Demon}}} \\ \hline
-    \rowcolor[HTML]{C0C0C0}
-    \textbf{Range bonus} & \textbf{Dice} & \textbf{Sophie's AC} & \textbf{Damages per turn to Sophie} \\ \hline
-    0 & 2d6 & 6 & 3.04 \\ \hline
-    0 & 2d6 & 4 & 2.53 \\ \hline
-  \end{tabular}
-\end{table}
-So the expected value of demon's \textbf{damages per turns to Sophie} is :\\
-$\frac{3.04+2.53}{2}=2.78$.\\
-
-\begin{table}[H]
-  \centering
-  \begin{tabular}{|c|c|c|c|}
-    \hline
-    \rowcolor[HTML]{9B9B9B}
-    \multicolumn{4}{|c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Captain}}} \\ \hline
-    \rowcolor[HTML]{C0C0C0}
-    \textbf{Range bonus} & \textbf{Dice} & \textbf{Sophie's AC} & \textbf{Damages per turn to Sophie} \\ \hline
-    +2-1 & 1d8 & 6 & 3.96 \\ \hline
-    +2+1 & 1d8 & 6 & 5.41 \\ \hline
-    +2-1 & 1d8 & 4 & 3.50 \\ \hline
-    +2+1 & 1d8 & 4 & 4.77 \\ \hline
-  \end{tabular}
-\end{table}
-So the expected value of captain's \textbf{damages per turns to Sophie} is :\\
-$\frac{3.96+5.41+3.50+4.77}{4}=4.41$.\\
-In order to calculate how many turns enemies need to defeat Sophie, we will use the mean hit value for each enemy. For groups of enemy we use this formula:\\\\
-$\frac{\sum_{i}^{n}turns\textsubscript{i}}{n^2}$\\\\
-where n is the number of enemies, turns is the number of turns required to the enemy\textsubscript{i} to defeat Sophie. We estimate that each enemy in the groups needs this turns.
-% PER DUE NEMICI DIVERSI FACCIAMO LA MEDIA DEI TURNI
-\begin{table}[H]
-  \scalebox{0.7}{
-\begin{tabular}{cl|c|c|c|l|c|}
-\cline{3-7}
-\multicolumn{1}{l}{} &  & \multicolumn{5}{c|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Turns to defeat Sophie}}} \\ \hline
-\rowcolor[HTML]{C0C0C0}
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie's HP}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{AC}} & \textbf{Guard x1} & \textbf{Demon x1} & \textbf{Guard x1, Demons x1} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Guard x1, Demons x2}} & \textbf{Guard x2, Demons x1} \\ \hline
-\multicolumn{1}{|c|}{30} & 13.76  & 10.79 &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{35} &  &  &  &  &  &  \\ \hline
-\multicolumn{1}{|c|}{40} &  &  &  &  &  &  \\ \hline
-\end{tabular}}
-\end{table}
-\begin{table}[H]
-  \centering
-\begin{tabular}{cl|c|}
-\cline{3-3}
-\multicolumn{1}{l}{} &  & \multicolumn{1}{l|}{\cellcolor[HTML]{9B9B9B}{\color[HTML]{FFFFFF} \textbf{Turns to defeat Sophie}}} \\ \hline
-\rowcolor[HTML]{C0C0C0}
-\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{Level}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie's HP}} & \textbf{Captain x1} \\ \hline
-\multicolumn{1}{|c|}{1} &  &  \\ \hline
-\multicolumn{1}{|c|}{2} &  &  \\ \hline
+\begin{tabular}{ll|l|l|l|}
+\cline{2-5}
+\multicolumn{1}{l|}{} & \multicolumn{2}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie vs Guard, Demon}} & \cellcolor[HTML]{C0C0C0}\textbf{DPT} & \cellcolor[HTML]{C0C0C0}\textbf{TTD Opponent} \\ \cline{2-5} 
+\multicolumn{1}{l|}{\textbf{}} & \multicolumn{2}{l|}{\textbf{Sophie}} & \multicolumn{2}{l|}{} \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 2.75 - 3.3 & 3.03030303 \\ \hline
+\multicolumn{1}{l|}{} & \textbf{Guard} & \textbf{Demon} & \multicolumn{2}{l|}{} \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Medium & 2.825 & 8.495575221 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & Medium & Medium & 2.475 & 9.696969697 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Long & Medium & 2.125 & 11.29411765 \\ \hline
 \end{tabular}
 \end{table}
