@@ -43,14 +43,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72124893"
-     inkscape:cx="334.05914"
-     inkscape:cy="558.90537"
+     inkscape:zoom="1.4424979"
+     inkscape:cx="363.4801"
+     inkscape:cy="504.17147"
      inkscape:document-units="px"
      inkscape:current-layer="layer17"
      showgrid="true"
      units="px"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid1502" />
@@ -3995,7 +3995,7 @@
        inkscape:groupmode="layer"
        id="layer21"
        inkscape:label="Statues"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;fill:#4e314e;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 610.76768,753.01611 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67198,-20.99612 -13.31655,-31.67809 -9.36981,-15.06316 -12.16626,-21.52796 -12.16626,-28.12583 0,-10.66317 9.49012,-22.93877 20.12346,-26.02997 15.33293,-4.4574 30.3638,2.77037 35.86396,17.24561 3.71481,9.77658 1.73296,18.28488 -7.68328,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
@@ -4177,7 +4177,13 @@
        inkscape:groupmode="layer"
        id="layer17"
        inkscape:label="Rebuild the bridge"
-       style="display:none">
+       style="display:inline">
+      <circle
+         style="display:inline;opacity:1;fill:#2ab520;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path719-2"
+         cx="524.75488"
+         cy="485.75494"
+         r="75.590553" />
       <path
          style="display:inline;fill:#2ab520;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 523.29567,484.28651 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67198,-20.99612 -13.31655,-31.67809 -9.36982,-15.06316 -12.16627,-21.52796 -12.16627,-28.12583 0,-10.66317 9.49013,-22.93878 20.12347,-26.02998 15.33293,-4.4574 30.3638,2.77037 35.86396,17.24562 3.71481,9.77658 1.73296,18.28488 -7.68328,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
@@ -4189,7 +4195,13 @@
        inkscape:groupmode="layer"
        id="layer18"
        inkscape:label="Help the traitor guard"
-       style="display:none">
+       style="display:inline">
+      <circle
+         style="display:inline;opacity:1;fill:#2ab520;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path719-4"
+         cx="216.66666"
+         cy="478.64713"
+         r="75.590553" />
       <path
          style="display:inline;fill:#2ab520;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 214.77663,477.33946 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67198,-20.99612 -13.31655,-31.67809 -9.36982,-15.06316 -12.16627,-21.52796 -12.16627,-28.12583 0,-10.66317 9.49013,-22.93877 20.12347,-26.02997 15.33293,-4.4574 30.3638,2.77037 35.86395,17.24561 3.71481,9.77658 1.73296,18.28488 -7.68327,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
@@ -4201,7 +4213,13 @@
        inkscape:groupmode="layer"
        id="layer19"
        inkscape:label="Help the dissident councilman"
-       style="display:none">
+       style="display:inline">
+      <circle
+         style="display:inline;opacity:1;fill:#2ab520;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path719-9"
+         cx="111.02941"
+         cy="649.97064"
+         r="75.590553" />
       <path
          style="display:inline;fill:#2ab520;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 109.58756,649.64772 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67197,-20.99612 -13.316537,-31.67809 -9.36982,-15.06316 -12.16627,-21.52796 -12.16627,-28.12583 0,-10.66317 9.49013,-22.93877 20.123467,-26.02997 15.33292,-4.4574 30.36379,2.77037 35.86395,17.24561 3.71481,9.77658 1.73296,18.28488 -7.68328,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
@@ -4213,7 +4231,13 @@
        inkscape:groupmode="layer"
        id="layer20"
        inkscape:label="Help the doctor"
-       style="display:none">
+       style="display:inline">
+      <circle
+         style="opacity:1;fill:#2ab520;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path719"
+         cx="500.78741"
+         cy="716.22046"
+         r="75.590553" />
       <path
          style="display:inline;fill:#2ab520;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 499.68264,716.31726 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67198,-20.99612 -13.31655,-31.67809 -9.36981,-15.06316 -12.16626,-21.52796 -12.16626,-28.12583 0,-10.66317 9.49012,-22.93877 20.12346,-26.02997 15.33293,-4.4574 30.3638,2.77037 35.86397,17.24561 3.71481,9.77658 1.73296,18.28488 -7.68329,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
