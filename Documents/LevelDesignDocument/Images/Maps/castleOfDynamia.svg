@@ -1646,7 +1646,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.22055638"
      inkscape:cx="1551.2707"
-     inkscape:cy="1888.8103"
+     inkscape:cy="1707.4508"
      inkscape:document-units="px"
      inkscape:current-layer="layer12"
      showgrid="true"
@@ -4628,7 +4628,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Lighting"
-     style="display:inline">
+     style="display:none">
     <circle
        style="display:inline;opacity:1;fill:#fffa44;fill-opacity:0.78012049;stroke:none;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2520"
