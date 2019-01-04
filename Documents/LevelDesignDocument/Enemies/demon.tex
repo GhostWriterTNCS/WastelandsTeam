@@ -1,7 +1,7 @@
 \section{Demon}
 
 \begin{minipage}{0.5\textwidth}
-\textbf{Function}:Additional special guards in the service of the queen regent
+\textbf{Function}: Additional special guards in the service of the queen regent
 
 \subsection{Internal World}
 
@@ -11,7 +11,7 @@
 
 \subsection{External World}
 \textbf{Environment}: Dynamia \\
-\textbf{Look \& Feel}: Every demon look like a flying shiny black blob\\
+\textbf{Look \& Feel}: These demons look like black blobs with four thin legs, sharp teeth and claws \\
 \textbf{Type of attack}: Melee \\
 \end{minipage}%
 %
@@ -24,7 +24,9 @@
 
 
 \subsection{Description}
-Demons have been summoned by Mizar to help the guards in their duty. They are extremely obedient and loyal to the queen. They play an important role, patrolling high risk zones as the prisons and, even if they cannot attack from the distance, they are really fast and they can close the gap with any fugitive in a brief time.
+Demons have been summoned by Mizar to help the guards in their duty. They are extremely obedient and loyal to the queen. They can patrol areas alone or with some guards. Even if they cannot attack from the distance, they are really fast and they can close the gap with any fugitive in a brief time.
+
+All demons wear a mask and a top hat.
 
 \subsection{Finite State Machine}
 \begin{figure}[H]
@@ -35,11 +37,11 @@ Demons have been summoned by Mizar to help the guards in their duty. They are ex
 
 \begin{itemize}
 	\item \textbf{Patrolling}: the demon roams around in its area and looks around.
-	\item \textbf{Alerted}: the demons moves towards the noise source and looks around for the player.
+	\item \textbf{Alerted}: the demon moves towards the noise source and looks around for the player.
 	\item \textbf{Fighting}:
 	\begin{itemize}
 		\item \textbf{Close}: the demon attacks the player (melee attack).
-		\item \textbf{Far}: the demons moves towards the player.
+		\item \textbf{Far}: the demon moves towards the player.
 	\end{itemize}
 	\item \textbf{Defeated}: the demon vanishes in a cloud of smoke and despawns.
 \end{itemize}
