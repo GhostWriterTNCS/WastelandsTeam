@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="dynamia.svg"
-   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\dynamiaMainMissions.png"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\dynamiaRewardsMapping.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <sodipodi:namedview
@@ -44,10 +44,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6198412"
-     inkscape:cx="347.32739"
+     inkscape:cx="140.82289"
      inkscape:cy="624.26106"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer24"
      showgrid="true"
      units="px"
      inkscape:snap-global="false"
@@ -5697,7 +5697,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main missions"
-     style="display:inline">
+     style="display:none">
     <path
        style="display:inline;fill:#ff00c7;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 779.82441,703.90168 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67198,-20.99612 -13.31655,-31.67809 -9.36981,-15.06316 -12.16626,-21.52796 -12.16626,-28.12583 0,-10.66317 9.49012,-22.93877 20.12346,-26.02997 15.33293,-4.4574 30.3638,2.77037 35.86396,17.24561 3.71481,9.77658 1.73296,18.28488 -7.68328,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
@@ -5862,7 +5862,7 @@
      inkscape:groupmode="layer"
      id="layer24"
      inkscape:label="Mapping delle reward"
-     style="display:none">
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.77009213;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1573"
@@ -6012,8 +6012,8 @@
        id="rect1573-358"
        width="121.0872"
        height="69.837753"
-       x="-156.62202"
-       y="460.14981"
+       x="-146.94212"
+       y="452.08322"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -6078,7 +6078,8 @@
        id="flowRoot1728"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><flowRegion
+       inkscape:export-ydpi="96"
+       transform="translate(-2.8399493,4.8399493)"><flowRegion
          id="flowRegion1730"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"><rect
            id="rect1732"
@@ -6208,7 +6209,7 @@
        xml:space="preserve"
        id="flowRoot1706-5"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(56.331693,-677.78129)"
+       transform="translate(60.331693,-673.78129)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><flowRegion
          id="flowRegion1708-5"
@@ -6302,25 +6303,23 @@
            y="759.77454"
            style="line-height:0.75" /></flowRegion><flowPara
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle"
-         id="flowPara1718-7-0">4x Bear fur</flowPara></flowRoot>    <flowRoot
+         id="flowPara1718-7-0">4x Black wool</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1706-6-9"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-370.8572,-179.59884)"
+       transform="translate(-185.32581,-176.37221)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><flowRegion
          id="flowRegion1708-3-24"
          style="line-height:0.75"><rect
            id="rect1710-87-9"
-           width="487.44043"
-           height="80.51651"
+           width="117.991"
+           height="62.77"
            x="454.90195"
            y="759.77454"
            style="line-height:0.75" /></flowRegion><flowPara
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle"
-         id="flowPara1718-7-08">2x Leather</flowPara><flowPara
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle"
-         id="flowPara2023">4x Black wool</flowPara></flowRoot>    <flowRoot
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle"
+         id="flowPara2023">2x Leather</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1706-6-66"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -6340,7 +6339,7 @@
        xml:space="preserve"
        id="flowRoot1706-6-44"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-612.70404,-297.0999)"
+       transform="translate(-603.02414,-305.16648)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><flowRegion
          id="flowRegion1708-3-0"
