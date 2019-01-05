@@ -1,23 +1,27 @@
 \section{Fights Outcomes}
 In this section we will show the expected outcomes for all of the encounters in the level \textit{In enemy territory}. 
-\subsubsection{DPT}
-\textbf{DPT} (Damage Per Turn) inflicted by Sophie to a enemy is calculated as follows:\\\\
-$DPT\textsubscript{S}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot P(throw \ge (TAC0\textsubscript{S} - AC\textsubscript{E} + DEXb\textsubscript{E}) on 1d20)$\\\\
-$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot \frac{21-AC\textsubscript{E} + DEXb\textsubscript{E}}{20}$\\\\\\
-\textbf{DPT} inflicted by a enemy to Sophie is calculated as follows:\\\\
-$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot P(throw \ge (TAC0\textsubscript{E} - AC\textsubscript{S} + DEXb\textsubscript{S}) on 1d20)$\\\\
-$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot \frac{21-AC\textsubscript{S} + DEXb\textsubscript{S}}{20}$\\\\\\
+
+\subsubsection{Damage Per Turn}
+Damage Per Turn inflicted by Sophie to an enemy is calculated as follows: \\\\
+$DPT\textsubscript{S}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot P(throw \ge (TAC0\textsubscript{S} - AC\textsubscript{E} + DEXb\textsubscript{E}) on 1d20)$ \\\\
+$DPT\textsubscript{S}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot \frac{21-AC\textsubscript{E} + DEXb\textsubscript{E}}{20}$ \\
+
+Damage Per Turn inflicted by an enemy to Sophie is calculated as follows: \\\\
+$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot P(throw \ge (TAC0\textsubscript{E} - AC\textsubscript{S} + DEXb\textsubscript{S}) on 1d20)$ \\\\
+$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot \frac{21-AC\textsubscript{S} + DEXb\textsubscript{S}}{20}$ \\
 
 Where \textbf{\textsubscript{E}} means that the bonus \textbf{b} or a stats is owned by a enemy and \textbf{\textsubscript{S}} means that the bonus \textbf{b} or a stats is owned by Sophie. \textbf{RANGEb} indicates the bonus distance of an attack and it can be: 1, 0, -1 relatively short range, medium range and short range.
 
-\subsubsection{TTDE and TTDS}
-Estimated \textbf{TTDE} (Turns To Defeat Enemies) are calculated as follows:\\\\
-$TTDE=\sum_{i}\frac{HP\textsubscript{E\textsubscript{i}}}{DPT\textsubscript{S\textsubscript{i}}}$\\\\\\
-Estimated \textbf{TTDS}(Turns To Defeat Sophie) are calculated as follows:\\\\
-$TDS=\frac{HP\textsubscript{S}}{\sum_{i}DPT\textsubscript{E\textsubscript{i}}}$\\\\
-Where i is the i-th enemy.\\
+\subsubsection{Turns To Defeat Enemies and Sophie}
+Estimated Turns To Defeat Enemies are calculated as follows: \\\\
+$TTDE=\sum_{i}\frac{HP\textsubscript{E\textsubscript{i}}}{DPT\textsubscript{S\textsubscript{i}}}$ \\
 
-We will show the DPT and TTD values according to the received estimated bonus from collectables in the level \textit{In enemy territory} (\textit{References to this chapter: Rewards and collectables}). Each of these bonus has been approximated by default or excess and added to the relevant stats. For the calculations of the fights outcomes the ESL column was considered.
+Estimated Turns To Defeat Sophie are calculated as follows: \\\\
+$TTDS=\frac{HP\textsubscript{S}}{\sum_{i}DPT\textsubscript{E\textsubscript{i}}}$
+
+Where \textit{i} is the \textit{i}-th enemy.
+
+We will show the DPT and TTD values according to the received estimated bonus from collectables in the level \textit{In enemy territory} (see chapter \textit{Rewards and collectables}). Each of these bonus has been approximated by default or excess and added to the relevant stats. For the calculations of the fights outcomes the ESL column was considered.
 \begin{table}[H]
   \centering
 \begin{tabular}{|l|l|l|l|l|}
@@ -36,10 +40,13 @@ CHA & 12 & 1.85 & 14 & 1 \\ \hline
 Weapon & 1d8 & 1d8 & 1d8 & 1d8 \\ \hline
 \end{tabular}
 \end{table}
-Where Basic stats = Sophie's basic stats without any collectables.\\
-Where EBFC = Estimated bonus from collectables in \textit{in Enemy territory} for stats. \\
-Where ESL = Estimated stats for level in \textit{in Enemy territory} for stats.\\
-Where Effective Bonus = effective bonus for stats according D \& D1 rules.\\
+Where:
+\begin{itemize}
+	\item Basic stats = Sophie's basic stats without any collectables.
+	\item EBFC = Estimated bonus from collectables in \textit{In enemy territory} for stats.
+	\item ESL = Estimated stats for level in \textit{In enemy territory} for stats.
+	\item Effective Bonus = effective bonus for stats according D\&{}D1 rules.
+\end{itemize}
 
 \subsection{Sophie vs Guard}
 \begin{table}[H]
@@ -55,11 +62,12 @@ Guard & 0.875 & 27.42857143 & Long \\ \hline
 \end{tabular}
 \end{table}
 The three guard-rows indicates three extreme but significant cases:
-\begin{enumerate}
-\item The worse case: guard attack Sophie only from short range
-\item The medium case: guard attack Sophie only  from long range
-\item The best case: guard attack Sophie only  from long range
-\end{enumerate}
+\begin{itemize}
+\item The worst case: the guard attacks Sophie only from short range
+\item The medium case: the guard attacks Sophie only from long range
+\item The best case: the guard attacks Sophie only from long range
+\end{itemize}
+
 \subsection{Sophie vs Demon}
 \begin{table}[H]
   \centering
@@ -71,7 +79,8 @@ Sophie & 3.3 & 1.212121212 & Melee \\ \hline
 Demon & 1.25 & 19.2 & Medium \\ \hline
 \end{tabular}
 \end{table}
-There aren't best, medium or worse case beacuse demons can attack only from medium range.
+There aren't best, medium or worst cases because demons use only melee attack.
+
 \subsection{Sophie vs Captain}
 \begin{table}[H]
   \centering
@@ -98,11 +107,11 @@ Captain & 1.8 & 17,77777777 & Long \\ \hline
 \end{tabular}
 \end{table}
 The three captain-rows indicates three extreme but significant cases:
-\begin{enumerate}
-\item The worse case: captain attack Sophie only from short range
+\begin{itemize}
+\item The worst case: captain attack Sophie only from short range
 \item The medium case: captain attack Sophie only  from long range
 \item The best case: captain attack Sophie only  from long range
-\end{enumerate}
+\end{itemize}
 \subsection{Sophie vs Guardx2}
 \begin{table}[H]
   \centering
