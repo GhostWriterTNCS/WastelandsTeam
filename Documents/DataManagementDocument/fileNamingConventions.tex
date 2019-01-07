@@ -23,7 +23,7 @@ If you want to add a document you have to add also the relative directory.
 
 Example: \textit{DocumentName} \\\hline
 
-\path{/Documents/LevelDesignDocument} &
+\hspace{2em}\path{/LevelDesignDocument/} &
 Each directory inside this, except for the Images folder, is bound with a chapter.
 
 So, each chapter has a directory named after its own name.
@@ -32,83 +32,33 @@ If you want to add a chapter you have to add also the relative directory.
 
 Example: \textit{ChapterName}\\\hline
 
-\path{/Documents/LevelDesignDocument/ChapterName} &
+\hspace{4em}\path{/ChapterName/} &
 Inside a chapter directory, each file has to be named after the section of the chapter.
 
 If you want add a section you have to add also the relative file \textit{.tex}.
 
 Example: \textit{sectionName.tex} \\\hline
 
-\path{/Documents/LevelDesignDocument/Images/Characters} &
+\multicolumn{2}{|l|}{\hspace{4em}\path{/Images/}} \\\hline
+
+\hspace{6em}\path{/Characters/} &
 The name of each file inside here has to be the name of the character. There is only one image for each character.
 
 Example: \textit{sophie.png} \\\hline
 
-\path{/Documents/LevelDesignDocument/Images/Enemies} &
-The name of each file inside here has to be the type of enemy. There is only one image for each enemy.
-
-Example: \textit{guard.png} \\\hline
-
-\path{/Documents/LevelDesignDocument/Images/Locations}  &
-The name of each file inside here has to be the name of the location. There is only one image for each location.
-
-Example: \textit{castleOfKingsbury.png} \\\hline
-
-\path{/Documents/LevelDesignDocument/Images/Landmarks}  &
-The name of each file inside here has to be the name of the landmark. There is only one image for each landmark.
-
-Example: \textit{deadEnd.png} \\\hline
-
-\path{/Documents/LevelDesignDocument/Images/Maps}       &
-The name of each file inside here has to be the name of the location represented by the map or the name of a landmark inside the map.
-
-Example: \textit{dynamia.png} \\
-Example: \textit{deadEnd.png} \\\hline
-
-\path{/Documents/LevelDesignDocument/Images/Clothes}       &
+\hspace{6em}\path{/Clothes/}       &
 The name of each file inside here has to be the name of a cloth collectable in the game. There is only one image for each cloth.
 
 Example: \textit{guardOfDynamia.png} \\ \hline
 
-\path{/Documents/LevelDesignDocument/Images/Hats}       &
-The name of each file inside here has to be the name of a hat collectable in the game.  There is only one image for each hat.
-
-Example: \textit{christmas.png} \\ \hline
-
-\path{/Documents/LevelDesignDocument/Images/Lanterns}       &
-The name of each file inside here has to be the name of a lantern collectable in the game. There is only one image for each lantern.
-
-Example: \textit{demoniac.png} \\ \hline
-
-\path{/Documents/LevelDesignDocument/Images/CraftingMaterials}       &
+\hspace{6em}\path{/CraftingMaterials/}       &
 The name of each file inside here has to be the name of a crafting material in the game. There is only one image for each material.
 
 Example: \textit{whiteWool.png} \\ \hline
 
-\path{/Documents/LevelDesignDocument/Images/Puzzles}       &
-The name of each file inside here has to be named as the concatenation of two strings:
-\begin{itemize}
-\item location name
-\item counter starting from 1
-\end{itemize}
-The name of each solution file inside here has to be named as the relative puzzle name concatenated to the string ``Solution''.
+\hspace{6em}\path{/Diagrams/}   & For each \textit{.svg} file create a \textit{.png} file with the same name exported from the \textit{.svg} file itself.
 
-Example: \textit{castleOfDynamia1.png} \\ \hline
-Example: \textit{castleOfDynamia1Solution.png} \\ \hline
-
-\path{/Documents/LevelDesignDocument/Images/Machines}       &
-The name of each file inside here has to be named as the name of the Calcifer transformation that represents.
-
-Example: \textit{horse.png} \\ \hline
-
-\path{/Documents/LevelDesignDocument/Images/Palettes}       &
-The name of each file inside here has to be named as the name of the locations that represent the colors inside it. Each file have to contain four colors.
-
-Example: \textit{dynamia.png} \\ \hline
-
-\path{/Documents/LevelDesignDocument/Images/Diagrams}   & For each \textit{.svg} file create a \textit{.png} file with the same name exported from the \textit{.svg} file itself.
-
-	Each file inside a subdirectory has to be named as the concatenation of two strings:
+Each file inside a subdirectory has to be named as the concatenation of two strings:
    \begin{itemize}
    \item character name
    \item directory name (singular)
@@ -119,7 +69,57 @@ Example: \textit{dynamia.png} \\ \hline
    
    Example: \textit{worldDiagram.svg} \\\hline
    
-\path{/Documents/DataManagementDocument/} &
+\hspace{6em}\path{/Enemies/} &
+The name of each file inside here has to be the type of enemy. There is only one image for each enemy.
+
+Example: \textit{guard.png} \\\hline
+
+\hspace{6em}\path{/Hats/}       &
+The name of each file inside here has to be the name of a hat collectable in the game.  There is only one image for each hat.
+
+Example: \textit{christmas.png} \\ \hline
+
+\hspace{6em}\path{/Landmarks/}  &
+The name of each file inside here has to be the name of the landmark. There is only one image for each landmark.
+
+Example: \textit{deadEnd.png} \\\hline
+
+\hspace{6em}\path{/Lanterns/}       &
+The name of each file inside here has to be the name of a lantern collectable in the game. There is only one image for each lantern.
+
+Example: \textit{demoniac.png} \\ \hline
+
+\hspace{6em}\path{/Locations/}  &
+The name of each file inside here has to be the name of the location. There is only one image for each location.
+
+Example: \textit{castleOfKingsbury.png} \\\hline
+
+\hspace{6em}\path{/Machines/}       &
+The name of each file inside here has to be named as the name of the Calcifer transformation that represents.
+
+Example: \textit{horse.png} \\ \hline
+
+\hspace{6em}\path{/Maps/}       &
+The name of each file inside here has to be the name of the location represented by the map or the name of a landmark inside the map.
+
+Example: \textit{deadEnd.png} \\\hline
+
+\hspace{6em}\path{/Palettes/}       &
+The name of each file inside here has to be named as the name of the locations that represent the colors inside it. Each file have to contain four colors.
+
+Example: \textit{dynamia.png} \\ \hline
+
+\hspace{6em}\path{/Puzzles/}       &
+The name of each file inside here has to be named as the concatenation of two strings:
+\begin{itemize}
+\item location name
+\item counter starting from 1
+\end{itemize}
+The name of each solution file inside here has to be named as the relative puzzle name concatenated to the string ``Solution''.
+
+Example: \textit{castleOfDynamia1Solution.png} \\ \hline
+
+\hspace{2em}\path{/DataManagementDocument/} &
    Each file inside this, is bound with a section.
 
 So, each section has a file named after its own name.
