@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
-   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\dynamiaSecondaryMissions_Councilman.png"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\dynamia.png"
    sodipodi:docname="dynamia.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    id="svg8"
@@ -27,11 +27,11 @@
      inkscape:snap-global="false"
      units="px"
      showgrid="true"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="477.55849"
-     inkscape:cx="698.03695"
-     inkscape:zoom="0.6198412"
+     inkscape:cy="475.81227"
+     inkscape:cx="323.99622"
+     inkscape:zoom="0.87658783"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -192,7 +192,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4332,25 +4332,6 @@
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
        transform="scale(-1,1)"
-       d="m -232.65633,338.95979 2.36186,5.89434 6.3357,0.42481 -4.87599,4.06771 1.55382,6.15689 -5.37539,-3.38036 -5.37538,3.38036 1.55382,-6.15689 -4.876,-4.06771 6.33571,-0.42481 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="false"
-       sodipodi:arg2="-0.94247777"
-       sodipodi:arg1="-1.5707963"
-       sodipodi:r2="4.0182319"
-       sodipodi:r1="9.1451569"
-       sodipodi:cy="348.10496"
-       sodipodi:cx="-232.65632"
-       sodipodi:sides="5"
-       id="path667-7"
-       style="display:inline;opacity:1;fill:#ff00c7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       sodipodi:type="star"
-       inkscape:export-filename="D:\Desktop\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\dynamiapath1.png" />
-    <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       transform="scale(-1,1)"
        d="m -311.28342,357.01295 2.36186,5.89434 6.3357,0.42481 -4.87599,4.06771 1.55382,6.15689 -5.37539,-3.38036 -5.37539,3.38036 1.55383,-6.15689 -4.876,-4.06771 6.33571,-0.42481 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -4492,7 +4473,7 @@
          y="1135.3179"
          x="273.62299"
          id="tspan1465"
-         sodipodi:role="line">Pairs of guards</tspan></text>
+         sodipodi:role="line">Guards</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:33.05614471px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
@@ -4982,8 +4963,8 @@
        style="display:inline;opacity:1;fill:#b50000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path1449-7-5"
        sodipodi:sides="4"
-       sodipodi:cx="344.11761"
-       sodipodi:cy="371.0491"
+       sodipodi:cx="341.29431"
+       sodipodi:cy="366.20915"
        sodipodi:r1="9.8192148"
        sodipodi:r2="6.943233"
        sodipodi:arg1="1.5707963"
@@ -4991,7 +4972,7 @@
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 344.11762,380.86832 -9.81922,-9.81922 9.81921,-9.81921 9.81922,9.81921 z"
+       d="m 341.29431,376.02835 -9.81921,-9.81921 9.81921,-9.81922 9.81922,9.81922 z"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="D:\Desktop\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\dynamiapath1.png" />
@@ -5000,8 +4981,8 @@
        style="display:inline;opacity:1;fill:#b50000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path1449-7-1"
        sodipodi:sides="4"
-       sodipodi:cx="208.82353"
-       sodipodi:cy="398.00986"
+       sodipodi:cx="200.75695"
+       sodipodi:cy="399.21984"
        sodipodi:r1="9.8192148"
        sodipodi:r2="6.943233"
        sodipodi:arg1="1.5707963"
@@ -5009,7 +4990,7 @@
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 208.82353,407.82907 -9.81921,-9.81921 9.81921,-9.81922 9.81922,9.81922 z"
+       d="m 200.75694,409.03906 -9.81921,-9.81921 9.81921,-9.81922 9.81922,9.81922 z"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="D:\Desktop\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\dynamiapath1.png" />
@@ -5174,6 +5155,79 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
+       inkscape:export-filename="D:\Desktop\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\dynamiapath1.png" />
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#b50000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1449-7-5-8"
+       sodipodi:sides="4"
+       sodipodi:cx="288.69417"
+       sodipodi:cy="346.20898"
+       sodipodi:r1="9.8192148"
+       sodipodi:r2="6.943233"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 288.69418,356.0282 -9.81921,-9.81922 9.81921,-9.81921 9.81922,9.81921 z"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="D:\Desktop\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\dynamiapath1.png" />
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#b50000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1449-7-5-4"
+       sodipodi:sides="4"
+       sodipodi:cx="274.07409"
+       sodipodi:cy="358.47757"
+       sodipodi:r1="9.8192148"
+       sodipodi:r2="6.943233"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 274.0741,368.29678 -9.81922,-9.81921 9.81922,-9.81922 9.81921,9.81922 z"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="D:\Desktop\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\dynamiapath1.png" />
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#b50000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1449-7-5-2"
+       sodipodi:sides="4"
+       sodipodi:cx="230.29637"
+       sodipodi:cy="343.93253"
+       sodipodi:r1="9.8192148"
+       sodipodi:r2="6.943233"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 230.29637,353.75174 -9.81921,-9.81921 9.81921,-9.81922 9.81922,9.81922 z"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="D:\Desktop\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\dynamiapath1.png" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="scale(-1,1)"
+       d="m -234.9379,341.81175 2.36186,5.89434 6.3357,0.42481 -4.87599,4.06771 1.55382,6.15689 -5.37539,-3.38036 -5.37539,3.38036 1.55383,-6.15689 -4.876,-4.06771 6.33571,-0.42481 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.94247777"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="4.0182319"
+       sodipodi:r1="9.1451569"
+       sodipodi:cy="350.95692"
+       sodipodi:cx="-234.9379"
+       sodipodi:sides="5"
+       id="path667-7"
+       style="display:inline;opacity:1;fill:#ff00c7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star"
        inkscape:export-filename="D:\Desktop\teamdellelande\Documents\LevelDesignDocument\Images\Diagrams\dynamiapath1.png" />
   </g>
   <g
@@ -6131,7 +6185,7 @@
        inkscape:groupmode="layer"
        id="layer19"
        inkscape:label="Help the dissident councilman"
-       style="display:inline">
+       style="display:none">
       <circle
          style="display:inline;opacity:1;fill:#2ab520;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="path719-9"
@@ -6233,7 +6287,7 @@
        sodipodi:nodetypes="cssssssccc" />
     <path
        style="display:inline;fill:#ff00c7;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 230.18448,346.9917 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67198,-20.99612 -13.31655,-31.67809 -9.36981,-15.06316 -12.16626,-21.52796 -12.16626,-28.12583 0,-10.66317 9.49012,-22.93877 20.12346,-26.02997 15.33293,-4.4574 30.3638,2.77037 35.86396,17.24561 3.71481,9.77658 1.73296,18.28488 -7.68328,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
+       d="m 233.20945,349.41167 c -0.25215,-1.24906 -0.96304,-5.13867 -1.57977,-8.64357 -1.55089,-8.81381 -6.67198,-20.99612 -13.31655,-31.67809 -9.36981,-15.06316 -12.16626,-21.52796 -12.16626,-28.12583 0,-10.66317 9.49012,-22.93877 20.12346,-26.02997 15.33293,-4.4574 30.3638,2.77037 35.86396,17.24561 3.71481,9.77658 1.73296,18.28488 -7.68328,32.98507 -9.53241,14.88156 -14.19142,25.94634 -16.37041,38.87845 -0.86292,5.12139 -1.61874,7.10129 -2.79754,7.3283 -1.03614,0.19955 -1.77952,-0.50309 -2.07361,-1.95997 z"
        id="path5105-02-2-5-2-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssccc" />
@@ -6279,13 +6333,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#f0ddc2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="231.01094"
-       y="293.07272"
+       x="234.0359"
+       y="295.49271"
        id="text563-7-8-7"><tspan
          sodipodi:role="line"
          id="tspan561-2-68-82"
-         x="231.01094"
-         y="293.07272"
+         x="234.0359"
+         y="295.49271"
          style="fill:#000000;fill-opacity:1">4</tspan></text>
     <text
        xml:space="preserve"
