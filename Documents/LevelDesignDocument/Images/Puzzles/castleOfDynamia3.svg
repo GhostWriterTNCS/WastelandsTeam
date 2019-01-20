@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="castleOfDynamia3.svg"
-   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Puzzles\castleOfDynamia3.png"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Puzzles\castleOfDynamia3Solution.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -82,10 +82,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="356.78159"
+     inkscape:cx="292.13183"
      inkscape:cy="491.47556"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      units="px"
      inkscape:snap-global="true"
@@ -418,12 +418,6 @@
        width="56.692909"
        id="rect1054"
        style="opacity:1;fill:#a43f2f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-    <path
-       style="opacity:1;fill:#503c3c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       d="m 321.25984,520.25845 18.89764,56.69291 h 9.44882 l 18.89764,-56.69291"
-       id="path1078"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
     <rect
        style="opacity:1;fill:#ab8f2d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect1080"
