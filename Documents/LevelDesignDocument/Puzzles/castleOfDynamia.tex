@@ -76,7 +76,7 @@ The optimal solution is composed by three steps (that can be done in any order):
 \begin{itemize}
 	\item Rotate anticlockwise the inner circle by three steps.
 	\item Rotate clockwise the middle circle by two steps.
-	\item Rotate clockwise the outer circle by one step.
+	\item Rotate anticlockwise the outer circle by one step.
 \end{itemize}
 
 \subsubsection*{Hints}
@@ -142,7 +142,7 @@ If the player gets stuck for some time, the torch will tell some lines to help t
 %\textbf{Torch \#{}2}: Pss. You have to press the bricks in the proper order. Try to take a closer look to the plate.
 
 
-\subsection{4. Connect the cables}
+\subsection{4. Fill the bars}
 
 \begin{figure}[H]
   \centering
@@ -154,66 +154,30 @@ If the player gets stuck for some time, the torch will tell some lines to help t
 
 Under the torch there is a metal door where there is the inscription \enquote{DO NOT TOUCH}. The player can open it and access a compartment inside the wall.
 
-In the compartment there are three cables that hang under a small golden plate, and three terminals under another golden plate. Each plate has a bar with 5 marks. One mark per bar is highlighted: the second one on the left bar and the third one on the right bar. The bar on the left is full of a red liquid, the other one is empty.
+In the compartment there are two golden plates, each one has a bar partially filled by a light blue liquid. Under the plates there are six blocks labeled with roman numbers. The disposition is described in the figure. The player can use three buttons (they are yellow in the figure) to move the blocks.
 
-Each plug and each terminal has a roman number.
+Each bar has eleven segments and the number of segments filled by the liquid is the sum of the two upper blocks under the plate. In the figure: \textit{1+2=3} on the left and \textit{4+5=9} on the right.
 
-Plugs:
-\begin{itemize}
-	\item I
-	\item II
-	\item III
-\end{itemize}
-
-Terminals:
-\begin{itemize}
-	\item II
-	\item IV
-	\item VI
-\end{itemize}
-
-The player has to connect the cables with the terminals in a way that ensure that the liquid is distributed by 2/5 on the left and 3/5 on the right.
-
-When the player connects a plug, he/she can see some flashing lights that flow from the cable to the terminal and the bars on the plates moves according to the proportion established by the number on the plates.
-
-\textit{Example 1 (plugs in red, terminals in blue)}
-\begin{itemize}
-	\item Connection: \textcolor{red}{I}-\textcolor{blue}{II}
-	\item Left bar: \textcolor{red}{1}/(\textcolor{red}{1}+\textcolor{blue}{2}) = 1/3
-	\item Right bar: \textcolor{blue}{2}/(\textcolor{red}{1}+\textcolor{blue}{2}) = 2/3
-\end{itemize}
-
-\textit{Examle 2 (plugs in red, terminals in blue)}
-\begin{itemize}
-	\item Connection: \textcolor{red}{I}-\textcolor{blue}{II} and \textcolor{red}{II}-\textcolor{blue}{IV}
-	\item Left bar: (\textcolor{red}{1}+\textcolor{red}{2})/(\textcolor{red}{1}+\textcolor{blue}{2}+\textcolor{red}{2}+\textcolor{blue}{4}) = 3/9 = 1/3
-	\item Right bar: (\textcolor{blue}{2}+\textcolor{blue}{4})/(\textcolor{red}{1}+\textcolor{blue}{2}+\textcolor{red}{2}+\textcolor{blue}{4}) = 6/9 = 2/3
-\end{itemize}
-
-\textit{This puzzle is alternative to a fight.}
+The player has to move the blocks to fill 4 segments in the left bar and 6 segments in the right bar. The corresponding notches on the two bars are highlighted by a little mark.
 
 \subsubsection*{Solution}
-The player has to connect the cables I and III with the terminals II and IV (pairs are not relevant) to fill the left bar for 2/5 and the right bar for 3/5.
 
-So the possible solutions are (plugs in red, terminals in blue):
-\begin{itemize}
-	\item Connection: \textcolor{red}{I}-\textcolor{blue}{II} and \textcolor{red}{III}-\textcolor{blue}{IV}
-	\item Left bar: (\textcolor{red}{1}+\textcolor{red}{3})/(\textcolor{red}{1}+\textcolor{blue}{2}+\textcolor{red}{3}+\textcolor{blue}{4}) = 4/10 = 2/5
-	\item Right bar: (\textcolor{blue}{2}+\textcolor{blue}{4})/(\textcolor{red}{1+\textcolor{blue}{2}}+\textcolor{red}{3}+\textcolor{blue}{4}) = 6/10 = 3/5
-\end{itemize}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{Images/Puzzles/castleOfDynamia4Solution}
+  \caption{Puzzle 4 in the Castle of Dynamia}
+\end{figure}
 
-\begin{itemize}
-	\item Connection: \textcolor{red}{I}-\textcolor{blue}{IV} and \textcolor{red}{III}-\textcolor{blue}{II}
-	\item Left bar: (\textcolor{red}{1}+\textcolor{red}{3})/(\textcolor{red}{1}+\textcolor{blue}{4}+\textcolor{red}{3}+\textcolor{blue}{2}) = 4/10 = 2/5
-	\item Right bar: (\textcolor{blue}{2}+\textcolor{blue}{4})/(\textcolor{red}{1}+\textcolor{blue}{4}+\textcolor{red}{3}+\textcolor{blue}{2}) = 6/10 = 3/5
-\end{itemize}
+The two blocks at the bottom (VI and V) are not relevant for the solution.
 
 \subsubsection*{Hints}
 If the player gets stuck for some time, the torch will tell some lines to help the player.
 
-\textbf{Torch \#{}3}: Maths and proportions: young people today don't really study them.
+%\textbf{Torch \#{}3}: Maths and proportions: young people today don't really study them.
 
-\textbf{Torch \#{}3} Maybe the numbers and the liquid are related... but how? 
+\textbf{Torch \#{}3}: Maybe the numbers and the liquid are related... but how?
+
+\textbf{Torch \#{}3}: Try to take a closer look to the plates. Maybe you could notice something.
 
 
 \subsection{5. Stun the captain}
