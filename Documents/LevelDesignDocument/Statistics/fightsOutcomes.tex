@@ -2,23 +2,34 @@
 In this section we will show the expected outcomes for all of the encounters in the level \textit{In enemy territory}. 
 
 \subsubsection{Damage Per Turn}
-Damage Per Turn inflicted by Sophie to an enemy is calculated as follows: \\\\
-$DPT\textsubscript{S}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot P(throw \ge (TAC0\textsubscript{S} - AC\textsubscript{E} + DEXb\textsubscript{E}) on 1d20)$ \\\\
-$DPT\textsubscript{S}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot \frac{21-AC\textsubscript{E} + DEXb\textsubscript{E}}{20}$ \\
+Damage Per Turn inflicted by Sophie to an enemy is calculated as follows: 
+\begin{center}
+  $DPT\textsubscript{S}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot P(throw \ge (TAC0\textsubscript{S} - AC\textsubscript{E} + DEXb\textsubscript{E}) on 1d20)$
+\end{center}
+\begin{center}
+  $DPT\textsubscript{S}=(E[diceWeapon\textsubscript{S}] + STRb\textsubscript{S}) \cdot \frac{21-AC\textsubscript{E} + DEXb\textsubscript{E}}{20}$
+  \end{center}
 
-Damage Per Turn inflicted by an enemy to Sophie is calculated as follows: \\\\
-$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot P(throw \ge (TAC0\textsubscript{E} - AC\textsubscript{S} + DEXb\textsubscript{S}) on 1d20)$ \\\\
-$DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot \frac{21-AC\textsubscript{S} + DEXb\textsubscript{S}}{20}$ \\
+Damage Per Turn inflicted by an enemy to Sophie is calculated as follows:
+\begin{center}
+  $DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot P(throw \ge (TAC0\textsubscript{E} - AC\textsubscript{S} + DEXb\textsubscript{S}) on 1d20)$
+\end{center}
+\begin{center}
+  $DPT\textsubscript{E}=(E[diceWeapon\textsubscript{E}] + STRb\textsubscript{E} + RANGEb\textsubscript{E}) \cdot \frac{21-AC\textsubscript{S} + DEXb\textsubscript{S}}{20}$
+  \end{center}
 
 Where \textbf{\textsubscript{E}} means that the bonus \textbf{b} or a stats is owned by a enemy and \textbf{\textsubscript{S}} means that the bonus \textbf{b} or a stats is owned by Sophie. \textbf{RANGEb} indicates the bonus distance of an attack and it can be: 1, 0, -1 relatively short range, medium range and short range.
 
 \subsubsection{Turns To Defeat Enemies and Sophie}
-Estimated Turns To Defeat Enemies are calculated as follows: \\\\
-$TTDE=\sum_{i}\frac{HP\textsubscript{E\textsubscript{i}}}{DPT\textsubscript{S\textsubscript{i}}}$ \\
+Estimated Turns To Defeat Enemies are calculated as follows:
+\begin{center}
+  $TTDE=\sum_{i}\frac{HP\textsubscript{E\textsubscript{i}}}{DPT\textsubscript{S\textsubscript{i}}}$
+  \end{center}
 
-Estimated Turns To Defeat Sophie are calculated as follows: \\\\
+Estimated Turns To Defeat Sophie are calculated as follows:
+\begin{center}
 $TTDS=\frac{HP\textsubscript{S}}{\sum_{i}DPT\textsubscript{E\textsubscript{i}}}$
-
+\end{center}
 Where \textit{i} is the \textit{i}-th enemy.
 
 We will show the DPT and TTD values according to the received estimated bonus from collectables in the level \textit{In enemy territory} (see chapter \textit{Rewards and collectables}). Each of these bonus has been approximated by default or excess and added to the relevant stats. For the calculations of the fights outcomes the ESL column was considered.
@@ -55,10 +66,10 @@ Where:
 \hline
 \rowcolor[HTML]{C0C0C0} 
 \textbf{Sophie vs Guards} & \textbf{DPT} & \textbf{TTD Opponent} & \textbf{RANGE} \\ \hline
-Sophie & 2.75 & 1.818181818 & Medium \\ \hline
-Guard & 1.575 & 15.23809524 & Short \\ \hline
-Guard & 1.225 & 19.59183673 & Medium \\ \hline
-Guard & 0.875 & 27.42857143 & Long \\ \hline
+Sophie & 2.75 & 1.81 & Medium \\ \hline
+Guard & 1.575 & 15.23 & Short \\ \hline
+Guard & 1.225 & 19.59 & Medium \\ \hline
+Guard & 0.875 & 27.42 & Long \\ \hline
 \end{tabular}
 \end{table}
 The three guard-rows indicates three extreme but significant cases:
@@ -75,8 +86,8 @@ The three guard-rows indicates three extreme but significant cases:
 \hline
 \rowcolor[HTML]{C0C0C0} 
 \textbf{Sophie vs Demon} & \textbf{DPT} & \textbf{TTD Opponent} & \textbf{RANGE} \\ \hline
-Sophie & 3.3 & 1.212121212 & Melee \\ \hline
-Demon & 1.25 & 19.2 & Medium \\ \hline
+Sophie & 3.30 & 1.21 & Medium \\ \hline
+Demon & 1.25 & 19.20 & Melee \\ \hline
 \end{tabular}
 \end{table}
 There aren't best, medium or worst cases because demons use only melee attack.
@@ -88,10 +99,10 @@ There aren't best, medium or worst cases because demons use only melee attack.
 \hline
 \rowcolor[HTML]{C0C0C0} 
 \textbf{Sophie Lv3 vs Captain} & \textbf{DPT} & \textbf{TTD Opponent} & \textbf{RANGE} \\ \hline
-Sophie Lv3 & 3.85 & 7,792207792 & Medium \\ \hline
-Captain & 2.6 & 9.230769231 & Short \\ \hline
-Captain & 2.2 & 10.90909091 & Medium \\ \hline
-Captain & 1.8 & 13.33333333 & Long \\ \hline
+Sophie Lv3 & 3.85 & 7.79 & Medium \\ \hline
+Captain & 2.60 & 9.23 & Short \\ \hline
+Captain & 2.20 & 10.90 & Medium \\ \hline
+Captain & 1.80 & 13.33 & Long \\ \hline
 \end{tabular}
 \end{table}
 \begin{table}[H]
@@ -100,10 +111,10 @@ Captain & 1.8 & 13.33333333 & Long \\ \hline
 \hline
 \rowcolor[HTML]{C0C0C0} 
 \textbf{Sophie Lv4 vs Captain} & \textbf{DPT} & \textbf{TTD Opponent} & \textbf{RANGE} \\ \hline
-Sophie Lv4 & 3.85 & 7,792207792 & Medium \\ \hline
-Captain & 2.6 & 12,30769230 & Short \\ \hline
-Captain & 2.2 & 14,54545454 & Medium \\ \hline
-Captain & 1.8 & 17,77777777 & Long \\ \hline
+Sophie Lv4 & 3.85 & 7.79 & Medium \\ \hline
+Captain & 2.60 & 12.30 & Short \\ \hline
+Captain & 2.20 & 14.54 & Medium \\ \hline
+Captain & 1.80 & 17.77 & Long \\ \hline
 \end{tabular}
 \end{table}
 The three captain-rows indicates three extreme but significant cases:
@@ -119,15 +130,17 @@ The three captain-rows indicates three extreme but significant cases:
 \cline{2-5}
 \multicolumn{1}{l|}{} & \multicolumn{2}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie vs Guardx2}} & \cellcolor[HTML]{C0C0C0}\textbf{DPT} & \cellcolor[HTML]{C0C0C0}\textbf{TTD Opponent} \\ \cline{2-5} 
 \multicolumn{1}{l|}{\textbf{}} & \multicolumn{2}{l|}{\textbf{Sophie}} & \multicolumn{2}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 3.3 & 3.63 \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 2.75 & 3.63 \\ \hline
 \multicolumn{1}{l|}{} & \textbf{Guard1} & \textbf{Guard2} & \multicolumn{2}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Long & Short & 4.4 & 7.346938776 \\ \cline{2-5} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Long & 4.4 & 7.346938776 \\ \cline{2-5} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0} \textbf{RANGE}} & Long & Long & 3.6 & 6.666666667 \\ \cline{2-5} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Medum & Medium & 4.4 & 5.454545455 \\ \cline{2-5} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Medium & Short & 4.8 & 5 \\ \cline{2-5} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Medium & 4.8 & 5 \\ \cline{2-5} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Short & 5.2 & 4.615384615 \\ \hline 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Long & Short & 2.45 & 9.79 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Long & 2.45 & 9.79 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0} \textbf{RANGE}} & Long & Long & 1.75 & 13.71 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Long & Medium & 2.10 & 11.42 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Medium & Long & 2.10 & 11.42 \\ \cline{2-5}
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Medum & Medium & 2.45 & 9.79 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Medium & Short & 2.80 & 8.57 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Medium & 2.80 & 8.57 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Short & 3.14 & 7.64 \\ \hline 
 \end{tabular}
 \end{table}
 
@@ -138,23 +151,63 @@ The three captain-rows indicates three extreme but significant cases:
 \cline{2-5}
 \multicolumn{1}{l|}{} & \multicolumn{2}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie vs Demonx2}} & \cellcolor[HTML]{C0C0C0}\textbf{DPT} & \cellcolor[HTML]{C0C0C0}\textbf{TTD Opponent} \\ \cline{2-5} 
 \multicolumn{1}{l|}{\textbf{}} & \multicolumn{2}{l|}{\textbf{Sophie}} & \multicolumn{2}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 3.3 & 2.735042735 \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 3.30 & 2.73 \\ \hline
 \multicolumn{1}{l|}{} & \textbf{Demon1} & \textbf{Demon2} & \multicolumn{2}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & Medium & Medium & 2.825 & 9.6 \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & Melee & Melee & 2.82 & 9.60 \\ \hline
 \end{tabular}
 \end{table}
 
 \subsection{Sophie vs Guard, Demon}
+The estimated damage is the average of the values ​​expected for the n enemies.
+\begin{center}
+ $DPT\textsubscript{S}=\frac{\sum_{i}^{n} DPT\textsubscript{S}\textsubscript{i}}{n}$
+\end{center}
+
 \begin{table}[H]
   \centering
 \begin{tabular}{ll|l|l|l|}
 \cline{2-5}
 \multicolumn{1}{l|}{} & \multicolumn{2}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie vs Guard, Demon}} & \cellcolor[HTML]{C0C0C0}\textbf{DPT} & \cellcolor[HTML]{C0C0C0}\textbf{TTD Opponent} \\ \cline{2-5} 
 \multicolumn{1}{l|}{\textbf{}} & \multicolumn{2}{l|}{\textbf{Sophie}} & \multicolumn{2}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 2.75 - 3.3 & 3.03030303 \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{2}{l|}{Medium} & 3.02 & 3.03 \\ \hline
 \multicolumn{1}{l|}{} & \textbf{Guard} & \textbf{Demon} & \multicolumn{2}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Medium & 2.825 & 8.495575221 \\ \cline{2-5} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & Medium & Medium & 2.475 & 9.696969697 \\ \cline{2-5} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Long & Medium & 2.125 & 11.29411765 \\ \hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Short & Melee & 2.82 & 8.51 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & Medium & Melee & 2.47 & 9.69 \\ \cline{2-5} 
+\multicolumn{1}{|l|}{\cellcolor[HTML]{C0C0C0}} & Long & Melee & 2.12 & 11.29 \\ \hline
+\end{tabular}
+\end{table}
+
+\subsection{Sophie vs Guardx2, Demonx1}
+\begin{table}[H]
+\begin{tabular}{c|c|c|c|c|c|}
+\cline{2-6}
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{FFFFFF}\textbf{} & \multicolumn{3}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie vs Guardx2, Demon}} & \textbf{DPT} & \textbf{TTD Opponent} \\ \cline{2-6} 
+ & \multicolumn{3}{c|}{\textbf{Sophie}} & \multicolumn{2}{c|}{} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{3}{c|}{medium} & 3.02 & 4.03 \\ \hline
+ & \textbf{Guad1} & \textbf{Guard2} & \textbf{Demon} & \multicolumn{2}{c|}{} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Short & Short & Melee & 4.40 & 5.45 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Short & Medium & Melee & 4.05 & 5.92 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Medium & Short & Melee & 4.05 & 5.92 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Long & Short & Melee & 3.70 & 6.48 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Short & Long & Melee & 3.70 & 6.48 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Medium & Medium & Melee & 3.70 & 6.48 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Long & Medium & Melee & 3.35 & 7.16 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Medium & Long & Melee & 3.35 & 7.16 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\multirow{-9}{*}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}}} & Long & Long & Melee & 3.00 & 8.00 \\ \hline
+\end{tabular}
+\end{table}
+\subsection{Sophie vs Demonx2, Guardx1}
+\begin{table}[H]
+\begin{tabular}{c|c|c|c|c|c|}
+\cline{2-6}
+\rowcolor[HTML]{C0C0C0} 
+\cellcolor[HTML]{FFFFFF}\textbf{} & \multicolumn{3}{c|}{\cellcolor[HTML]{C0C0C0}\textbf{Sophie vs Demonx2, Guard}} & \textbf{DPT} & \textbf{TTD Opponent} \\ \cline{2-6} 
+ & \multicolumn{3}{c|}{\textbf{Sophie}} & \multicolumn{2}{c|}{} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}} & \multicolumn{3}{c|}{medium} & 3.02 & 4.03 \\ \hline
+ & \textbf{Guard} & \textbf{Demon1} & \textbf{Demon2} & \multicolumn{2}{c|}{} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Short & Melee & Melee & 4.07 & 5.89 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{C0C0C0}} & Medium & Melee & Melee & 3.77 & 6.36 \\ \cline{2-6} 
+\multicolumn{1}{|c|}{\multirow{-3}{*}{\cellcolor[HTML]{C0C0C0}\textbf{RANGE}}} & Long & Melee & Melee & 3.37 & 7.12 \\ \hline
 \end{tabular}
 \end{table}
