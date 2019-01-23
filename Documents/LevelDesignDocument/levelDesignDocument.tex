@@ -1,4 +1,4 @@
-\documentclass[12pt]{report}
+\documentclass[12pt,twoside,openright]{report}
 % PACKAGES
 \usepackage[a4paper,bindingoffset=0in,
             left=1in,right=1in,top=1in,bottom=1.5in,
@@ -24,6 +24,7 @@
 \usepackage{tabularx}
 \usepackage{longtable}
 \usepackage[autostyle]{csquotes}
+\usepackage{emptypage}
 
 \expandafter\def\expandafter\UrlBreaks\expandafter{\UrlBreaks%  save the current one
   \do\*\do\-\do\~\do\'\do\"\do\-}
@@ -64,11 +65,11 @@
 \begin{center}
   \begin{figure}[H]
     \centering
-    \vspace*{30pt}
+    \vspace*{10pt}
     \includegraphics[width=12cm]{../../Logos/logoTeam_big}
   \end{figure}
 
-  \vspace{50pt}
+  \vspace{70pt}
   
   \scalebox{1.5}{\contour{black}{\textbf{ \textcolor{white}{\huge Sophie's Flying Castle}}}}
   
@@ -94,8 +95,19 @@
     \textbf{Francesco Principe} & \underline{\href{mailto:francesco.principe@studenti.unimi.it}{francesco.principe@studenti.unimi.it}} & 937622 \\
     \textbf{Davide Valentini} & \underline{\href{mailto:davide.valentini1@studenti.unimi.it}{davide.valentini1@studenti.unimi.it}} & 939054 \\
     \textbf{Elena Coperchini} & \underline{\href{mailto:elena.coperchini@gmail.com}{elena.coperchini@gmail.com}} & \\
+    \multicolumn{3}{c}{} \\
+    \multicolumn{3}{c}{Website for references: \url{http://wastelandsteam.altervista.org/}} \\
+    \multicolumn{3}{c}{Password: \textit{gld18}} \\
 	\end{tabular}}
 \end{table}
+
+\clearpage
+\newpage
+\thispagestyle{empty}{}
+\mbox{~}
+\clearpage
+\newpage
+\setcounter{page}{1}
 
 \vspace*{20pt}
 
@@ -107,6 +119,13 @@
   \centering
   \includegraphics[width=\textwidth]{Images/Maps/dynamiaCover}
 \end{figure}
+
+%\clearpage
+%\newpage
+%\thispagestyle{empty}{}
+%\mbox{~}
+%\clearpage
+%\newpage
 
 
 \input{revisionHistory}
@@ -136,25 +155,5 @@
 \input{Audio/index}
 
 \input{Statistics/index}
-
-%\newpage
-%
-%\begin{center}
-%  \hspace{0pt}
-%
-%  \vspace{120pt}
-%  
-%  \scalebox{1.5}{ \textbf{ \large \textbf{\textit{Wastelands Team}}}}
-%  
-%  \vspace{30pt}
-%
-%  \scalebox{1.5}{\textbf{ \huge Sophie's Flying Castle}}
-%  
-%  \scalebox{1.5}{\textbf{ \Large \textbf{Dungeons \& Djinns}}}
-%  
-%  \vspace{30pt}
-%
-%  \scalebox{1.5}{ \textbf{ \large \textbf{\textit{Game and Level Design 2018/19}}}}
-%\end{center}
 
 \end{document}
