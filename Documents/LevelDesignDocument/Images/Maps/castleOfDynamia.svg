@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="castleOfDynamia.svg"
-   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\castleOfDynamiaPuzzles.png"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\castleOfDynamia.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -27,18 +27,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15595691"
-     inkscape:cx="566.09265"
-     inkscape:cy="1982.5113"
+     inkscape:zoom="0.22055638"
+     inkscape:cx="2583.7699"
+     inkscape:cy="1299.7664"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="cm"
      inkscape:snap-global="true"
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     showguides="false"
+     showguides="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-smooth-nodes="true"
@@ -59,11 +59,6 @@
        id="grid18"
        originx="3477.6657"
        originy="10774.155" />
-    <sodipodi:guide
-       position="-188.47604,2950.5331"
-       orientation="1,0"
-       id="guide4242"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -382,7 +377,7 @@
        fx="1029.9213"
        fy="942.99213"
        r="28.846495"
-       gradientTransform="matrix(1,0,0,0.99999874,-377.95136,5026.7765)"
+       gradientTransform="matrix(0.66697787,0,0,0.66697703,-34.964803,5340.8128)"
        gradientUnits="userSpaceOnUse" />
     <marker
        inkscape:isstock="true"
@@ -3146,19 +3141,6 @@
        y="4108.3394"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <g
-       style="display:inline;opacity:1;stroke-width:1.57758009"
-       id="g2003-2-6-8-4-4"
-       transform="matrix(0,-0.80361341,0.5,0,553.70148,6202.2838)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         sodipodi:nodetypes="ccscc"
-         inkscape:connector-curvature="0"
-         id="path1998-2-7-0-3-8"
-         d="m 557.48031,177.63776 37.57736,103.20448 c -14.32582,6.53824 -30.25055,10.18137 -47.02618,10.18137 -16.75834,0 -32.66753,-3.63562 -46.98188,-10.16117 l 37.53307,-103.22468"
-         style="opacity:1;fill:#b50000;fill-opacity:0.19607843;fill-rule:nonzero;stroke:#000000;stroke-width:1.57758009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-    </g>
     <rect
        style="display:inline;opacity:1;fill:#1a6fca;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect893-16-30-4"
@@ -3496,23 +3478,6 @@
          x="699.21295"
          y="5592.3047"
          style="font-size:64px;text-align:start;text-anchor:start;stroke:none">Reward</tspan></text>
-    <circle
-       r="18.897966"
-       cy="5761.8916"
-       cx="651.96985"
-       id="path1992-2"
-       style="display:inline;opacity:1;fill:#b50000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       transform="rotate(90)"
-       r="18.897966"
-       cy="-651.96954"
-       cx="5865.8198"
-       id="path1992-5-3"
-       style="display:inline;opacity:1;fill:#4a3d3d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -3525,7 +3490,7 @@
          id="tspan21780-1-9-5-0-0"
          x="699.21326"
          y="5780.7803"
-         style="font-size:64px;text-align:start;text-anchor:start;stroke:none">Guard with view</tspan></text>
+         style="font-size:64px;text-align:start;text-anchor:start;stroke:none">Guard with FOV</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -3538,7 +3503,7 @@
          id="tspan21780-1-9-5-0-43"
          x="699.21326"
          y="5884.7173"
-         style="font-size:64px;text-align:start;text-anchor:start;stroke:none">Demon with view</tspan></text>
+         style="font-size:64px;text-align:start;text-anchor:start;stroke:none">Demon with FOV</tspan></text>
     <circle
        r="37.795288"
        cy="5969.7568"
@@ -3563,8 +3528,8 @@
        id="path2580-6"
        cx="651.96985"
        cy="5969.7656"
-       rx="28.346495"
-       ry="28.346458"
+       rx="18.906485"
+       ry="18.90646"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -3579,7 +3544,7 @@
          id="tspan21780-1-9-5-0-43-9"
          x="699.21326"
          y="5988.6543"
-         style="font-size:64px;text-align:start;text-anchor:start;stroke:none">Level boss</tspan></text>
+         style="font-size:64px;text-align:start;text-anchor:start;stroke:none">Captain with FOV</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:0.19607843;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:10, 20;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker27866);paint-order:normal"
        d="m 633.07155,6073.6938 h 37.7953"
@@ -5606,12 +5571,45 @@
          x="699.21295"
          y="5100.4653"
          style="font-size:64px;text-align:start;text-anchor:start;stroke:none">Box</tspan></text>
-    <circle
-       r="37.795288"
-       cy="5865.8198"
-       cx="651.96918"
-       id="path2028-7-4-3-7"
-       style="display:inline;opacity:1;fill:#4a3d3d;fill-opacity:0.19607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       style="display:inline;opacity:1"
+       id="g2003-2-6-8-4-47"
+       transform="matrix(0,1,1,0,455.4338,5213.8513)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="ccscc"
+         inkscape:connector-curvature="0"
+         id="path1998-2-7-0-3-5"
+         d="m 557.48031,177.63776 37.57736,60.20259 c -14.32582,3.81398 -30.25055,5.93913 -47.02618,5.93913 -16.75834,0 -32.66753,-2.12077 -46.98188,-5.92734 l 37.53307,-60.21438"
+         style="opacity:1;fill:#b50000;fill-opacity:0.19607843;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         r="9.4488192"
+         cy="177.63776"
+         cx="548.03149"
+         id="path1992-7-1-0-7-5"
+         style="opacity:1;fill:#b50000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       style="display:inline;opacity:1"
+       id="g2032-1-8-7-7"
+       transform="translate(-66.141041,5612.5915)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         r="47.244095"
+         cy="253.22832"
+         cx="718.11023"
+         id="path2028-7-4-3-2"
+         style="opacity:1;fill:#4a3d3d;fill-opacity:0.19607843;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         transform="rotate(90)"
+         r="9.4488192"
+         cy="-718.11023"
+         cx="253.22832"
+         id="path1992-5-6-3-3-4"
+         style="opacity:1;fill:#4a3d3d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8474,7 +8472,7 @@
          sodipodi:role="line"
          id="tspan1935"
          x="2372.1538"
-         y="2062.1848"></tspan></text>
+         y="2062.1848" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
