@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="medicalOffice.svg"
-   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\medicalOffice.png"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\medicalOfficeLighting.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -27,14 +27,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8822255"
-     inkscape:cx="2113.7594"
-     inkscape:cy="2884.8128"
+     inkscape:zoom="0.44111275"
+     inkscape:cx="1462.0554"
+     inkscape:cy="2807.3705"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      units="cm"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -1824,7 +1824,7 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect23478"
        width="566.92914"
-       height="1209.4489"
+       height="1285.0392"
        x="585.82745"
        y="4108.3394"
        inkscape:export-xdpi="96"
@@ -2472,12 +2472,31 @@
        height="151.18083"
        x="-226.77097"
        y="4278.4185" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="699.21295"
+       y="5355.5835"
+       id="text346"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan344"
+         x="699.21295"
+         y="5355.5835"
+         style="font-size:53.33333206px;text-align:start;text-anchor:start;stroke:none">Doctor</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#2ab520;fill-opacity:1;stroke:#000000;stroke-width:3.92156863;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 650.70493,5369.4161 c -0.17602,-0.8718 -0.67218,-3.5865 -1.10259,-6.0327 -1.08242,-6.1514 -4.65659,-14.6538 -9.29398,-22.109 -6.53953,-10.513 -8.49122,-15.025 -8.49122,-19.6299 0,-7.4421 6.62342,-16.0096 14.04478,-18.1671 10.70129,-3.1109 21.19173,1.9336 25.03048,12.0363 2.59267,6.8233 1.20951,12.7615 -5.3624,23.0212 -6.65295,10.3863 -9.9046,18.1088 -11.42539,27.1345 -0.60224,3.5743 -1.12974,4.9562 -1.95246,5.1146 -0.72319,0.1392 -1.24196,-0.3511 -1.44722,-1.3679 z"
+       id="path5105-02-2-5-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Lighting"
-     style="display:none">
+     style="display:inline">
     <ellipse
        style="display:inline;opacity:1;fill:#fffa44;fill-opacity:0.6295181;stroke:none;stroke-width:0.47999969;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2582-4-1-7"

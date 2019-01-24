@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="castleOfDynamia.svg"
-   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\castleOfDynamia.png"
+   inkscape:export-filename="D:\Varie\Team delle Lande\teamdellelande\Documents\LevelDesignDocument\Images\Maps\castleOfDynamiaRewardsMapping.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -28,10 +28,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22055638"
-     inkscape:cx="2583.7699"
-     inkscape:cy="1299.7664"
+     inkscape:cx="1331.1007"
+     inkscape:cy="1474.416"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer13"
      showgrid="true"
      units="cm"
      inkscape:snap-global="true"
@@ -11882,7 +11882,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Mapping delle reward"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.77009225;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1573-7"
@@ -11990,15 +11990,15 @@
        id="rect1573-7-19"
        width="311.233"
        height="180.66496"
-       x="2644.824"
-       y="2763.0613"
+       x="2683.9648"
+       y="2760.5493"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot1706-6-7-70"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38780594"
-       transform="matrix(2.5703213,0,0,2.5869242,1471.7168,795.22911)"
+       transform="matrix(2.5703213,0,0,2.5869242,1510.8578,792.71739)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><flowRegion
          id="flowRegion1708-3-6-4"
