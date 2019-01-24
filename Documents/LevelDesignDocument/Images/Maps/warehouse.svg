@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22055638"
-     inkscape:cx="2705.9497"
-     inkscape:cy="2417.2373"
+     inkscape:zoom="0.62382765"
+     inkscape:cx="4247.6729"
+     inkscape:cy="2817.8071"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -3821,7 +3821,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Building"
-     style="display:none">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        style="display:inline;opacity:1;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -3928,6 +3928,19 @@
          y="489.43533"
          style="font-size:42.66666794px;text-align:center;text-anchor:middle;stroke:none"
          id="tspan1185-7-2-9">40m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.60298777;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="4356.4058"
+       y="29.840736"
+       id="text21782-1-7-5-1-4-3-1-0-0-2-6-0-8-7-4-7-8-3"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="4356.4058"
+         y="29.840736"
+         style="font-size:42.66666794px;text-align:start;text-anchor:start;stroke:none"
+         id="tspan1185-7-2-9-0">Guards with FOV</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
