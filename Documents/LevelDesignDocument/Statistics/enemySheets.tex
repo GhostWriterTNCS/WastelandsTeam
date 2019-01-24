@@ -1,15 +1,40 @@
 \section{Enemy sheets}
 
-The statistics for each enemy are based on the expected outcomes for each fight available in the level. By this way we could establish many degree of difficulty for various situations:
+The statistics for each enemy are based on the expected outcomes for each fight available in the level. In this way we can establish many degrees of difficulty for various situations based on the minum number of turns needed by the enemies to defeat her in the worse case:
+\begin{itemize}
+  \item very easy: turns > 15
+  \item easy: 13.50 < turns $\le$ 15
+  \item medium: 11 < turns $\le$ 13.50
+  \item medium-hard: 9.50 < turns $\le$ 11
+    \item hard: turns $\le$ 9.50
+\end{itemize}
+So, these are the difficulty for each fight:
 \begin{itemize}
 \item Demon: very easy
 \item Guard: very easy
-\item Demon x2: easy
-\item Guard x2: medium-easy
-\item Guard and Demon: medium
-\item Guard and Demon x2: medium
-\item Guard x2 and Demon: medium-hard
-\item Captain: hard
+\item Captain:
+  \begin{enumerate}
+  \item short range: hard
+  \item medium range: medium-hard
+  \item long range:  medium
+  \end{enumerate}
+\item Guard x2:
+  \begin{enumerate}
+   \item short range \& short range: hard
+   \item medium range \& short range: hard
+   \item medium range \& medium range: medium-hard
+   \item medium range \& long range: medium
+   \item long range \& short range:  medium-hard
+   \item long range \& long range: easy
+   \end{enumerate}
+ \item Guard and Demon:
+   \begin{enumerate}
+    \item short range \& melee range: hard
+   \item medium range \& melee range: medium-hard
+   \item long range \& melee range: medium
+    \end{enumerate}
+  \item Guard x2 and Demon: hard
+  \item Guard and Demon x2: hard
 \end{itemize}
 
 The player cannot encounter more than three enemies at the same time in this level.
